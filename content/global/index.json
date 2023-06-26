@@ -1,20 +1,24 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
+      "name": "Robot",
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
-    "color": "default",
+    "name": "PlayBern",
+    "color": "yellow",
     "nav": [
       {
         "href": "",
-        "label": "Home"
+        "label": "Festival"
+      },
+      {
+        "href": "theme",
+        "label": "Themen"
       },
       {
         "href": "about",
-        "label": "About"
+        "label": "Verein"
       },
       {
         "href": "posts",

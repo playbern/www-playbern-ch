@@ -1,13 +1,9 @@
 ---
-title: Tina Cloud Starter
+title: PlayBern
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: Games & Kultur
     text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+      Einmal pro Jahr präsentiert PlayBern an einem mehrtägigen Festival aktuelle Ideen und Entdeckungen. Du willst mitspielen? Check' unsere Angebote, melde Dich via info@playbern.ch oder vernetze Dich mit uns auf unserem Discord-Kanal!
     actions:
       - label: Get Started
         type: button
@@ -18,10 +14,9 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/unsplash-75EFpyXu3Wg.jpg
+      src: https://playbern.ch/wp-content/uploads/2022/11/header2x-2048x591.png
       alt: >-
-        Photo of palm trees at sunset by Adam Birkett -
-        unsplash.com/photos/75EFpyXu3Wg
+        Header
     color: default
     _template: hero
   - items:
@@ -29,24 +24,22 @@ blocks:
           name: BiCodeBlock
           color: red
           style: float
-        title: Amazing Feature
+        title: Education
         text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+          Generationenübergreifende Gamekunst-Vermittlung
       - icon:
           name: BiLike
           color: primary
           style: float
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: Accessibility
+        text: Barrierefreies Gamen
       - icon:
           name: BiPalette
           color: green
           style: float
-        title: Configurable Theme
+        title: Art
         text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+          Gameprojekte in Kunst und Kultur
     color: tint
     _template: features
   - quote: >-
@@ -57,5 +50,16 @@ blocks:
     _template: testimonial
 ---
 
+# Was?
 
+PlayBern ist auf drei Schwerpunkte fokussiert: „Games & Education", „Games & Accessibility" sowie „Games & Art".
 
+# Wer?
+
+Wir sind eine Gruppe von Gamer:innen mit unterschiedlichem Hintergrund und mit breiten Interessen. Wir sind offen für Interessierte jeden Alters, egal ob mit oder ohne Game-Erfahrung.
+
+# Wie?
+
+Rund um unsere Schwerpunkte finden das ganze Jahr über Veranstaltungen statt: Spielnachmittage, Präsentationen, Diskussionen ... Einmal pro Jahr präsentiert PlayBern an einem mehrtägigen Festival aktuelle Ideen und Entdeckungen.
+
+Du willst mitspielen? Check' unsere Angebote, melde Dich via <info@playbern.ch> oder vernetze Dich mit uns auf unserem [Discord-Kanal](https://discord.gg/y9GSpsw)!
