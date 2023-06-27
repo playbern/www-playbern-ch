@@ -3,7 +3,10 @@ title: PlayBern
 blocks:
   - headline: Games & Kultur
     text: >
-      Einmal pro Jahr präsentiert PlayBern an einem mehrtägigen Festival aktuelle Ideen und Entdeckungen. Du willst mitspielen? Check' unsere Angebote, melde Dich via info@playbern.ch oder vernetze Dich mit uns auf unserem Discord-Kanal!
+      Einmal pro Jahr präsentiert PlayBern an einem mehrtägigen Festival
+      aktuelle Ideen und Entdeckungen. Du willst mitspielen? Check' unsere
+      Angebote, melde Dich via info@playbern.ch oder vernetze Dich mit uns auf
+      unserem Discord-Kanal!
     actions:
       - label: Get Started
         type: button
@@ -14,9 +17,8 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: https://playbern.ch/wp-content/uploads/2022/11/header2x-2048x591.png
-      alt: >-
-        Header
+      src: /uploads/Screenshot from 2023-06-27 08-39-40.png
+      alt: Header
     color: default
     _template: hero
   - items:
@@ -25,8 +27,7 @@ blocks:
           color: red
           style: float
         title: Education
-        text: >-
-          Generationenübergreifende Gamekunst-Vermittlung
+        text: Generationenübergreifende Gamekunst-Vermittlung
       - icon:
           name: BiLike
           color: primary
@@ -38,8 +39,7 @@ blocks:
           color: green
           style: float
         title: Art
-        text: >-
-          Gameprojekte in Kunst und Kultur
+        text: Gameprojekte in Kunst und Kultur
     color: tint
     _template: features
   - quote: >-
@@ -49,6 +49,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 # Was?
 
