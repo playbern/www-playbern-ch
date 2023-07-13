@@ -43,12 +43,13 @@ blocks:
     color: tint
     _template: features
   - quote: >-
-      There are only two hard things in Computer Science: cache invalidation and
-      naming things.
-    author: Phil Karlton
+      “Shadow and light are two sides of the same coin. One cannot exist without
+      the other.”
+    author: 'The Legend of Zelda: Twilight Princess'
     color: primary
     _template: testimonial
 ---
+
 
 
 # Was?
