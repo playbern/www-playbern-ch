@@ -8,7 +8,7 @@ blocks:
       - label: Game-Tipps Festival 2022
         type: button
         icon: false
-        link: /
+        link: /gameTipsFestival2022
       - label: Bildergalerie
         type: button
         icon: false
@@ -148,6 +148,7 @@ blocks:
       [mehr](https://playbern.ch/index.html%3Fp=2103.html)
     _template: content
 ---
+
 
 
 
