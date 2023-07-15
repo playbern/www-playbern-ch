@@ -24,7 +24,7 @@ blocks:
       - label: Team
         type: button
         icon: false
-        link: /
+        link: /team
     image:
       src: /uploads/playbern-Icon_EDUCATION-1500x1500.png
     _template: hero
@@ -148,6 +148,7 @@ blocks:
       [mehr](https://playbern.ch/index.html%3Fp=2103.html)
     _template: content
 ---
+
 
 
 
