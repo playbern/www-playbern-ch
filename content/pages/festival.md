@@ -16,7 +16,7 @@ blocks:
       - label: Medienecho
         type: button
         icon: false
-        link: /
+        link: /medienecho
       - label: Danke & Partner
         type: button
         icon: false
@@ -148,6 +148,7 @@ blocks:
       [mehr](https://playbern.ch/index.html%3Fp=2103.html)
     _template: content
 ---
+
 
 
 
