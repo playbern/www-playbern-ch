@@ -20,7 +20,7 @@ blocks:
       - label: Danke & Partner
         type: button
         icon: false
-        link: /
+        link: /dankePartner
       - label: Team
         type: button
         icon: false
@@ -148,6 +148,7 @@ blocks:
       [mehr](https://playbern.ch/index.html%3Fp=2103.html)
     _template: content
 ---
+
 
 
 
