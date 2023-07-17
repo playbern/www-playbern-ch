@@ -1,20 +1,28 @@
 {
   "header": {
     "icon": {
-      "name": "Robot",
-      "color": "orange",
+      "name": "Tina",
+      "color": "blue",
       "style": "float"
     },
     "name": "PlayBern",
     "color": "yellow",
     "nav": [
       {
-        "href": "",
+        "href": "festival",
         "label": "Festival"
       },
       {
-        "href": "theme",
-        "label": "Themen"
+        "href": "education",
+        "label": "Education"
+      },
+      {
+        "href": "accessibility",
+        "label": "Accessibility"
+      },
+      {
+        "href": "art",
+        "label": "Art"
       },
       {
         "href": "about",
@@ -23,6 +31,14 @@
       {
         "href": "posts",
         "label": "Blog"
+      },
+      {
+        "href": "theme",
+        "label": "Themen"
+      },
+      {
+        "href": "contact",
+        "label": "Kontakt"
       }
     ]
   },
