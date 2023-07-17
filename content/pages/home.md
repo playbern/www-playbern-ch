@@ -2,7 +2,7 @@
 title: PlayBern
 blocks:
   - body: >
-      # Festival 2023
+      # PlayBern Festival 2023
 
 
       ![](</uploads/Screenshot from 2023-06-27 08-39-40.png>)
@@ -44,9 +44,6 @@ blocks:
       Games» und «Interaktive Projekte» bewertet:
 
 
-
-
-
       * Altersgruppe 1: 8 – 12 Jahre
 
       * Altersgruppe 2: 13 – 16 Jahre
@@ -71,9 +68,41 @@ blocks:
 
 
       info@playbern.ch
-    color: tint
+
+
+      Programm & Produktion
+
+
+      Bettina Wegenast\
+
+      bettina@playbern.ch\
+
+      +41 78 888 55 21
+
+
+      Medien & Kommunikation\
+
+      Vakant
+
+
+      Verein\
+
+      Philipp Wegenast\
+
+      [philipp@playbern.ch](mailto:philipp@playbern.ch)
+
+
+      Technik/ Site\
+
+      Oleg Lavrovsky
+    color: default
     _template: content
 ---
+
+
+
+
+
 
 
 
