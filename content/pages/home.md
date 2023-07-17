@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - body: >+
+  - body: >
       # PlayBern Festival 2023
 
 
@@ -95,11 +95,11 @@ blocks:
       Technik/ Site\
 
       Oleg Lavrovsky
-
-
-    color: tint
+    color: default
     _template: content
 ---
+
+
 
 
 
