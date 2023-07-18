@@ -1,0 +1,37 @@
+name: NodeJS for Tina
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Build TinaCMS
+      env:
+        TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+        TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+      run: npx tinacms build
+      
+    - name: SFTP Deploy
+      uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+      with:
+        username: ${{ secrets.FTP_USER }}
+        server: ${{ secrets.FTP_HOST }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local_path: './build/*'
