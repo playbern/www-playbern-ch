@@ -29,6 +29,7 @@ jobs:
       env:
         TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
         TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        NEXT_PUBLIC_TINA_BRANCH: ${{ secrets.NEXT_PUBLIC_TINA_BRANCH }}
       run: yarn run build
       
     - name: SFTP Deploy
