@@ -1,4 +1,4 @@
-name: NodeJS for Tina
+name: Tina Production build
 
 on:
   push:
@@ -21,28 +21,17 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        
-    - name: Get yarn cache directory path
-      id: yarn-cache-dir-path
-      run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
-
-    - uses: actions/cache@v3
-      id: yarn-cache
-      with:
-        path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-        key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-yarn-
-    
+        cache: 'yarn'
+            
     - name: Install dependencies
-      run: yarn install
+      run: yarn
 
     - name: Build TinaCMS
       env:
         TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
         TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         NEXT_PUBLIC_TINA_BRANCH: ${{ secrets.NEXT_PUBLIC_TINA_BRANCH }}
-      run: yarn run build
+      run: yarn export
       
     - name: SFTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
@@ -50,4 +39,4 @@ jobs:
         server: ${{ secrets.FTP_HOST }}
         username: ${{ secrets.FTP_USER }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: '.next/'
+        local-dir: 'out/'
