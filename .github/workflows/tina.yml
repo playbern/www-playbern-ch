@@ -26,7 +26,7 @@ jobs:
       env:
         TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
         TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
-      run: npx tinacms build
+      run: npm run build
       
     - name: SFTP Deploy
       uses: wlixcc/SFTP-Deploy-Action@v1.2.4
