@@ -8,7 +8,7 @@ blocks:
       ![](</uploads/Screenshot from 2023-06-27 08-39-40.png>)
 
 
-      Gamen macht Spass. Aber in Games steckt noch viel mehr!
+      **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
 
 
       Seit 2019 findet in Bern jeweils im Spätsommer das PlayBern-Festival
@@ -18,8 +18,13 @@ blocks:
       Alters, egal ob mit oder ohne Game-Hintergrund.
 
 
-      Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder im
-      Progr statt.
+      **Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder
+      im Progr im Zentrum von Bern statt.**
+
+
+      **Das diesjährige Thema ist “Diversität”. Damit meinen wir Diversität
+      sowohl in Games, als auch in Gaming-Tools, in Game-Figuren und in
+      Game-Mechanics.**
 
 
       Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
@@ -38,8 +43,8 @@ blocks:
       Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
 
 
-      Am Wettbewerb können Kinder und Jugendliche teilnehmen, die in der
-      Schweiz wohnen und die selber Games kreieren. Die Games werden in zwei
+      **Am Wettbewerb können Kinder und Jugendliche teilnehmen, die in der
+      Schweiz wohnen und die selber Games kreieren.** Die Games werden in zwei
       unterschiedlichen Altersgruppen und in den beiden Kategorien «Digitale
       Games» und «Interaktive Projekte» bewertet:
 
@@ -53,43 +58,84 @@ blocks:
       möglich.
 
 
-      Anmeldeschluss: Sonntag, 27. August 2023 per
+      **Anmeldeschluss: Sonntag, 27. August 2023 per**
       [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+
+
+      **Helfer:innen für das Gaming Festival PlayBern gesucht:**\
+
+      **15.-17. September 2023, im Progr Bern**
+
+      -----------------------------------------
+
+
+      Das PlayBern-Festival bietet eine bunte Mischung aus Spielen, Entdecken,
+      Ausprobieren, Programmieren und Diskutieren. Es gibt Workshops,
+      Ausstellungen, Games zum Ausprobieren, Wettbewerbe und ein Kinder-
+      programm. Das Festivalprogramm richtet sich an Interessierte jeden Alters,
+      egal ob mit oder ohne Game-Hintergrund.
+
+
+      **Für während den Festivaltagen suchen wir Helfer:innen, die bei der
+      Kasse, in den vier Festival- Ausstellungsräumen oder zum Auf- und Abbau
+      helfen.**
+
+
+      \
+
+      **Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr**
+
+
+      **Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr**
+
+
+      Wir bezahlen 15.- pro Stunde, es gibt tagsüber Verpflegung und natürlich
+      das ganze Wochenende freier Eintritt&#x9;
+
+
+      Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
+      Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
 
 
       # Kontakt
 
 
-      PlayBern\
+      **PlayBern**\
 
       Buristrasse 53\
 
-      3006 Bern
-
+      3006 Bern\
 
       info@playbern.ch
 
 
-      Programm & Produktion
-
+      **Programm & Produktion**\
 
       Bettina Wegenast\
 
-      bettina@playbern.ch\
-
-      +41 78 888 55 21
+      bettina@playbern.ch
 
 
-      Medien & Kommunikation\
+      **Medien & Kommunikation**\
 
-      Vakant
+      Vera Stierli\
+
+      Saphir Ben Dakon\
+
+      press@playbern.ch
 
 
-      Verein\
+      **Verein**\
 
       Philipp Wegenast\
 
-      [philipp@playbern.ch](mailto:philipp@playbern.ch)
+      info@playbern.ch
+
+
+      **Organisation Helfer:innen:** mstoppia@gmx.ch
+
+
+      **ACHTUNG. DIESE SITE WIRD MOMENTAN ÜBERARBEITET. UPDATES FOLGEN**
 
 
       Technik/ Site\
@@ -98,19 +144,6 @@ blocks:
     color: default
     _template: content
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Was?
 
