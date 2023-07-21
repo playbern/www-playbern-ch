@@ -1,6 +1,6 @@
 # PlayBern.ch 
 
-WIP
+WIP.
 
 ## Requirements
 
