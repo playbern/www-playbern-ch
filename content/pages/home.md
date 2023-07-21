@@ -1,6 +1,10 @@
 ---
 title: PlayBern
 blocks:
+  - quote: 'https://www.youtube.com/embed/-NeFLn55Wpg'
+    author: ''
+    color: primary
+    _template: video
   - body: >
       # PlayBern Festival 2023
 
@@ -144,6 +148,10 @@ blocks:
     color: default
     _template: content
 ---
+
+
+
+
 
 # Was?
 
