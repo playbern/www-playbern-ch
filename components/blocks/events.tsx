@@ -3,17 +3,17 @@ import { Container } from "../util/container";
 import { Icon } from "../util/icon";
 import { iconSchema } from "../util/icon";
 import {
-  PageBlocksEvent,
-  PageBlocksEventItems,
+  PageBlocksEvents,
+  PageBlocksEventsItems,
 } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
 
-export const Feature = ({
-  featuresColor,
+export const Event = ({
+  eventsColor,
   data,
 }: {
-  featuresColor: string;
-  data: PageBlocksEventItems;
+  eventsColor: string;
+  data: PageBlocksEventsItems;
 }) => {
   return (
     <div
@@ -24,7 +24,7 @@ export const Feature = ({
       {data.icon && (
         <Icon
           tinaField={tinaField(data, "icon")}
-          parentColor={featuresColor}
+          parentColor={eventsColor}
           data={{ size: "large", ...data.icon }}
         />
       )}
@@ -48,7 +48,7 @@ export const Feature = ({
   );
 };
 
-export const Event = ({ data }: { data: PageBlocksEvent }) => {
+export const Events = ({ data }: { data: PageBlocksEvents }) => {
   return (
     <Section color={data.color}>
       <Container
@@ -57,7 +57,7 @@ export const Event = ({ data }: { data: PageBlocksEvent }) => {
       >
         {data.items &&
           data.items.map(function (block, i) {
-            return <Feature featuresColor={data.color} key={i} data={block} />;
+            return <Event eventsColor={data.color} key={i} data={block} />;
           })}
       </Container>
     </Section>
@@ -65,7 +65,7 @@ export const Event = ({ data }: { data: PageBlocksEvent }) => {
 };
 
 const defaultEvent = {
-  title: "Here's Another Feature",
+  title: "Event Title",
   text: "This is where you might talk about the feature, if this wasn't just filler text.",
   icon: {
     color: "",
@@ -75,8 +75,8 @@ const defaultEvent = {
 };
 
 export const eventBlockSchema = {
-  name: "event",
-  label: "Event",
+  name: "events",
+  label: "Events",
   ui: {
     previewSrc: "/blocks/features.png",
     defaultItem: {
