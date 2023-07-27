@@ -5,7 +5,7 @@
       "style": "float"
     },
     "name": "PlayBern",
-    "color": "yellow",
+    "color": "primary",
     "nav": [
       {
         "href": "theme",
