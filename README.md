@@ -1,10 +1,10 @@
 # PlayBern.ch 
 
-![tina-cloud-starter-demo](https://user-images.githubusercontent.com/103008/130587027-995ccc45-a852-4f90-b658-13e8e0517339.gif)
-
-This site is powered by [TinaCMS](https://app.tina.io) for you and your team to visually live edit the structured content of your website. ✨
+WIP.
 
 ## Requirements
+
+This site is powered by [TinaCMS](https://app.tina.io) 
 
 - Git, [Node.js Active LTS](https://nodejs.org/en/about/releases/), Yarn installed for local development.
 - A [TinaCMS](https://app.tina.io) account for live editing.
@@ -35,7 +35,7 @@ yarn dev
 Replace the `.env.example`, with `.env`
 
 ```
-NEXT_PUBLIC_TINA_CLIENT_ID=<get this from the project you create at app.tina.io>
+TINA_PUBLIC_CLIENT_ID=<get this from the project you create at app.tina.io>
 TINA_TOKEN=<get this from the project you create at app.tina.io>
 NEXT_PUBLIC_TINA_BRANCH=<Specify the branch with Tina configured>
 ```

@@ -8,7 +8,6 @@ blocks:
   - body: >
       # PlayBern Festival 2023
 
-
       ![](</uploads/Screenshot from 2023-06-27 08-39-40.png>)
 
 
@@ -22,13 +21,14 @@ blocks:
       Alters, egal ob mit oder ohne Game-Hintergrund.
 
 
-      **Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder
-      im Progr im Zentrum von Bern statt.**
+      #### Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder
+      im Progr im Zentrum von Bern statt.
 
 
-      **Das diesjährige Thema ist “Diversität”. Damit meinen wir Diversität
+
+      Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
       sowohl in Games, als auch in Gaming-Tools, in Game-Figuren und in
-      Game-Mechanics.**
+      Game-Mechanics.
 
 
       Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
@@ -37,9 +37,7 @@ blocks:
       [Rückblick PlayBern
       2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
 
-
       ## **Der Kinder-Game-Wettbewerb 2023**
-
 
       Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung
       einen Wettbewerb für von Kindern eigenständig entwickelte Games
@@ -65,12 +63,9 @@ blocks:
       **Anmeldeschluss: Sonntag, 27. August 2023 per**
       [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
 
-
-      **Helfer:innen für das Gaming Festival PlayBern gesucht:**\
+      ## Helfer:innen gesucht
 
       **15.-17. September 2023, im Progr Bern**
-
-      -----------------------------------------
 
 
       Das PlayBern-Festival bietet eine bunte Mischung aus Spielen, Entdecken,
@@ -85,26 +80,24 @@ blocks:
       helfen.**
 
 
-      \
-
-      **Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr**
+      * Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr
 
 
-      **Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr**
+      * Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr
 
 
       Wir bezahlen 15.- pro Stunde, es gibt tagsüber Verpflegung und natürlich
-      das ganze Wochenende freier Eintritt&#x9;
+      das ganze Wochenende freier Eintritt.
 
 
       Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
       Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
 
-
       # Kontakt
 
 
-      **PlayBern**\
+      **PlayBern**
+
 
       Buristrasse 53\
 
@@ -113,14 +106,16 @@ blocks:
       info@playbern.ch
 
 
-      **Programm & Produktion**\
+      **Programm & Produktion**
+
 
       Bettina Wegenast\
 
       bettina@playbern.ch
 
 
-      **Medien & Kommunikation**\
+      **Medien & Kommunikation**
+
 
       Vera Stierli\
 
@@ -129,22 +124,28 @@ blocks:
       press@playbern.ch
 
 
-      **Verein**\
+      **Verein**
+
 
       Philipp Wegenast\
 
       info@playbern.ch
 
 
-      **Organisation Helfer:innen:** mstoppia@gmx.ch
+      **Organisation Helfer:innen** 
 
 
-      **ACHTUNG. DIESE SITE WIRD MOMENTAN ÜBERARBEITET. UPDATES FOLGEN**
+      mstoppia@gmx.ch
 
 
-      Technik/ Site\
+      **Technik**
+
 
       Oleg Lavrovsky
+
+
+      ### _ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN DEMNÄCHST FOLGEN._
+
     color: default
     _template: content
 ---

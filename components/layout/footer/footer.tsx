@@ -122,7 +122,6 @@ export const Footer = ({ data, icon, rawData }) => {
               </a>
             )}
           </div>
-          <RawRenderer parentColor={data.color} rawData={rawData} />
         </div>
         <div
           className={`absolute h-1 bg-gradient-to-r from-transparent ${
