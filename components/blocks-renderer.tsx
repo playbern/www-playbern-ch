@@ -5,6 +5,7 @@ import { Hero } from "./blocks/hero";
 import { Testimonial } from "./blocks/testimonial";
 import { Video } from "./blocks/video";
 import { Events } from "./blocks/events";
+import { Nav } from "./blocks/nav";
 import { tinaField } from "tinacms/dist/react";
 
 export const Blocks = (props: Omit<Page, "id" | "_sys" | "_values">) => {
@@ -37,6 +38,8 @@ const Block = (block: PageBlocks) => {
       return <Video data={block} />;
     case "PageBlocksEvents":
       return <Events data={block} />;
+    case "PageBlocksNav":
+      return <Nav data={block} />;
     default:
       return null;
   }
