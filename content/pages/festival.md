@@ -9,12 +9,13 @@ blocks:
         link: /
       - label: Action Label
         type: button
-        icon: true
+        icon: false
         link: /
       - label: Action Label
         type: button
-        icon: true
+        icon: false
         link: /
+    color: tint
     _template: nav
   - tagline: ''
     headline: ''
@@ -43,34 +44,6 @@ blocks:
     image:
       src: /uploads/playbern-Icon_EDUCATION-1500x1500.png
     _template: hero
-  - body: >
-      # Festival
-
-
-      Gamen macht Spass. Aber in Games steckt noch viel mehr!
-
-
-      Seit 2019 findet in Bern jeweils im Spätsommer das PlayBern-Festival
-      statt. Geboten wird eine bunte Mischung aus Spielen, Entdecken,
-      Ausprobieren, Programmieren, Diskutieren … Im Zentrum stehen ungewöhnliche
-      Games und sperrige Ideen.
-
-
-      Das Festival richtet sich an Interessierte jeden Alters, egal ob mit oder
-      ohne Game-Hintergrund. Von 2019 bis 2021 fand PlayBern in der Grossen
-      Halle der Reitschule Bern statt, seit 2022 im Kulturhaus Progr am
-      Waisenhausplatz.
-
-
-      Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder im
-      Progr statt.
-
-
-      ![](/uploads/PlayBern-Sujet2022-1088x1536.jpg)
-
-
-      Ausschreibungen & News
-    _template: content
   - items:
       - image:
           src: /uploads/Screenshot from 2023-06-27 08-39-40.png
@@ -197,7 +170,40 @@ blocks:
 
           [mehr](https://playbern.ch/index.html%3Fp=3525.html)
     _template: events
+  - body: >
+      # Festival
+
+
+      Gamen macht Spass. Aber in Games steckt noch viel mehr!
+
+
+      Seit 2019 findet in Bern jeweils im Spätsommer das PlayBern-Festival
+      statt. Geboten wird eine bunte Mischung aus Spielen, Entdecken,
+      Ausprobieren, Programmieren, Diskutieren … Im Zentrum stehen ungewöhnliche
+      Games und sperrige Ideen.
+
+
+      Das Festival richtet sich an Interessierte jeden Alters, egal ob mit oder
+      ohne Game-Hintergrund. Von 2019 bis 2021 fand PlayBern in der Grossen
+      Halle der Reitschule Bern statt, seit 2022 im Kulturhaus Progr am
+      Waisenhausplatz.
+
+
+      Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder im
+      Progr statt.
+
+
+      ![](/uploads/PlayBern-Sujet2022-1088x1536.jpg)
+
+
+      Ausschreibungen & News
+    _template: content
 ---
+
+
+
+
+
 
 
 

@@ -22,8 +22,7 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
 
     return (
         <Section color={data.color}>
-            <Container size="small" className="py-0">
-                                
+            <Container size="small" className="py-0">            
             {data.actions && (
                 <div className="grid py-0 justify-items-center">
                     <NavActions
@@ -34,9 +33,9 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
 
             {data.headline && (
                 <h3 data-tina-field={tinaField(data, "headline")}
-                    className={`mb-10 text-2xl pt-0 pb-0 font-extrabold tracking-normal leading-tight title-font text-center`}>
+                    className={`mb-10 text-2xl pt-10 pb-0 font-extrabold tracking-normal leading-tight title-font text-center`}>
                     <span
-                        className={`bg-clip-text pt-0 text-transparent bg-gradient-to-r   ${data.color === "primary"
+                        className={`bg-clip-text text-transparent bg-gradient-to-r   ${data.color === "primary"
                                 ? `from-white to-gray-100`
                                 : headlineColorClasses[theme.color]
                             }`} >
@@ -44,7 +43,6 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
                     </span>
                 </h3>
             )}  
-
             </Container>
         </Section>
     );
