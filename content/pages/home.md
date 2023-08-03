@@ -4,6 +4,7 @@ blocks:
   - body: >
       # PlayBern Festival 2023
 
+
       ![](</uploads/Screenshot from 2023-06-27 08-39-40.png>)
 
 
@@ -17,9 +18,8 @@ blocks:
       Alters, egal ob mit oder ohne Game-Hintergrund.
 
 
-      #### Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder
-      im Progr im Zentrum von Bern statt.
-
+      #### Das nächste PlayBern-Festival findet vom 15. – 17. September 23
+      wieder im Progr im Zentrum von Bern statt.
 
 
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
@@ -28,12 +28,13 @@ blocks:
 
 
       Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
-      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz: [Rückblick
-      PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
-      [Rückblick PlayBern
-      2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
+      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick:
+      [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
+      [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
+
 
       ## **Der Kinder-Game-Wettbewerb 2023**
+
 
       Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung
       einen Wettbewerb für von Kindern eigenständig entwickelte Games
@@ -59,7 +60,9 @@ blocks:
       **Anmeldeschluss: Sonntag, 27. August 2023 per**
       [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
 
+
       ## Helfer:innen gesucht
+
 
       **15.-17. September 2023, im Progr Bern**
 
@@ -78,7 +81,6 @@ blocks:
 
       * Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr
 
-
       * Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr
 
 
@@ -88,6 +90,7 @@ blocks:
 
       Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
       Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
+
 
       # Kontakt
 
@@ -128,7 +131,7 @@ blocks:
       info@playbern.ch
 
 
-      **Organisation Helfer:innen** 
+      **Organisation Helfer:innen**
 
 
       mstoppia@gmx.ch
@@ -140,11 +143,12 @@ blocks:
       Oleg Lavrovsky
 
 
-      ### _ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN DEMNÄCHST FOLGEN._
-
+      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN
+      DEMNÄCHST FOLGEN.*
     color: default
     _template: content
 ---
+
 
 # Was?
 
