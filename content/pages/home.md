@@ -120,7 +120,7 @@ blocks:
 
       Saphir Ben Dakon\
 
-      press@playbern.ch
+      saphir.bendakon@bluewin.ch
 
 
       **Verein**
