@@ -1,25 +1,28 @@
 
 
 
+
+
+
+const defaultImage = {
+  src: "/blocks/features.png",
+  alt: "Gallery image"
+}
+
 export const galleryBlockSchema = {
     name:"gallery",
     label: "Gallery",
     ui: {
         previewSrc: "/blocks/features.png",
         defaultItem: {
-            title: "This is The Gallery Title",
+            items:[defaultImage, defaultImage, defaultImage]
         },
     },
     fields:[
         {
-            type: "string",
-            label: "title",
-            name: "title",
-        },
-        {
             type: "object",
-            label: "Image",
-            name: "image",
+            label: "GalleryItems",
+            name: "items",
             list: true,
             fields: [
               {
