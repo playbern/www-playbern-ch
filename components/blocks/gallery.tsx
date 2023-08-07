@@ -12,35 +12,15 @@ export const Image = ({
   data: PageBlocksGalleryItems;
 }) => {
   return (
-    <div
-      data-tina-field={tinaField(data)}
-      parentColor={imageColor}
-      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
-      style={{ flexBasis: "16rem" }}
-    >
-      {data.src && (
-        <h3
+    <div data-tina-field={tinaField(data)} className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto" style={{ flexBasis: "16rem" }}>
+
+    {data.src && (
+        <img
         data-tina-field={tinaField(data, "src")}
-        className="text-2xl font-semibold title-font">
-          {data.src}
-        </h3>
-      )}
-      {data.title && (
-        <h3
-          data-tina-field={tinaField(data, "title")}
-          className="text-2xl font-semibold title-font"
-        >
-          {data.title}
-        </h3>
-      )}
-      {data.alt && (
-        <p
-          data-tina-field={tinaField(data, "alt")}
-          className="text-base opacity-80 leading-relaxed"
-        >
-          {data.alt}
-        </p>
-      )}
+        className="h-auto max-w-full rounded-lg"
+        src={data.src}
+        alt={data.alt} />
+        )}
     </div>
   );
 };
@@ -49,7 +29,7 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
   return (
     <Section color={data.color}>
       <Container
-        className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
+        className={`grid grid-cols-2 md:grid-cols-3 gap-4`}
         size="large"
       >
         {data.items &&
@@ -93,11 +73,6 @@ export const galleryBlockSchema = {
               },
             },
             fields: [
-              {
-                type: "string",
-                label: "Title",
-                name: "title",
-              },
               {
                 name: "src",
                 label: "Image Source",
