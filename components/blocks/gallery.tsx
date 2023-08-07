@@ -1,12 +1,3 @@
-import { Section } from "../util/section";
-import { Container } from "../util/container";
-import { PageBlocksGallery, PageBlocksGalleryItems, } from "../../tina/__generated__/types";
-import { tinaField } from "tinacms/dist/react";
-
-
-
-
-
 
 
 
@@ -26,11 +17,8 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
   );
 };
 
-
-
-
-
 const defaultImage = {
+  title:"Default Image",
   src: "/blocks/features.png",
   alt: "Gallery image"
 }
@@ -50,7 +38,22 @@ export const galleryBlockSchema = {
             label: "Gallery Items",
             name: "items",
             list: true,
+            ui: {
+              itemProps: (item) => {
+                return {
+                  label: item?.title,
+                };
+              },
+              defaultItem: {
+                ...defaultImage,
+              },
+            },
             fields: [
+              {
+                type: "string",
+                label: "Title",
+                name: "title",
+              },
               {
                 name: "src",
                 label: "Image Source",
