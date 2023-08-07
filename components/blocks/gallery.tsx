@@ -1,4 +1,30 @@
+import { Section } from "../util/section";
+import { Container } from "../util/container";
+import { PageBlocksGallery, PageBlocksGalleryItems, } from "../../tina/__generated__/types";
+import { tinaField } from "tinacms/dist/react";
 
+
+
+
+
+
+
+
+export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
+  return (
+    <Section color={data.color}>
+      <Container
+        className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
+        size="large"
+      >
+        {data.items &&
+          data.items.map(function (block, i) {
+            return <Image imageColor={data.color} key={i} data={block} />;
+          })}
+      </Container>
+    </Section>
+  );
+};
 
 
 
@@ -21,7 +47,7 @@ export const galleryBlockSchema = {
     fields:[
         {
             type: "object",
-            label: "GalleryItems",
+            label: "Gallery Items",
             name: "items",
             list: true,
             fields: [
