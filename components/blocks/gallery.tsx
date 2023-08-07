@@ -1,5 +1,49 @@
+import { Section } from "../util/section";
+import { Container } from "../util/container";
+import { PageBlocksGallery, PageBlocksGalleryItems, } from "../../tina/__generated__/types";
+import { tinaField } from "tinacms/dist/react";
 
 
+export const Image = ({
+  imageColor,
+  data,
+}: {
+  imageColor: string;
+  data: PageBlocksGalleryItems;
+}) => {
+  return (
+    <div
+      data-tina-field={tinaField(data)}
+      parentColor={imageColor}
+      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
+      style={{ flexBasis: "16rem" }}
+    >
+      {data.src && (
+        <h3
+        data-tina-field={tinaField(data, "src")}
+        className="text-2xl font-semibold title-font">
+          {data.src}
+        </h3>
+      )}
+      {data.title && (
+        <h3
+          data-tina-field={tinaField(data, "title")}
+          className="text-2xl font-semibold title-font"
+        >
+          {data.title}
+        </h3>
+      )}
+      {data.alt && (
+        <p
+          data-tina-field={tinaField(data, "alt")}
+          className="text-base opacity-80 leading-relaxed"
+        >
+          {data.alt}
+        </p>
+      )}
+    </div>
+  );
+};
 
 export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
   return (
