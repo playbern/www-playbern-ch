@@ -8,7 +8,7 @@
     "color": "primary",
     "nav": [
       {
-        "href": "festival",
+        "href": "",
         "label": "Festival"
       },
       {
@@ -20,16 +20,8 @@
         "label": "Verein"
       },
       {
-        "href": "medienecho",
-        "label": "Medienecho"
-      },
-      {
-        "href": "gameTipsFestival2022",
-        "label": "Game-Tips-Festival-2022"
-      },
-      {
-        "href": "bildergalerie",
-        "label": "Bildergalerie"
+        "href": "posts",
+        "label": "Blogs"
       }
     ]
   },

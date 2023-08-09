@@ -120,6 +120,8 @@ blocks:
 
 
 
+
+
 # Was?
 
 PlayBern ist auf drei Schwerpunkte fokussiert: „Games & Education", „Games & Accessibility" sowie „Games & Art".

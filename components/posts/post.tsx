@@ -179,6 +179,12 @@ export const Post = (props: PostType) => {
             className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150"
           >
             {formattedDate}
+            <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
+                —
+            </span>
+          </p>
+          <p data-tina-field={tinaField(props, "category")}>
+           {props.category}
           </p>
         </div>
       </Container>

@@ -1,6 +1,17 @@
 ---
 title: About
 blocks:
+  - items:
+      - src: /uploads/llama-6.avif
+        alt: ' some text'
+        description: Ersel
+      - src: /uploads/llama-2.avif
+        alt: ' some text'
+        description: Alex
+      - src: /uploads/llama-5.avif
+        alt: ' some text'
+        description: Adam
+    _template: gallery
   - body: >
       Der Verein PlayBern organisiert das PlayBern-Festival sowie Kanäle und
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich zusammen
@@ -59,35 +70,41 @@ blocks:
       ## Danke & Partner
 
 
-      **Vielen Dank für die Unterstützung!**
+      \*\*\*\*![](</uploads/playbern partner.png>)
 
 
-      **Partner:**
+      ## [Medienecho](/medienecho)
 
 
       ## Kontakt
 
 
-      * PlayBern\
+      * **PlayBern**\
         Buristrasse 53, 3006 Bern\
         info@playbern.ch
-      * Programm & Produktion\
+      * **Programm & Produktion**\
         Bettina Wegenast\
         bettina@playbern.ch
-      * Medien & Kommunikation\
+      * **Medien & Kommunikation**\
         Vera Stierli\
         Saphir Ben Dakon\
         saphir.bendakon@bluewin.ch
-      * Verein\
+      * **Verein**\
         Philipp Wegenast\
         info@playbern.ch
-      * Organisation Helfer:innen\
+      * **Organisation Helfer:innen**\
         mstoppia@gmx.ch
-      * Technik\
+      * **Technik**\
         Oleg Lavrovsky
     color: default
     _template: content
 ---
+
+
+
+
+
+
 
 
 

@@ -68,6 +68,16 @@ export const Posts = ({ data }: { data: PostsType[] }) => {
                   </p>
                 </>
               )}
+              {post?.category !== "" && (
+                <>
+                  <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
+                    —
+                  </span>
+                  <p className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150">
+                    {post?.category}
+                  </p>
+                </>
+              )}
             </div>
           </Link>
         );
