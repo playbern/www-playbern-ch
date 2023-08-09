@@ -136,7 +136,7 @@ export const NavActions = ({
               <Link key={index} href={action.link ? action.link : "/"}>
                 <button
   data-tina-field={tinaField(action)}
-  className={`z-10 relative flex items-center px-7 font-semibold text-lg transition duration-150 ease-out  rounded-lg transform focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2 whitespace-nowrap ${
+  className={`z-10 relative flex items-center px-2 font-semibold text-lg transition duration-150 ease-out  rounded-lg transform focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2 whitespace-nowrap ${
     parentColor === "primary"
       ? invertedButtonColorClasses[theme.color]
       : buttonColorClasses[theme.color]

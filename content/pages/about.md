@@ -23,11 +23,7 @@ blocks:
       * tiefe Einblicke in die Gaming-Kultur …
 
 
-      >
-
       > Mit Fr. 50.- im Jahr bist du dabei.
-
-      >
 
 
       [Statuten Verein
@@ -37,7 +33,64 @@ blocks:
       [Infos & Anmeldung Verein
       PlayBern](https://playbern.ch/wp-content/uploads/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf)
       (.pdf)
+
+
+      ## Team
+
+
+      * Bettina Wegenast (Künstlerische Leitung)
+
+      * Elisabeth Blättler (Medien & Kommunikation)
+
+      * Salomé Rodriguez Bär (Social Media & Unterstützung Website)
+
+      * Olivier Stuker (Jury Kinder-Game-Wettbewerb)
+
+      * Samuel von Graffenried (Jury Kinder-Game-Wettbewerb)
+
+      * Meret Stoppia (Organisation Helfer:innen, Kommunikation
+      Kinder-Game-Wettbewerb)
+
+      * Oleg Lavrovsky (Tavern Busters)
+
+      * Jonathan Wegenast (Tavern Busters)
+
+
+      ## Danke & Partner
+
+
+      **Vielen Dank für die Unterstützung!**
+
+
+      **Partner:**
+
+
+      ## Kontakt
+
+
+      * PlayBern\
+        Buristrasse 53, 3006 Bern\
+        info@playbern.ch
+      * Programm & Produktion\
+        Bettina Wegenast\
+        bettina@playbern.ch
+      * Medien & Kommunikation\
+        Vera Stierli\
+        Saphir Ben Dakon\
+        saphir.bendakon@bluewin.ch
+      * Verein\
+        Philipp Wegenast\
+        info@playbern.ch
+      * Organisation Helfer:innen\
+        mstoppia@gmx.ch
+      * Technik\
+        Oleg Lavrovsky
     color: default
     _template: content
 ---
+
+
+
+
+
 

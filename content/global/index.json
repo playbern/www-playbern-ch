@@ -8,12 +8,16 @@
     "color": "primary",
     "nav": [
       {
-        "href": "theme",
-        "label": "Theme"
+        "href": "festival",
+        "label": "Festival"
       },
       {
-        "href": "team",
-        "label": "Team"
+        "href": "theme",
+        "label": "Themen"
+      },
+      {
+        "href": "about",
+        "label": "Verein"
       },
       {
         "href": "medienecho",
@@ -24,36 +28,8 @@
         "label": "Game-Tips-Festival-2022"
       },
       {
-        "href": "festival",
-        "label": "Festival"
-      },
-      {
-        "href": "education",
-        "label": "Education"
-      },
-      {
-        "href": "dankePartner",
-        "label": "Danke & Partner"
-      },
-      {
-        "href": "contact",
-        "label": "Kontakt"
-      },
-      {
         "href": "bildergalerie",
         "label": "Bildergalerie"
-      },
-      {
-        "href": "art",
-        "label": "Art"
-      },
-      {
-        "href": "about",
-        "label": "About"
-      },
-      {
-        "href": "accessibility",
-        "label": "Accessibility"
       }
     ]
   },
@@ -71,4 +47,3 @@
     "darkMode": "light"
   }
 }
-

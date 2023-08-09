@@ -1,20 +1,32 @@
 ---
 title: Festival
 blocks:
-  - headline: This Big Text is Totally Awesome
+  - headline: A title for festivals if needed
     actions:
-      - label: Action Label
+      - label: Festival
         type: button
         icon: false
-        link: /
-      - label: Action Label
+        link: /festival
+      - label: Game-Tipps Festival 2022
         type: button
         icon: false
-        link: /
-      - label: Action Label
+        link: /gameTipsFestival2022
+      - label: Bildergalerie
         type: button
         icon: false
-        link: /
+        link: /bildergalerie
+      - label: Medienecho
+        type: button
+        icon: true
+        link: /medienecho
+      - label: Danke & Partner
+        type: button
+        icon: false
+        link: /dankePartner
+      - label: Team
+        type: button
+        icon: false
+        link: /team
     color: tint
     _template: nav
   - tagline: ''
@@ -199,6 +211,16 @@ blocks:
       Ausschreibungen & News
     _template: content
 ---
+
+
+
+
+
+
+
+
+
+
 
 
 

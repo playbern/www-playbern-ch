@@ -1,24 +1,6 @@
 ---
 title: PlayBern
 blocks:
-  - items:
-      - src: /uploads/Screenshot from 2023-06-27 08-39-40.png
-        alt: Gallery image
-      - src: /uploads/vercel-congratulations.png
-        alt: Gallery image
-      - src: /uploads/llama-2.avif
-        alt: Gallery image
-      - src: /uploads/llama-3.avif
-        alt: Gallery image
-      - src: /uploads/llama-6.avif
-        alt: Gallery image
-      - src: /uploads/Screenshot from 2023-06-27 08-39-40.png
-        alt: Gallery image
-    _template: gallery
-  - quote: 'https://www.youtube.com/embed/-NeFLn55Wpg'
-    author: ''
-    color: primary
-    _template: video
   - body: >
       # PlayBern Festival 2023
 
@@ -111,62 +93,13 @@ blocks:
       Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
 
 
-      # Kontakt
-
-
-      **PlayBern**
-
-
-      Buristrasse 53\
-
-      3006 Bern\
-
-      info@playbern.ch
-
-
-      **Programm & Produktion**
-
-
-      Bettina Wegenast\
-
-      bettina@playbern.ch
-
-
-      **Medien & Kommunikation**
-
-
-      Vera Stierli\
-
-      Saphir Ben Dakon\
-
-      press@playbern.ch
-
-
-      **Verein**
-
-
-      Philipp Wegenast\
-
-      info@playbern.ch
-
-
-      **Organisation Helfer:innen**
-
-
-      mstoppia@gmx.ch
-
-
-      **Technik**
-
-
-      Oleg Lavrovsky
-
-
       ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN
       DEMNÄCHST FOLGEN.*
     color: default
     _template: content
 ---
+
+
 
 
 
