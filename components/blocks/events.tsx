@@ -69,7 +69,7 @@ export const eventBlockSchema: TinaTemplate = {
     name: 'events',
     label: 'Events',
     ui: {
-      previewSrc: '/blocks/hero.png',
+      previewSrc: '/blocks/events.png',
       defaultItem: {
         items: [defaultEvent, defaultEvent],
       },
