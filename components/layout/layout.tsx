@@ -50,12 +50,11 @@ export const Layout = ({
           }`}
         >
           <Header data={data?.header} />
-          <div style={{ backgroundColor: 'rgb(254, 210, 43)', lineHeight : 10, padding: 20 }}>
-          <div className="flex-1 text-gray-800 bg-gradient-to-br from-white to-gray-50 dark:from-gray-900 dark:to-gray-1000 flex flex-col"> 
+          
+          <div className="flex-1 text-gray-800 bg-gradient-to-br from-yellow-400 to-yellow-400 dark:from-gray-900 dark:to-gray-1000 flex flex-col"> 
             {children}
           </div>
-          </div>
-
+          
           <Footer
             rawData={rawData}
             data={data?.footer}

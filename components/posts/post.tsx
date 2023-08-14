@@ -125,7 +125,7 @@ export const Post = (props: PostType) => {
     orange:
       "from-orange-300 to-orange-600 dark:from-orange-200 dark:to-orange-500",
     yellow:
-      "from-yellow-400 to-yellow-500 dark:from-yellow-300 dark:to-yellow-500",
+      "from-gray-1000 to-gray-900 dark:from-yellow-300 dark:to-yellow-500",
   };
 
   const date = new Date(props.date);
@@ -179,6 +179,12 @@ export const Post = (props: PostType) => {
             className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150"
           >
             {formattedDate}
+            <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
+                —
+            </span>
+          </p>
+          <p data-tina-field={tinaField(props, "category")}>
+           {props.category}
           </p>
         </div>
       </Container>

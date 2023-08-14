@@ -3,6 +3,11 @@ import { contentBlockSchema } from "../components/blocks/content";
 import { featureBlockSchema } from "../components/blocks/features";
 import { heroBlockSchema } from "../components/blocks/hero";
 import { testimonialBlockSchema } from "../components/blocks/testimonial";
+import { videoBlockSchema } from "../components/blocks/video";
+import { eventBlockSchema } from "../components/blocks/events";
+import { galleryBlockSchema } from "../components/blocks/gallery";
+import { partnersBlockSchema } from "../components/blocks/partners";
+import { navBlockSchema } from "../components/blocks/nav";
 import { ColorPickerInput } from "./fields/color";
 import { iconSchema } from "../components/util/icon";
 
@@ -73,6 +78,12 @@ const config = defineConfig({
               dateFormat: "MMMM DD YYYY",
               timeFormat: "hh:mm A",
             },
+          },
+          {
+            name:"category",
+            label:"Category",
+            type:"string",
+            options:["Art","Education","Accessibility","Partner"],
           },
           {
             type: "rich-text",
@@ -361,6 +372,11 @@ const config = defineConfig({
               featureBlockSchema,
               contentBlockSchema,
               testimonialBlockSchema,
+              videoBlockSchema,
+              eventBlockSchema,
+              navBlockSchema,
+              galleryBlockSchema,
+              partnersBlockSchema
             ],
           },
         ],

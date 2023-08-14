@@ -13,7 +13,7 @@ export const RawRenderer = ({ rawData, parentColor }) => {
     pink: "text-pink-500",
     purple: "text-purple-500",
     orange: "text-orange-500",
-    yellow: "text-yellow-600",
+    yellow: "text-yellow-400",
   };
   const [isOpen, setIsOpen] = useState(false);
 

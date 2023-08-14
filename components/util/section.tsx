@@ -19,7 +19,7 @@ export const Section = ({ children, color = "", className = "" }) => {
       orange:
         "text-white bg-orange-500 bg-gradient-to-br from-orange-500 to-orange-600",
       yellow:
-        "text-white bg-yellow-500 bg-gradient-to-br from-yellow-500 to-yellow-600",
+        "text-gray-1000 bg-gray-200 bg-gradient-to-br from-yellow-400 to-yellow-400",
     },
   };
   const sectionColorCss =

@@ -5,13 +5,31 @@
       "style": "float"
     },
     "name": "PlayBern.ch",
-    "color": "yellow"
+    "color": "primary",
+    "nav": [
+      {
+        "href": "",
+        "label": "Festival"
+      },
+      {
+        "href": "theme",
+        "label": "Themen"
+      },
+      {
+        "href": "about",
+        "label": "Verein"
+      },
+      {
+        "href": "posts",
+        "label": "Blogs"
+      }
+    ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
       "facebook": "",
-      "twitter": "",
+      "twitter": "https://twitter.com/proxeusapp",
       "instagram": ""
     }
   },

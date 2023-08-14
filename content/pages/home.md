@@ -1,6 +1,34 @@
 ---
 title: PlayBern
 blocks:
+  - quote: 'https://www.youtube.com/embed/-NeFLn55Wpg'
+    author: Alt text
+    color: primary
+    _template: video
+  - quote: >-
+      There are only two hard things in Computer Science: cache invalidation and
+      naming things.
+    author: Phil Karlton
+    color: primary
+    _template: testimonial
+  - tagline: Here's some text above the other text
+    headline: This Big Text is Totally Awesome
+    text: |
+      Icerik olacak bir metin
+    actions:
+      - label: Action Label label blaakfjajasd
+        type: button
+        icon: false
+        link: /
+      - label: Action Label
+        type: button
+        icon: true
+        link: /
+      - label: Action Label
+        type: button
+        icon: true
+        link: /
+    _template: hero
   - body: >
       # PlayBern Festival 2023
 
@@ -31,6 +59,7 @@ blocks:
       statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick:
       [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
       [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
+
 
 
       ## **Der Kinder-Game-Wettbewerb 2023**
@@ -91,75 +120,12 @@ blocks:
       Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
       Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
 
-
       # Kontakt
-
-
-      **PlayBern**
-
-
-      Buristrasse 53\
-
-      3006 Bern\
-
-      info@playbern.ch
-
-
-      **Programm & Produktion**
-
-
-      Bettina Wegenast\
-
-      bettina@playbern.ch
-
-
-      **Medien & Kommunikation**
-
-
-      Vera Stierli\
-
-      Saphir Ben Dakon\
-
       saphir.bendakon@bluewin.ch
-
-
-      **Verein**
-
-
-      Philipp Wegenast\
-
-      info@playbern.ch
-
-
+      
       **Organisation Helfer:innen**
-
-
-      mstoppia@gmx.ch
-
-
-      **Technik**
-
-
-      Oleg Lavrovsky
-
-
-      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN
-      DEMNÄCHST FOLGEN.*
+      
+      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN DEMNÄCHST FOLGEN.*
     color: default
     _template: content
 ---
-
-
-# Was?
-
-PlayBern ist auf drei Schwerpunkte fokussiert: „Games & Education", „Games & Accessibility" sowie „Games & Art".
-
-# Wer?
-
-Wir sind eine Gruppe von Gamer:innen mit unterschiedlichem Hintergrund und mit breiten Interessen. Wir sind offen für Interessierte jeden Alters, egal ob mit oder ohne Game-Erfahrung.
-
-# Wie?
-
-Rund um unsere Schwerpunkte finden das ganze Jahr über Veranstaltungen statt: Spielnachmittage, Präsentationen, Diskussionen ... Einmal pro Jahr präsentiert PlayBern an einem mehrtägigen Festival aktuelle Ideen und Entdeckungen.
-
-Du willst mitspielen? Check' unsere Angebote, melde Dich via <info@playbern.ch> oder vernetze Dich mit uns auf unserem [Discord-Kanal](https://discord.gg/y9GSpsw)!

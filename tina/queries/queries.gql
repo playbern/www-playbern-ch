@@ -7,6 +7,7 @@ query pageQuery {
         date
         title
         excerpt
+        category
         author {
           ... on Author {
             ...AuthorParts

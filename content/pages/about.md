@@ -1,6 +1,26 @@
 ---
 title: About
 blocks:
+  - items:
+      - src: /uploads/llama-2.avif
+        alt: ' some text'
+        description: Image description
+      - src: /uploads/llama-2.avif
+        alt: ' some text'
+        description: Image description
+      - src: /uploads/PlayBern-Sujet2022-1088x1536.jpg
+        alt: ' some text'
+        description: Image description
+      - src: /blocks/features.png
+        alt: ' some text'
+        description: Image description
+      - src: /blocks/features.png
+        alt: ' some text'
+        description: Image description
+      - src: /blocks/features.png
+        alt: ' some text'
+        description: Image description
+    _template: gallery
   - body: >
       Der Verein PlayBern organisiert das PlayBern-Festival sowie Kanäle und
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich zusammen
@@ -23,11 +43,7 @@ blocks:
       * tiefe Einblicke in die Gaming-Kultur …
 
 
-      >
-
       > Mit Fr. 50.- im Jahr bist du dabei.
-
-      >
 
 
       [Statuten Verein
@@ -37,7 +53,117 @@ blocks:
       [Infos & Anmeldung Verein
       PlayBern](https://playbern.ch/wp-content/uploads/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf)
       (.pdf)
-    color: default
+
+
+      ## Team
+
+
+      * Bettina Wegenast (Künstlerische Leitung)
+
+      * Elisabeth Blättler (Medien & Kommunikation)
+
+      * Salomé Rodriguez Bär (Social Media & Unterstützung Website)
+
+      * Olivier Stuker (Jury Kinder-Game-Wettbewerb)
+
+      * Samuel von Graffenried (Jury Kinder-Game-Wettbewerb)
+
+      * Meret Stoppia (Organisation Helfer:innen, Kommunikation
+      Kinder-Game-Wettbewerb)
+
+      * Oleg Lavrovsky (Tavern Busters)
+
+      * Jonathan Wegenast (Tavern Busters)
+
+
+      ## Danke & Partner
+
+
+      \*\*\*\*![](</uploads/playbern partner.png>)
+    color: primary
+    _template: content
+  - items:
+      - src: /uploads/llama-2.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+      - src: /uploads/llama-3.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+      - src: /uploads/llama-3.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+      - src: /uploads/llama-2.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+      - src: /uploads/llama-3.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+      - src: /uploads/llama-4.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+      - src: /uploads/llama-2.avif
+        alt: ' some text'
+        link: 'https://www.sbb.ch/en'
+        description: Some text
+    color: primary
+    _template: partners
+  - body: |
+      ## [Medienecho](/medienecho)
+
+      ## Kontakt
+
+      * **PlayBern**\
+        Buristrasse 53, 3006 Bern\
+        info@playbern.ch
+      * **Programm & Produktion**\
+        Bettina Wegenast\
+        bettina@playbern.ch
+      * **Medien & Kommunikation**\
+        Vera Stierli\
+        Saphir Ben Dakon\
+        saphir.bendakon@bluewin.ch
+      * **Verein**\
+        Philipp Wegenast\
+        info@playbern.ch
+      * **Organisation Helfer:innen**\
+        mstoppia@gmx.ch
+      * **Technik**\
+        Oleg Lavrovsky
+    color: primary
     _template: content
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

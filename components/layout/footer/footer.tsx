@@ -33,7 +33,7 @@ export const Footer = ({ data, icon, rawData }) => {
       pink: "text-white from-pink-500 to-pink-600",
       purple: "text-white from-purple-500 to-purple-600",
       orange: "text-white from-orange-500 to-orange-600",
-      yellow: "text-white from-yellow-500 to-yellow-600",
+      yellow: "text-white from-yellow-400 to-yellow-400",
     },
   };
 
