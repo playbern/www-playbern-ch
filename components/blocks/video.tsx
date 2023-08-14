@@ -42,7 +42,7 @@ export const videoBlockSchema: Template = {
   name: "video",
   label: "Video",
   ui: {
-    previewSrc: "/blocks/testimonial.png",
+    previewSrc: "/blocks/video.png",
     defaultItem: {
       quote:
         "Video Link",
