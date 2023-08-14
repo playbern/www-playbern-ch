@@ -1,34 +1,6 @@
 ---
 title: PlayBern
 blocks:
-  - quote: 'https://www.youtube.com/embed/-NeFLn55Wpg'
-    author: Alt text
-    color: primary
-    _template: video
-  - quote: >-
-      There are only two hard things in Computer Science: cache invalidation and
-      naming things.
-    author: Phil Karlton
-    color: primary
-    _template: testimonial
-  - tagline: Here's some text above the other text
-    headline: This Big Text is Totally Awesome
-    text: |
-      Icerik olacak bir metin
-    actions:
-      - label: Action Label label blaakfjajasd
-        type: button
-        icon: false
-        link: /
-      - label: Action Label
-        type: button
-        icon: true
-        link: /
-      - label: Action Label
-        type: button
-        icon: true
-        link: /
-    _template: hero
   - body: >
       # PlayBern Festival 2023
 
@@ -126,6 +98,8 @@ blocks:
     color: default
     _template: content
 ---
+
+
 
 
 

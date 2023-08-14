@@ -1,26 +1,6 @@
 ---
 title: About
 blocks:
-  - items:
-      - src: /uploads/llama-2.avif
-        alt: ' some text'
-        description: Image description
-      - src: /uploads/llama-2.avif
-        alt: ' some text'
-        description: Image description
-      - src: /uploads/PlayBern-Sujet2022-1088x1536.jpg
-        alt: ' some text'
-        description: Image description
-      - src: /blocks/features.png
-        alt: ' some text'
-        description: Image description
-      - src: /blocks/features.png
-        alt: ' some text'
-        description: Image description
-      - src: /blocks/features.png
-        alt: ' some text'
-        description: Image description
-    _template: gallery
   - body: >
       Der Verein PlayBern organisiert das PlayBern-Festival sowie Kanäle und
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich zusammen
@@ -83,6 +63,10 @@ blocks:
     color: primary
     _template: content
   - items:
+      - src: /uploads/llama-3.avif
+        alt: Alt Text
+        link: 'https://www.sbb.ch/en'
+        description: Description
       - src: /uploads/llama-2.avif
         alt: ' some text'
         link: 'https://www.sbb.ch/en'
@@ -138,6 +122,9 @@ blocks:
     color: primary
     _template: content
 ---
+
+
+
 
 
 
