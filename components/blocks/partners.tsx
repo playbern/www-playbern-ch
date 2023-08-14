@@ -15,31 +15,34 @@ export const Partner = ({
   data: PageBlocksPartnersItems;
 }) => {
   return (
-    <div
-      data-tina-field={tinaField(data)}
-      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
-      style={{ flexBasis: "16rem" }}
-      color={partnersColor}
-    >
-      {data.link && (
-        <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
-          {data.src && (
-            <img
-              data-tina-field={tinaField(data, "src")}
-              src={data.src}
-              alt={data.alt}
-            />
+    <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
+      <div
+        data-tina-field={tinaField(data)}
+        className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
+        style={{ flexBasis: "16rem" }}
+        color={partnersColor}
+      >
+        
+          {data.link && (
+            <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
+              {data.src && (
+                <img
+                  data-tina-field={tinaField(data, "src")}
+                  src={data.src}
+                  alt={data.alt}
+                />
+              )}
+              {data.description && (
+                <h3
+                  data-tina-field={tinaField(data, "description")}
+                  className="text-2xl font-semibold title-font"
+                >
+                  {data.description}
+                </h3>
+              )}
+            </a>
           )}
-          {data.description && (
-            <h3
-              data-tina-field={tinaField(data, "description")}
-              className="text-2xl font-semibold title-font"
-            >
-              {data.description}
-            </h3>
-          )}
-        </a>
-      )}
+      </div>
     </div>
   );
 };

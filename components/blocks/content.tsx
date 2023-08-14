@@ -9,16 +9,18 @@ import { tinaField } from "tinacms/dist/react";
 export const Content = ({ data }: { data: PageBlocksContent }) => {
   return (
     <Section color={data.color}>
-      <Container
-        className={`prose prose-lg ${
-          data.color === "primary" ? `prose-primary` : `dark:prose-dark`
-        }`}
-        data-tina-field={tinaField(data, "body")}
-        size="large"
-        width="medium"
-      >
-        <TinaMarkdown content={data.body} />
-      </Container>
+      <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
+        <Container
+          className={`prose prose-lg ${
+            data.color === "primary" ? `prose-primary` : `dark:prose-dark`
+          }`}
+          data-tina-field={tinaField(data, "body")}
+          size="large"
+          width="medium"
+        >
+          <TinaMarkdown content={data.body} />
+        </Container>
+      </div>
     </Section>
   );
 };

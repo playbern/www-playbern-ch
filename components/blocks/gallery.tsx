@@ -43,26 +43,26 @@ export const Image = ({
 export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
   return (
     <Section color={data.color}>
-
-      {data.title && (
-        <h3
-        data-tina-field={tinaField(data, "title")}
-        className="text-2xl text-center font-semibold title-font"
-      >
-        {data.title}
-        </h3> 
-      )}
-      
-      <Container
-        className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
-        size="large"
-      >
-        {data.items &&
-          data.items.map(function (block, i) {
-            return <Image galleryColor={data.color} key={i} data={block} />;
-          })}
-      </Container>
-      
+      <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
+        {data.title && (
+          <h3
+          data-tina-field={tinaField(data, "title")}
+          className="text-2xl text-center font-semibold title-font"
+        >
+          {data.title}
+          </h3> 
+        )}
+        
+        <Container
+          className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
+          size="large"
+        >
+          {data.items &&
+            data.items.map(function (block, i) {
+              return <Image galleryColor={data.color} key={i} data={block} />;
+            })}
+        </Container>
+      </div>
     </Section>
   );
 };
