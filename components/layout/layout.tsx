@@ -52,7 +52,7 @@ export const Layout = ({
           <Header data={data?.header} />
           
           <div className=""> 
-          <div className="bg-scroll flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",
+          <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",
           }}>
             {children}
           </div>
