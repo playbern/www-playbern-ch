@@ -49,13 +49,13 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
     <Section color={data.color}>
 
       {data.title && (
-          <h3
-          data-tina-field={tinaField(data, "title")}
-          className="text-2xl text-center font-semibold title-font"
+        <h3
+        data-tina-field={tinaField(data, "title")}
+        className="text-2xl text-center font-semibold title-font"
         >
-          {data.title}
-          </h3>   
-          )}
+        {data.title}
+        </h3>   
+      )}
 
       <Container
         className={`grid gap-2 grid-cols-8 text-left`}
