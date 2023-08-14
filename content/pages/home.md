@@ -28,10 +28,10 @@ blocks:
 
 
       Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
-      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz: [Rückblick
-      PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
-      [Rückblick PlayBern
-      2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
+      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick:
+      [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
+      [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
+
 
 
       ## **Der Kinder-Game-Wettbewerb 2023**
@@ -92,9 +92,12 @@ blocks:
       Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
       Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
 
-
-      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN
-      DEMNÄCHST FOLGEN.*
+      # Kontakt
+      saphir.bendakon@bluewin.ch
+      
+      **Organisation Helfer:innen**
+      
+      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN DEMNÄCHST FOLGEN.*
     color: default
     _template: content
 ---
