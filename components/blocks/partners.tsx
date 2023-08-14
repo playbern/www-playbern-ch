@@ -47,6 +47,16 @@ export const Partner = ({
 export const Partners = ({ data }: { data: PageBlocksPartners }) => {
   return (
     <Section color={data.color}>
+
+      {data.title && (
+          <h3
+          data-tina-field={tinaField(data, "title")}
+          className="text-2xl text-center font-semibold title-font"
+        >
+          {data.title}
+          </h3>   
+          )}
+
       <Container
         className={`grid gap-2 grid-cols-8 text-left`}
         size="large"
@@ -77,6 +87,11 @@ export const partnersBlockSchema: TinaTemplate = {
     },
   },
   fields: [
+    {
+      name:"title",
+      label:"Title",
+      type:"string"
+    },
     {
       type: "object",
       label: "Partner Items",

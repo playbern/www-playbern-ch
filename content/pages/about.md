@@ -83,7 +83,8 @@ blocks:
       \*\*\*\*![](</uploads/playbern partner.png>)
     color: primary
     _template: content
-  - items:
+  - title: Title
+    items:
       - src: /uploads/llama-2.avif
         alt: ' some text'
         link: 'https://www.sbb.ch/en'
@@ -139,6 +140,7 @@ blocks:
     color: primary
     _template: content
 ---
+
 
 
 
