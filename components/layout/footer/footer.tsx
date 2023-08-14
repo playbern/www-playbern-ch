@@ -33,7 +33,7 @@ export const Footer = ({ data, icon, rawData }) => {
       pink: "text-white from-pink-500 to-pink-600",
       purple: "text-white from-purple-500 to-purple-600",
       orange: "text-white from-orange-500 to-orange-600",
-      yellow: "text-white from-yellow-400 to-yellow-400",
+      yellow: "text-white bg-yellow-400",
     },
   };
 
@@ -43,7 +43,7 @@ export const Footer = ({ data, icon, rawData }) => {
       : footerColor.default;
 
   return (
-    <footer className={`bg-gradient-to-br ${footerColorCss}`}>
+    <footer className={`${footerColorCss}`}>
       <Container className="relative" size="small">
         <div className="flex justify-between items-center gap-6 flex-wrap">
           <Link

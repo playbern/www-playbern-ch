@@ -22,7 +22,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
       pink: "text-white from-pink-400 to-pink-500",
       purple: "text-white from-purple-400 to-purple-500",
       orange: "text-white from-orange-400 to-orange-500",
-      yellow: "text-gray-1000 from-gray-50 to-gray-50",
+      yellow: "text-gray-1000 bg-gray-50",
     },
   };
 
@@ -63,7 +63,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
 
   return (
     <div
-      className={`relative overflow-hidden bg-gradient-to-b ${headerColorCss}`}
+      className={`relative overflow-hidden ${headerColorCss}`}
     >
       <Container size="custom" className="py-0 relative z-10 max-w-8xl">
         <div className="flex items-center justify-between gap-6">
