@@ -71,7 +71,7 @@ export const partnersBlockSchema: TinaTemplate = {
   name: "partners",
   label: "Partners",
   ui: {
-    previewSrc: "/blocks/features.png",
+    previewSrc: "/blocks/partners.png",
     defaultItem: {
       items: [defaultPartner, defaultPartner, defaultPartner],
     },
