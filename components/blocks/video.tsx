@@ -20,19 +20,19 @@ export const Video = ({ data }: { data: PageBlocksVideo }) => {
             </div>
         </div>
 
-
-          <footer className="text-center">
-          <p
-              data-tina-field={tinaField(data, `author`)}
-              className={`tracking-wide title-font font-bold text-lg ${
-                data.color === "primary"
-                ? `text-white`
-                : `text-gray-700 dark:text-gray-50`
-              }`}
-            >
-                {data.author}
-            </p>
-          </footer>
+        <footer className="text-center">
+        <p
+            data-tina-field={tinaField(data, `author`)}
+            className={`tracking-wide title-font font-bold text-lg ${
+              data.color === "primary"
+              ? `text-gray-1000`
+              : `text-gray-700 dark:text-gray-50`
+            }`}
+          >
+              {data.author}
+          </p>
+        </footer>
+        
       </Container>
     </Section>
   );
@@ -45,7 +45,7 @@ export const videoBlockSchema: Template = {
     previewSrc: "/blocks/testimonial.png",
     defaultItem: {
       quote:
-        "Video link",
+        "Video Link",
       author: "Alt text",
       color: "primary",
     },
@@ -53,10 +53,7 @@ export const videoBlockSchema: Template = {
   fields: [
     {
       type: "string",
-      ui: {
-        component: "textarea",
-      },
-      label: "Quote",
+      label: "Video Link",
       name: "quote",
     },
     {

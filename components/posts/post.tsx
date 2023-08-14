@@ -125,7 +125,7 @@ export const Post = (props: PostType) => {
     orange:
       "from-orange-300 to-orange-600 dark:from-orange-200 dark:to-orange-500",
     yellow:
-      "from-yellow-400 to-yellow-500 dark:from-yellow-300 dark:to-yellow-500",
+      "from-gray-1000 to-gray-900 dark:from-yellow-300 dark:to-yellow-500",
   };
 
   const date = new Date(props.date);

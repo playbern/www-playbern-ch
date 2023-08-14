@@ -17,7 +17,7 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
         pink: "from-pink-400 to-pink-600",
         purple: "from-purple-400 to-purple-600",
         orange: "from-orange-300 to-orange-600",
-        yellow: "from-yellow-400 to-yellow-600",
+        yellow: "from-gray-1000 to-gray-1000",
     };
 
     return (

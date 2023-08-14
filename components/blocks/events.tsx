@@ -61,7 +61,7 @@ export const defaultEvent = {
   text: 'Your events title, link and description',
   image: {
     src: '/blocks/features.png',
-    alt: 'Add a short explanation of the image',
+    alt: 'Alt Text',
   },
 };
 

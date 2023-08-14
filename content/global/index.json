@@ -26,10 +26,10 @@
     ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
       "facebook": "",
-      "twitter": "",
+      "twitter": "https://twitter.com/proxeusapp",
       "instagram": ""
     }
   },

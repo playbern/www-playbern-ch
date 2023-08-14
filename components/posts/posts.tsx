@@ -16,7 +16,7 @@ export const Posts = ({ data }: { data: PostsType[] }) => {
     pink: "group-hover:text-pink-600 dark:group-hover:text-pink-300",
     purple: "group-hover:text-purple-600 dark:group-hover:text-purple-300",
     orange: "group-hover:text-orange-600 dark:group-hover:text-orange-300",
-    yellow: "group-hover:text-yellow-500 dark:group-hover:text-yellow-300",
+    yellow: "group-hover:text-gray-1000 dark:group-hover:text-white-100",
   };
 
   return (

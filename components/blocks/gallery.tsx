@@ -3,6 +3,7 @@ import { Container } from "../util/container";
 import type { TinaTemplate } from "tinacms";
 import { PageBlocksGallery, PageBlocksGalleryItems  } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
+import ModalImage from 'react-modal-image';
 
 
 export const Image = ({
@@ -20,9 +21,11 @@ export const Image = ({
         color={galleryColor}
       >
         {data.src && (
-          <img
+          <ModalImage
           data-tina-field={tinaField(data, "src")} 
-          src={data.src} alt={data.alt}
+          small={data.src}
+          large={data.src}
+          alt={data.alt}
           />
         )}
         {data.description && (
@@ -56,7 +59,7 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
 const defaultImage = {
     src:"/blocks/features.png",
     alt: " some text",
-    description:"Some text"
+    description:"Image description"
 }
 
 export const galleryBlockSchema: TinaTemplate = {
