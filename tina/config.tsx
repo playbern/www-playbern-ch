@@ -16,7 +16,7 @@ const config = defineConfig({
   branch:
     process.env.NEXT_PUBLIC_TINA_BRANCH! || // custom branch env override
     process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF! || // Vercel branch env
-    process.env.HEAD!, // Netlify branch env
+    process.env.HEAD!, // Git or Netlify branch env
   token: process.env.TINA_TOKEN!,
   media: {
     // If you wanted cloudinary do this
@@ -261,7 +261,6 @@ const config = defineConfig({
             type: "object",
             label: "Theme",
             name: "theme",
-            // @ts-ignore
             fields: [
               {
                 type: "string",
@@ -368,7 +367,6 @@ const config = defineConfig({
             },
             templates: [
               heroBlockSchema,
-              // @ts-ignore
               featureBlockSchema,
               contentBlockSchema,
               testimonialBlockSchema,
