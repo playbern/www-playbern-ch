@@ -1,7 +1,8 @@
 ---
 title: About
 blocks:
-  - items:
+  - title: Gallery Title
+    items:
       - src: /uploads/llama-2.avif
         alt: ' some text'
         description: Image description
@@ -138,6 +139,7 @@ blocks:
     color: primary
     _template: content
 ---
+
 
 
 
