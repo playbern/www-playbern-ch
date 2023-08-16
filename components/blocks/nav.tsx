@@ -52,7 +52,7 @@ export const navBlockSchema: TinaTemplate = {
     name: "nav",
     label: "Nav",
     ui: {
-        previewSrc: "/blocks/hero.png",
+        previewSrc: "/blocks/nav.png",
         defaultItem: {
             headline: "This Big Text is Totally Awesome",
         },

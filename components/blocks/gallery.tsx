@@ -66,7 +66,7 @@ export const galleryBlockSchema: TinaTemplate = {
     name:"gallery",
     label: "Gallery",
     ui: {
-        previewSrc: "/blocks/features.png",
+        previewSrc: "/blocks/gallery.png",
         defaultItem: {
             items:[defaultImage, defaultImage]
         },
