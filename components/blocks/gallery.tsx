@@ -16,7 +16,7 @@ export const Image = ({
     return (
       <div
         data-tina-field={tinaField(data)}
-        className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
+        className="flex-1 flex -mt-16 flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
         style={{ flexBasis: "16rem" }}
         color={galleryColor}
       >
@@ -29,12 +29,12 @@ export const Image = ({
           />
         )}
         {data.description && (
-          <h3
+          <h4
             data-tina-field={tinaField(data, "description")}
             className="text-2xl font-semibold title-font"
           >
             {data.description}
-          </h3>
+          </h4>
         )}
       </div>
     );
@@ -47,7 +47,7 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
         {data.title && (
           <h3
           data-tina-field={tinaField(data, "title")}
-          className="text-2xl text-center font-semibold title-font"
+          className="text-2xl text-center mt-4 font-semibold title-font"
         >
           {data.title}
           </h3> 

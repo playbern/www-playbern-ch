@@ -59,7 +59,7 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
       )}
 
       <Container
-        className={`grid gap-2 grid-cols-8 text-left`}
+        className={`grid gap-2 grid-cols-6 text-left`}
         size="large"
       >
         {data.items &&
