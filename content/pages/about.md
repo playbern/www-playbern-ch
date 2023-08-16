@@ -58,34 +58,77 @@ blocks:
     _template: content
   - title: Danke & Partner
     items:
-      - src: /uploads/llama-2.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Sbb
-      - src: /uploads/llama-3.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Some text
-      - src: /uploads/llama-3.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Some text
-      - src: /uploads/llama-2.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Some text
-      - src: /uploads/llama-3.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Some text
-      - src: /uploads/llama-4.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Some text
-      - src: /uploads/llama-2.avif
-        alt: ' some text'
-        link: 'https://www.sbb.ch/en'
-        description: Some text
+      - src: /uploads/Kultur-Stadt-Bern.png
+        alt: Kultur Stadt Bern
+        link: >-
+          https://www.bern.ch/politik-und-verwaltung/stadtverwaltung/prd/kultur-stadt-bern
+        description: ''
+      - src: /uploads/Kultur-Stadt-Bern.png
+        alt: ' '
+        link: 'https://www.bern.ch/themen/kultur/'
+        description: ''
+      - src: /uploads/BGB_Logo.png
+        alt: ''
+        link: 'https://www.bgbern.ch/themen/engagements/kulturfoerderung'
+        description: ''
+      - src: /uploads/SL_KtBE_Kultur_d_sw.jpg
+        alt: ''
+        link: 'https://www.erz.be.ch/erz/de/index/kultur/kulturfoerderung.html'
+        description: ''
+      - src: /uploads/ph_logo_neutr_black.png
+        alt: ''
+        link: 'https://prohelvetia.ch/de/'
+        description: ''
+      - src: /uploads/migros-kulturprozent-schwarzweiss_d.png
+        alt: ''
+        link: 'https://engagement.migros.ch/de/kulturprozent'
+        description: ''
+      - src: /uploads/Logo_GVB_Kulturstiftung_quer_sw_pos.png
+        alt: ''
+        link: >-
+          https://gvb.ch/de/gvb-gruppe/engagement/kulturstiftung.html?sliderIndex=0
+        description: ''
+      - src: /uploads/logo_hasler_stiftung_sw.png
+        alt: ''
+        link: 'https://haslerstiftung.ch/'
+        description: ''
+      - src: /uploads/logo_hasler_stiftung_sw.png
+        alt: ''
+        link: 'https://haslerstiftung.ch/'
+        description: ''
+      - src: /uploads/logo_oertli_stiftung.png
+        alt: ''
+        link: 'https://www.oertlistiftung.ch/'
+        description: ''
+      - src: /uploads/Logo_DAM_CMYK_mitClaim-1536x582.png
+        alt: ''
+        link: 'https://denkanmich.ch/'
+        description: ''
+      - src: /uploads/index-Kopie.jpg
+        alt: ''
+        link: 'https://www.gewa.ch/'
+        description: ''
+      - src: /uploads/EGS_Schriftzug_2_schwarz.jpg
+        alt: ''
+        link: >-
+          https://www.ernst-goehner-stiftung.ch/index.php/de/F%C3%B6rdert%C3%A4tigkeit/Kultur
+        description: ''
+      - src: /uploads/Asset-4@4x.png
+        alt: ''
+        link: 'https://tatkraft.org/'
+        description: ''
+      - src: /uploads/cropped-sgda-logo.png
+        alt: ''
+        link: 'https://www.sgda.ch/de/'
+        description: ''
+      - src: /uploads/ITFS22_WM_GB_RGB.jpg
+        alt: ''
+        link: 'https://www.itfs.de/'
+        description: ''
+      - src: /uploads/erupt.png
+        alt: ''
+        link: 'https://www.erupt.ch/'
+        description: ''
     color: primary
     _template: partners
   - body: |
@@ -113,6 +156,26 @@ blocks:
     color: primary
     _template: content
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

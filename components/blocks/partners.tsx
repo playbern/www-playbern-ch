@@ -17,7 +17,7 @@ export const Partner = ({
   return (
     <div
       data-tina-field={tinaField(data)}
-      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
+      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto py-12"
       style={{ flexBasis: "16rem" }}
       color={partnersColor}
     >
@@ -25,6 +25,7 @@ export const Partner = ({
         <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
           {data.src && (
             <img
+            className="max-h-28"
               data-tina-field={tinaField(data, "src")}
               src={data.src}
               alt={data.alt}
