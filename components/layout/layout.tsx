@@ -19,6 +19,7 @@ export const Layout = ({
     <>
       <Head>
         <title>PlayBern</title>
+        <link rel="icon" type="image/x-icon" href="/playbern/logo2023.png"/>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         {data.theme.font === "nunito" && (
           <>
