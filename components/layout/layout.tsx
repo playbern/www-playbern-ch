@@ -51,7 +51,8 @@ export const Layout = ({
         >
           <Header data={data?.header} />
           
-          <div className="flex-1 text-gray-800 bg-gradient-to-br from-yellow-400 to-yellow-400 dark:from-gray-900 dark:to-gray-1000 flex flex-col"> 
+          <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",
+          }}>
             {children}
           </div>
           
