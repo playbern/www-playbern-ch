@@ -22,7 +22,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
       pink: "text-white from-pink-400 to-pink-500",
       purple: "text-white from-purple-400 to-purple-500",
       orange: "text-white from-orange-400 to-orange-500",
-      yellow: "text-gray-1000 from-yellow-400 to-yellow-400",
+      yellow: "text-gray-1000 from-gray-50 to-gray-50",
     },
   };
 
@@ -72,6 +72,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
             >
+              <img src="/playbern/logo2023.png" className="w-36 rounded-md p-0" alt="Playbern logo" />
               <Icon
                 tinaField={tinaField(data, "icon")}
                 parentColor={data.color}
