@@ -22,28 +22,30 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
 
     return (
         <Section color={data.color}>
-            <Container size="small" className="py-0">            
-            {data.actions && (
-                <div className="grid py-0 justify-items-center">
-                    <NavActions
-                        className="flex items-center"
-                        parentColor={data.color}
-                        actions={data.actions} />
-                </div>)}
+            <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
+                <Container size="small" className="py-0">            
+                {data.actions && (
+                    <div className="grid py-0 justify-items-center">
+                        <NavActions
+                            className="flex items-center"
+                            parentColor={data.color}
+                            actions={data.actions} />
+                    </div>)}
 
-            {data.headline && (
-                <h3 data-tina-field={tinaField(data, "headline")}
-                    className={`mb-10 text-2xl pt-10 pb-0 font-extrabold tracking-normal leading-tight title-font text-center`}>
-                    <span
-                        className={`bg-clip-text text-transparent bg-gradient-to-r   ${data.color === "primary"
-                                ? `from-white to-gray-100`
-                                : headlineColorClasses[theme.color]
-                            }`} >
-                        {data.headline}
-                    </span>
-                </h3>
-            )}  
-            </Container>
+                {data.headline && (
+                    <h3 data-tina-field={tinaField(data, "headline")}
+                        className={`mb-10 text-2xl pt-10 pb-0 font-extrabold tracking-normal leading-tight title-font text-center`}>
+                        <span
+                            className={`bg-clip-text text-transparent bg-gradient-to-r   ${data.color === "primary"
+                                    ? `from-white to-gray-100`
+                                    : headlineColorClasses[theme.color]
+                                }`} >
+                            {data.headline}
+                        </span>
+                    </h3>
+                )}  
+                </Container>
+            </div>
         </Section>
     );
 };
