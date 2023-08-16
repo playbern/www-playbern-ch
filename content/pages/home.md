@@ -5,7 +5,8 @@ blocks:
       # PlayBern Festival 2023
 
 
-      ![](</uploads/Screenshot from 2023-06-27 08-39-40.png>)
+      ![playbern logo](</uploads/Screenshot from 2023-06-27 08-39-40.png> "2023
+      design")
 
 
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -75,6 +76,12 @@ blocks:
       Ausstellungen, Games zum Ausprobieren, Wettbewerbe und ein Kinder-
       programm. Das Festivalprogramm richtet sich an Interessierte jeden Alters,
       egal ob mit oder ohne Game-Hintergrund.
+
+
+      ![roboterli](/uploads/playbern-Icon_EDUCATION-1500x1500.png)
+
+
+      ![](/uploads/PlayBern-Sujet2022-1088x1536.jpg)
 
 
       **Für während den Festivaltagen suchen wir Helfer:innen, die bei der
@@ -149,6 +156,7 @@ blocks:
     color: default
     _template: content
 ---
+
 
 
 
