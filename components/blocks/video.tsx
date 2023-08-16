@@ -8,32 +8,31 @@ import { tinaField } from "tinacms/dist/react";
 export const Video = ({ data }: { data: PageBlocksVideo }) => {
   return (
     <Section color={data.color}>
-      <Container size="large">
-
-      <div className=" text-center items-center">
-            <div className=" prose-lg">
-                <iframe 
-                className="w-full h-96"
-                src={data.quote}
-                allowFullScreen
-                ></iframe>
-            </div>
-        </div>
-
-        <footer className="text-center">
-        <p
-            data-tina-field={tinaField(data, `author`)}
-            className={`tracking-wide title-font font-bold text-lg ${
-              data.color === "primary"
-              ? `text-gray-1000`
-              : `text-gray-700 dark:text-gray-50`
-            }`}
-          >
-              {data.author}
-          </p>
-        </footer>
-        
-      </Container>
+      <div className="bg-repeat" style={{ backgroundImage: "url('/playbern/background.png')",}}>
+        <Container size="large">
+          <div className=" text-center items-center">
+              <div className=" prose-lg">
+                  <iframe 
+                  className="w-full h-96"
+                  src={data.quote}
+                  allowFullScreen
+                  ></iframe>
+              </div>
+          </div>
+          <footer className="text-center">
+          <p
+              data-tina-field={tinaField(data, `title`)}
+              className={`tracking-wide title-font font-bold text-lg ${
+                data.color === "primary"
+                ? `text-gray-1000`
+                : `text-gray-700 dark:text-gray-50`
+              }`}
+            >
+                {data.title}
+            </p>
+          </footer>
+        </Container>
+      </div>
     </Section>
   );
 };
@@ -44,9 +43,8 @@ export const videoBlockSchema: Template = {
   ui: {
     previewSrc: "/blocks/video.png",
     defaultItem: {
-      quote:
-        "Video Link",
-      author: "Alt text",
+      quote:"Video Link",
+      title: "Title",
       color: "primary",
     },
   },
@@ -58,8 +56,8 @@ export const videoBlockSchema: Template = {
     },
     {
       type: "string",
-      label: "Author",
-      name: "author",
+      label: "Title",
+      name: "title",
     },
     {
       type: "string",

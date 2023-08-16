@@ -2,7 +2,7 @@
 title: PlayBern
 blocks:
   - quote: 'https://www.youtube.com/embed/-NeFLn55Wpg'
-    author: Alt text
+    title: Title Of The Video
     color: primary
     _template: video
   - quote: >-
@@ -59,7 +59,6 @@ blocks:
       statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick:
       [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
       [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
-
 
 
       ## **Der Kinder-Game-Wettbewerb 2023**
@@ -120,12 +119,16 @@ blocks:
       Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
       Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
 
-      # Kontakt
-      saphir.bendakon@bluewin.ch
-      
+
+      # Kontakt saphir.bendakon@bluewin.ch
+
+
       **Organisation Helfer:innen**
-      
-      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN DEMNÄCHST FOLGEN.*
+
+
+      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN
+      DEMNÄCHST FOLGEN.*
     color: default
     _template: content
 ---
+
