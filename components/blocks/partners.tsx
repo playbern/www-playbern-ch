@@ -47,6 +47,17 @@ export const Partner = ({
 export const Partners = ({ data }: { data: PageBlocksPartners }) => {
   return (
     <Section color={data.color}>
+      <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
+
+      {data.title && (
+        <h3
+        data-tina-field={tinaField(data, "title")}
+        className="text-2xl text-center font-semibold title-font"
+        >
+        {data.title}
+        </h3>   
+      )}
+
       <Container
         className={`grid gap-2 grid-cols-8 text-left`}
         size="large"
@@ -56,6 +67,7 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
             return <Partner partnersColor={data.color} key={i} data={block} />;
           })}
       </Container>
+      </div>
     </Section>
   );
 };
@@ -77,6 +89,11 @@ export const partnersBlockSchema: TinaTemplate = {
     },
   },
   fields: [
+    {
+      name:"title",
+      label:"Title",
+      type:"string"
+    },
     {
       type: "object",
       label: "Partner Items",
