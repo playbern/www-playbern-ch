@@ -33,6 +33,9 @@ blocks:
       [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
 
 
+      ![](/uploads/playbern-Icon_EDUCATION-1500x1500.png)
+
+
       ## **Der Kinder-Game-Wettbewerb 2023**
 
 
@@ -146,6 +149,7 @@ blocks:
     color: default
     _template: content
 ---
+
 
 
 
