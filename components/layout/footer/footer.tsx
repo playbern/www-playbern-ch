@@ -19,7 +19,7 @@ export const Footer = ({ data, icon, rawData }) => {
     purple: "text-purple-500 dark:text-purple-400 hover:text-purple-300",
     orange: "text-orange-500 dark:text-orange-400 hover:text-orange-300",
     yellow: "text-yellow-500 dark:text-yellow-400 hover:text-yellow-300",
-    primary: "text-white opacity-80 hover:opacity-100",
+    primary: "text-yellow-400 opacity-80 hover:opacity-100",
   };
 
   const footerColor = {
@@ -33,7 +33,7 @@ export const Footer = ({ data, icon, rawData }) => {
       pink: "text-white from-pink-500 to-pink-600",
       purple: "text-white from-purple-500 to-purple-600",
       orange: "text-white from-orange-500 to-orange-600",
-      yellow: "text-white from-yellow-400 to-yellow-400",
+      yellow: "text-gray-900 bg-gray-50",
     },
   };
 
@@ -43,7 +43,7 @@ export const Footer = ({ data, icon, rawData }) => {
       : footerColor.default;
 
   return (
-    <footer className={`bg-gradient-to-br ${footerColorCss}`}>
+    <footer className={`bg-${footerColorCss}`}>
       <Container className="relative" size="small">
         <div className="flex justify-between items-center gap-6 flex-wrap">
           <Link
