@@ -116,11 +116,10 @@ blocks:
       **Medien & Kommunikation**
 
 
-      Vera Stierli\
+      Vera Stierli: [vera.playbern@gmail.com\
 
-      Saphir Ben Dakon\
-
-      saphir.bendakon@bluewin.ch
+      Saphir Ben Dakon:
+      saphir.bendakon@bluewin.ch](mailto:vera.playbern@gmail.com)
 
 
       **Verein**
@@ -148,6 +147,7 @@ blocks:
     color: default
     _template: content
 ---
+
 
 
 
