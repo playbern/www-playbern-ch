@@ -1,13 +1,14 @@
 ---
-title: About
+title: Verein
 blocks:
   - body: >
       Der Verein PlayBern organisiert das PlayBern-Festival sowie Kanäle und
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich zusammen
       aus: Bettina Wegenast (Präsidentin), Olivier Stuker (Mitglieder) und
       Philipp Wegenast.
-
-
+    color: ''
+    _template: content
+  - body: >
       ## Mitmachen
 
 
@@ -33,9 +34,10 @@ blocks:
       [Infos & Anmeldung Verein
       PlayBern](https://playbern.ch/wp-content/uploads/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf)
       (.pdf)
-
-
-      ## Team
+    color: white
+    _template: content
+  - body: >
+      ## Team Festival 2023
 
 
       * Bettina Wegenast (Künstlerische Leitung)
@@ -51,21 +53,21 @@ blocks:
       * Meret Stoppia (Organisation Helfer:innen, Kommunikation
       Kinder-Game-Wettbewerb)
 
-      * Oleg Lavrovsky (Tavern Busters)
+      * Oleg Lavrovsky (Webtechnik, Parklet Paradise)
 
       * Jonathan Wegenast (Tavern Busters)
     color: primary
     _template: content
-  - title: Danke & Partner
+  - title: Vielen Dank für die Unterstützung
     items:
       - src: /uploads/Kultur-Stadt-Bern.png
         alt: Kultur Stadt Bern
         link: >-
           https://www.bern.ch/politik-und-verwaltung/stadtverwaltung/prd/kultur-stadt-bern
         description: ''
-      - src: /uploads/Kultur-Stadt-Bern.png
-        alt: ' '
-        link: 'https://www.bern.ch/themen/kultur/'
+      - src: /uploads/Stadt-Bern-BSS-Direktion.png
+        alt: 'Stadt Bern - Direktion für Bildung, Soziales und Sport'
+        link: 'https://www.bern.ch/politik-und-verwaltung/stadtverwaltung/bss'
         description: ''
       - src: /uploads/BGB_Logo.png
         alt: ''
@@ -92,10 +94,6 @@ blocks:
         alt: ''
         link: 'https://haslerstiftung.ch/'
         description: ''
-      - src: /uploads/logo_hasler_stiftung_sw.png
-        alt: ''
-        link: 'https://haslerstiftung.ch/'
-        description: ''
       - src: /uploads/logo_oertli_stiftung.png
         alt: ''
         link: 'https://www.oertlistiftung.ch/'
@@ -113,49 +111,41 @@ blocks:
         link: >-
           https://www.ernst-goehner-stiftung.ch/index.php/de/F%C3%B6rdert%C3%A4tigkeit/Kultur
         description: ''
+    color: white
+    _template: partners
+  - title: Unsere Superpartner!
+    items:
       - src: /uploads/Asset-4@4x.png
-        alt: ''
+        alt: Tatkraft
         link: 'https://tatkraft.org/'
         description: ''
       - src: /uploads/cropped-sgda-logo.png
-        alt: ''
+        alt: Swiss Game Developers Association
         link: 'https://www.sgda.ch/de/'
         description: ''
-      - src: /uploads/ITFS22_WM_GB_RGB.jpg
-        alt: ''
+      - src: /uploads/ITFS.jpg
+        alt: Internationales Trickfilm-Festival Stuttgart (ITFS)
         link: 'https://www.itfs.de/'
         description: ''
-      - src: /uploads/erupt.png
-        alt: ''
+      - src: /uploads/erupt.jpg
+        alt: Erupt
         link: 'https://www.erupt.ch/'
         description: ''
-    color: primary
+    color: white
     _template: partners
-  - body: |
-      ## [Medienecho](/medienecho)
-
-      ## Kontakt
-
-      * **PlayBern**\
-        Buristrasse 53, 3006 Bern\
-        info@playbern.ch
-      * **Programm & Produktion**\
-        Bettina Wegenast\
-        bettina@playbern.ch
-      * **Medien & Kommunikation**\
-        Vera Stierli\
-        Saphir Ben Dakon\
-        saphir.bendakon@bluewin.ch
-      * **Verein**\
-        Philipp Wegenast\
-        info@playbern.ch
-      * **Organisation Helfer:innen**\
-        mstoppia@gmx.ch
-      * **Technik**\
-        Oleg Lavrovsky
+  - body: "# Kontakt\n\n**Verein PlayBern**\n\n\U0001F4E6 Buristrasse 53, 3006 Bern\n\n\U0001F4E8 [info@playbern.ch](mailto:info@playbern.ch \"E-mail\")\n\n**[Programm & Produktion](mailto:info@playbern.ch)**\n\n* [Bettina Wegenast](mailto:bettina@playbern.ch \"E-mail\")\n\n**Medien & Kommunikation**\n\n* [Vera Stierli](mailto:vera.playbern@gmail.com \"E-mail\")\n* [Saphir Ben Dakon](saphir.bendakon@bluewin.ch \"E-mail\")\n\n**Organisation Verein**\n\n* [Philipp Wegenast](mailto:info@playbern.ch \"E-mail\")\n\n**Organisation Helfer:innen**\n\n* [Meret Stoppia](mailto:mstoppia@gmx.ch \"E-mail\")\n\n**Technik**\n\n* [Oleg Lavrovsky](mailto:oleg@datalets.ch \"E-mail\")\n* [Ibrahim Halil-Kuray](https://github.com/Halil-Kuray/)\n"
     color: primary
     _template: content
+  - body: |
+      # [Medienecho](/medienecho)
+
+      ![](/uploads/coplanaphoto.jpg)
+    _template: content
 ---
+
+
+
+
 
 
 

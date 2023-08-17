@@ -16,6 +16,7 @@ export const Content = ({ data }: { data: PageBlocksContent }) => {
           data-tina-field={tinaField(data, "body")}
           size="large"
           width="medium"
+          id={data.label}
         >
           <TinaMarkdown content={data.body} />
         </Container>
@@ -40,12 +41,19 @@ export const contentBlockSchema: TinaTemplate = {
     },
     {
       type: "string",
+      label: "Label",
+      name: "label",
+      description: "An optional name for this block, used for anchors (not shown)"
+    },
+    {
+      type: "string",
       label: "Color",
       name: "color",
       options: [
         { label: "Default", value: "default" },
         { label: "Tint", value: "tint" },
         { label: "Primary", value: "primary" },
+        { label: "White", value: "white" },
       ],
     },
   ],

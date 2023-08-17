@@ -72,7 +72,6 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
             >
-              <img src="/playbern/logo2023.png" className="w-36 rounded-md p-0" alt="Playbern logo" />
               <Icon
                 tinaField={tinaField(data, "icon")}
                 parentColor={data.color}

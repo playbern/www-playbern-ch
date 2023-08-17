@@ -52,7 +52,7 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
       {data.title && (
         <h3
         data-tina-field={tinaField(data, "title")}
-        className="text-2xl text-center font-semibold title-font"
+        className="text-4xl text-center title-font mt-8"
         >
         {data.title}
         </h3>   
@@ -74,9 +74,9 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
 
 const defaultPartner = {
   src: "/blocks/features.png",
-  alt: "Alt Text",
-  link: "https://www.sbb.ch/en",
-  description: "Description",
+  alt: "",
+  link: "",
+  description: "",
 };
 
 export const partnersBlockSchema: TinaTemplate = {
@@ -141,6 +141,7 @@ export const partnersBlockSchema: TinaTemplate = {
         { label: "Default", value: "default" },
         { label: "Tint", value: "tint" },
         { label: "Primary", value: "primary" },
+        { label: "White", value: "white" },
       ],
     },
   ],
