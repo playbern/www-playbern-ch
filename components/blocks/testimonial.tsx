@@ -8,7 +8,6 @@ import { tinaField } from "tinacms/dist/react";
 export const Testimonial = ({ data }: { data: PageBlocksTestimonial }) => {
   return (
     <Section color={data.color}>
-      <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
         <Container size="large">
           <blockquote>
             <div
@@ -58,7 +57,7 @@ export const Testimonial = ({ data }: { data: PageBlocksTestimonial }) => {
             </footer>
           </blockquote>
         </Container>
-      </div>
+      
     </Section>
   );
 };
