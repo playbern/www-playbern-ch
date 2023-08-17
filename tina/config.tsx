@@ -163,7 +163,7 @@ const config = defineConfig({
         format: "mdx",
         ui: {
           router: ({ document }) => {
-            return `/program/${document._sys.filename}`;
+            return `/programs/${document._sys.filename}`;
           },
         },
         fields: [

@@ -4,9 +4,9 @@ import { TinaMarkdown } from "tinacms/dist/rich-text";
 import { BsArrowRight } from "react-icons/bs";
 import { useTheme } from "../layout";
 import format from "date-fns/format";
-import { ProgramsType } from "../../pages/posts";
+import { ProgramType } from "../../pages/programs";
 
-export const Programs = ({ data }: { data: ProgramsType[] }) => {
+export const Programs = ({ data }: { data: ProgramType[] }) => {
   const theme = useTheme();
   const titleColorClasses = {
     blue: "group-hover:text-blue-600 dark:group-hover:text-blue-300",
@@ -21,17 +21,23 @@ export const Programs = ({ data }: { data: ProgramsType[] }) => {
 
   return (
     <>
-      {data.map((postData) => {
-        const post = postData.node;
-        const date = new Date(post.date);
+      {data.map((programData) => {
+        const program = programData.node;
+        const date = new Date(program.date);
         let formattedDate = "";
-        if (!isNaN(date.getTime())) {
-          formattedDate = format(datestart, "MMM dd, yyyy");
+        if (!isNaN(datestart.getTime())) {
+          formattedDate = format(datestart, "HH:mm DD.MM.yyyy");
+        }
+        if (!isNaN(datefinish.getTime())) {
+          if (!isNaN(datestart.getTime())) {
+            formattedDate += ' - '
+          }
+          formattedDate += format(datefinish, "HH:mm DD.MM.yyyy");
         }
         return (
           <Link
-            key={post._sys.filename}
-            href={`/posts/` + post._sys.filename}
+            key={program._sys.filename}
+            href={`/programs/` + program._sys.filename}
             className="group block px-6 sm:px-8 md:px-10 py-10 mb-8 last:mb-0 bg-gray-50 bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-1000 rounded-md shadow-sm transition-all duration-150 ease-out hover:shadow-md hover:to-gray-50 dark:hover:to-gray-800"
           >
             <h3
@@ -39,13 +45,13 @@ export const Programs = ({ data }: { data: ProgramsType[] }) => {
                 titleColorClasses[theme.color]
               }`}
             >
-              {post.title}{" "}
+              {program.title}{" "}
               <span className="inline-block opacity-0 group-hover:opacity-100 transition-all duration-300 ease-out">
                 <BsArrowRight className="inline-block h-8 -mt-1 ml-1 w-auto opacity-70" />
               </span>
             </h3>
             <div className="prose dark:prose-dark w-full max-w-none mb-5 opacity-70">
-              <TinaMarkdown content={post.summary} />
+              <TinaMarkdown content={program.summary} />
             </div>
             <div className="flex items-center">
               {formattedDate !== "" && (
@@ -58,13 +64,13 @@ export const Programs = ({ data }: { data: ProgramsType[] }) => {
                   </p>
                 </>
               )}
-              {post?.category !== "" && (
+              {program?.category !== "" && (
                 <>
                   <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
                     —
                   </span>
                   <p className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150">
-                    {post?.category}
+                    {program?.category}
                   </p>
                 </>
               )}

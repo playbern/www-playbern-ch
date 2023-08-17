@@ -40,3 +40,10 @@ query blogPostQuery($relativePath: String!) {
     }
   }
 }
+
+query programQuery($relativePath: String!) {
+  ...LayoutQueryFragment
+  program(relativePath: $relativePath) {
+    ...ProgramParts
+  }
+}
