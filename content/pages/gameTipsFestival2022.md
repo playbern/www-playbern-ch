@@ -1,5 +1,5 @@
 ---
-title: Game-Tips Festival 2022
+title: Game-Tips
 blocks:
   - body: >
       ## Game-Tipps Festival 2022
@@ -45,6 +45,7 @@ blocks:
       * Spuren auf Papier / Euthanasie anhand eines Games erklärt
     _template: content
 ---
+
 
 
 
