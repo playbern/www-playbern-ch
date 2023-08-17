@@ -8,7 +8,6 @@ import { tinaField } from "tinacms/dist/react";
 export const Video = ({ data }: { data: PageBlocksVideo }) => {
   return (
     <Section color={data.color}>
-      <div className="bg-repeat" style={{ backgroundImage: "url('/playbern/background.png')",}}>
         <Container size="large">
           <div className=" text-center items-center">
               <div className=" prose-lg">
@@ -32,7 +31,6 @@ export const Video = ({ data }: { data: PageBlocksVideo }) => {
             </h3>
           </footer>
         </Container>
-      </div>
     </Section>
   );
 };

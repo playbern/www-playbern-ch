@@ -9,7 +9,6 @@ import { tinaField } from "tinacms/dist/react";
 export const Content = ({ data }: { data: PageBlocksContent }) => {
   return (
     <Section color={data.color}>
-      <div className="bg-repeat text-gray-800  dark:from-gray-900 dark:to-gray-1000" style={{ backgroundImage: "url('/playbern/background.png')",}}>
         <Container
           className={`prose prose-lg ${
             data.color === "primary" ? `prose-primary` : `dark:prose-dark`
@@ -20,7 +19,6 @@ export const Content = ({ data }: { data: PageBlocksContent }) => {
         >
           <TinaMarkdown content={data.body} />
         </Container>
-      </div>
     </Section>
   );
 };

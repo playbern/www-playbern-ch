@@ -48,7 +48,6 @@ export const Partner = ({
 export const Partners = ({ data }: { data: PageBlocksPartners }) => {
   return (
     <Section color={data.color}>
-      <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
 
       {data.title && (
         <h3
@@ -68,7 +67,7 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
             return <Partner partnersColor={data.color} key={i} data={block} />;
           })}
       </Container>
-      </div>
+      
     </Section>
   );
 };

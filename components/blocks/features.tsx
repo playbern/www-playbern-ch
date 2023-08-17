@@ -51,7 +51,6 @@ export const Feature = ({
 export const Features = ({ data }: { data: PageBlocksFeatures }) => {
   return (
     <Section color={data.color}>
-       <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
         <Container
           className={`flex flex-wrap gap-x-10 gap-y-8 text-left`}
           size="large"
@@ -61,7 +60,6 @@ export const Features = ({ data }: { data: PageBlocksFeatures }) => {
               return <Feature featuresColor={data.color} key={i} data={block} />;
             })}
         </Container>
-      </div>
     </Section>
   );
 };

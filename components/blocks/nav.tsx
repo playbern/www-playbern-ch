@@ -22,7 +22,6 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
 
     return (
         <Section color={data.color}>
-            <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
                 <Container size="small" className="py-0">            
                 {data.actions && (
                     <div className="grid py-0 justify-items-center">
@@ -45,7 +44,6 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
                     </h3>
                 )}  
                 </Container>
-            </div>
         </Section>
     );
 };

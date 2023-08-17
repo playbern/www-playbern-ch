@@ -23,7 +23,6 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
 
   return (
     <Section color={data.color}>
-      <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",}}>
         <Container
           size="large"
           className="grid grid-cols-1 md:grid-cols-5 gap-14 items-center justify-center"
@@ -90,7 +89,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
             </div>
           )}
         </Container>
-      </div>
+     
     </Section>
   );
 };
