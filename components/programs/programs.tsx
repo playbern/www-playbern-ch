@@ -21,25 +21,55 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
 
   return (
     <>
+      <h1
+        className="m-8 text-5xl font-extrabold tracking-wide title-font z-20"
+      >Program</h1>
       {data.map((programData) => {
         const program = programData.node;
-        const date = new Date(program.date);
-        let formattedDate = "";
+
+        const datestart = new Date(program.datestart);
+        let formattedDateFrom = "";
         if (!isNaN(datestart.getTime())) {
-          formattedDate = format(datestart, "HH:mm DD.MM.yyyy");
+          formattedDateFrom = format(datestart, "HH:mm dd.MM.yyyy");
         }
+        const datefinish = new Date(program.datefinish);
+        let formattedDateTo = "";
         if (!isNaN(datefinish.getTime())) {
-          if (!isNaN(datestart.getTime())) {
-            formattedDate += ' - '
-          }
-          formattedDate += format(datefinish, "HH:mm DD.MM.yyyy");
+          formattedDateTo = format(datefinish, "HH:MM dd.MM.yyyy");
         }
+        let categoryImg = "";
+        if (program.category.length > 1) {
+          categoryImg = '/playbern/category-' + program.category + '.png';
+        }
+
         return (
           <Link
             key={program._sys.filename}
             href={`/programs/` + program._sys.filename}
             className="group block px-6 sm:px-8 md:px-10 py-10 mb-8 last:mb-0 bg-gray-50 bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-1000 rounded-md shadow-sm transition-all duration-150 ease-out hover:shadow-md hover:to-gray-50 dark:hover:to-gray-800"
           >
+            <div className="float-right">
+              {program?.category !== "" && (
+                <>
+                  <img src={categoryImg}
+                      title={program.category} 
+                      className="mx-16 w-24" 
+                      />
+                </>
+              )}
+            </div>
+            <div>
+              <p
+                className="text-base font-bold"
+              >
+              
+                {formattedDateFrom !== "" && (formattedDateFrom)}
+                <span className="dark:text-gray-500 mx-2">
+                    —
+                </span>
+                {formattedDateTo !== "" && (formattedDateTo)}
+              </p>
+            </div>
             <h3
               className={`text-gray-700 dark:text-white text-3xl lg:text-4xl font-semibold title-font mb-5 transition-all duration-150 ease-out ${
                 titleColorClasses[theme.color]
@@ -52,28 +82,6 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
             </h3>
             <div className="prose dark:prose-dark w-full max-w-none mb-5 opacity-70">
               <TinaMarkdown content={program.summary} />
-            </div>
-            <div className="flex items-center">
-              {formattedDate !== "" && (
-                <>
-                  <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
-                    —
-                  </span>
-                  <p className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150">
-                    {formattedDate}
-                  </p>
-                </>
-              )}
-              {program?.category !== "" && (
-                <>
-                  <span className="font-bold text-gray-200 dark:text-gray-500 mx-2">
-                    —
-                  </span>
-                  <p className="text-base text-gray-400 group-hover:text-gray-500 dark:text-gray-300 dark:group-hover:text-gray-150">
-                    {program?.category}
-                  </p>
-                </>
-              )}
             </div>
           </Link>
         );

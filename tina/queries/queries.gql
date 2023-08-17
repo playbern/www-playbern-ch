@@ -19,6 +19,21 @@ query pageQuery {
       }
     }
   }
+  programConnection {
+    edges {
+      node {
+        id
+        datestart
+        datefinish
+        title
+        summary
+        category
+        _sys {
+          filename
+        }
+      }
+    }
+  }
 }
 
 query contentQuery($relativePath: String!) {

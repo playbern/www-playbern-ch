@@ -9,8 +9,7 @@ import type { TinaMarkdownContent, Components } from "tinacms/dist/rich-text";
 import { ProgramType } from "../../pages/programs/[filename]";
 import { tinaField } from "tinacms/dist/react";
 
-const components: Components<{
-}> = {
+const components: Components<> = {
   img: (props) => (
     <span className="flex items-center justify-center">
       <img src={props.url} alt={props.alt} />
@@ -71,7 +70,7 @@ export const Program = (props: ProgramType) => {
           <p data-tina-field={tinaField(props, "category")}>
             <img src={categoryImg}
               title={props.category} 
-              class="mx-16 w-24" 
+              className="mx-16 w-24" 
               />
           </p>
           <p

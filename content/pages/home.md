@@ -16,7 +16,7 @@ blocks:
       - label: Programm
         type: button
         icon: true
-        link: '#programm'
+        link: /programs
       - label: Wettbewerb
         type: button
         icon: true
@@ -77,7 +77,7 @@ blocks:
   - body: |
       ## Programm 2023
 
-      Steht in Kurze hier zur Verfügung!
+      Steht hier in Kurze zur Verfügung!
     label: programm
     color: white
     _template: content
@@ -86,6 +86,7 @@ blocks:
     color: primary
     _template: content
 ---
+
 
 
 
