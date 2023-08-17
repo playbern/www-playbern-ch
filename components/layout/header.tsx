@@ -71,7 +71,8 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
             <Link
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
-            ><img src="/playbern/logo2023.png" className="w-36 rounded-md p-0" alt="Playbern logo" />
+            >
+              <img src="/playbern/logo2023.png" className="w-36 rounded-md p-0" alt="Playbern logo" />
               <Icon
                 tinaField={tinaField(data, "icon")}
                 parentColor={data.color}
@@ -101,7 +102,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
                     <Link
                       data-tina-field={tinaField(item, "label")}
                       href={`/${item.href}`}
-                      className={`relative select-none	text-base inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-8 px-4 ${
+                      className={`relative select-none	text-base inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-2 px-4 ${
                         activeItem ? `` : `opacity-70`
                       }`}
                     >

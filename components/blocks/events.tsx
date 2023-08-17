@@ -38,7 +38,7 @@ export const Event = ({ eventColor, data }: { eventColor: string; data: PageBloc
             className={`prose prose-lg mx-auto md:mx-0 mb-10 
             ${ eventColor === 'primary' ? `prose-primary` : eventColor === 'tint' ? `prose-tint` : `dark:prose-dark`}`}
           >
-          <TinaMarkdown content={data.body} />
+            <TinaMarkdown content={data.body} />
           </div>
         )}
       </div>

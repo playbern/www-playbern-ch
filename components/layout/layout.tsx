@@ -19,6 +19,7 @@ export const Layout = ({
     <>
       <Head>
         <title>PlayBern</title>
+        <link rel="icon" type="image/x-icon" href="/playbern/logo2023.png"/>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         {data.theme.font === "nunito" && (
           <>
@@ -51,11 +52,9 @@ export const Layout = ({
         >
           <Header data={data?.header} />
           
-          <div className=""> 
           <div className="bg-repeat flex-1 text-gray-800  dark:from-gray-900 dark:to-gray-1000 flex flex-col" style={{ backgroundImage: "url('/playbern/background.png')",
           }}>
             {children}
-          </div>
           </div>
           
           <Footer

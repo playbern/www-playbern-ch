@@ -7,7 +7,6 @@ import { tinaField } from "tinacms/dist/react";
 
 export const Video = ({ data }: { data: PageBlocksVideo }) => {
   return (
-    
     <Section color={data.color}>
       <div className="bg-repeat" style={{ backgroundImage: "url('/playbern/background.png')",}}>
         <Container size="large">
@@ -21,21 +20,20 @@ export const Video = ({ data }: { data: PageBlocksVideo }) => {
               </div>
           </div>
           <footer className="text-center">
-          <p
+          <h3
               data-tina-field={tinaField(data, `title`)}
-              className={`tracking-wide title-font font-bold text-lg ${
+              className={`tracking-wide title-font font-bold text-lg py-4 ${
                 data.color === "primary"
                 ? `text-gray-1000`
                 : `text-gray-700 dark:text-gray-50`
               }`}
             >
                 {data.title}
-            </p>
+            </h3>
           </footer>
         </Container>
       </div>
     </Section>
-    
   );
 };
 
@@ -45,8 +43,7 @@ export const videoBlockSchema: Template = {
   ui: {
     previewSrc: "/blocks/video.png",
     defaultItem: {
-      quote:
-        "Video Link",
+      quote:"Video Link",
       title: "Title",
       color: "primary",
     },

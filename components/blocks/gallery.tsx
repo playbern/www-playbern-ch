@@ -29,12 +29,12 @@ export const Image = ({
           />
         )}
         {data.description && (
-          <h3
+          <h4
             data-tina-field={tinaField(data, "description")}
             className="text-2xl font-semibold title-font"
           >
             {data.description}
-          </h3>
+          </h4>
         )}
       </div>
     );
@@ -47,7 +47,7 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
         {data.title && (
           <h3
           data-tina-field={tinaField(data, "title")}
-          className="text-2xl text-center font-semibold title-font"
+          className="text-2xl text-center mt-4 font-semibold title-font"
         >
           {data.title}
           </h3> 
