@@ -4,12 +4,11 @@ import { Section } from "../util/section";
 import { useTheme } from "../layout";
 import format from "date-fns/format";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
-import { Prism } from "tinacms/dist/rich-text/prism";
-import type { TinaMarkdownContent, Components } from "tinacms/dist/rich-text";
+import type { Components } from "tinacms/dist/rich-text";
 import { ProgramType } from "../../pages/programs/[filename]";
 import { tinaField } from "tinacms/dist/react";
 
-const components: Components<> = {
+const components: Components = {
   img: (props) => (
     <span className="flex items-center justify-center">
       <img src={props.url} alt={props.alt} />

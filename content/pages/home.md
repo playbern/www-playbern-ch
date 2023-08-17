@@ -37,12 +37,6 @@ blocks:
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
       sowohl in Games, als auch in Gaming-Tools, in Game-Figuren und in
       Game-Mechanics.
-
-
-      Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
-      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick:
-      [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
-      [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
     color: white
     _template: content
   - body: >
@@ -74,10 +68,7 @@ blocks:
       [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\*\*
     label: wettbewerb
     _template: content
-  - body: |
-      ## Programm 2023
-
-      Steht hier in Kurze zur Verfügung!
+  - body: "Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick: [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html), [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).\n\n### \U0001F5D3️➡️ [Programm 2023](/programs \"Aktuelle Festivalprogramme anschauen\")\n"
     label: programm
     color: white
     _template: content
@@ -86,6 +77,7 @@ blocks:
     color: primary
     _template: content
 ---
+
 
 
 

@@ -68,8 +68,8 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
 
 const defaultImage = {
     src:"/blocks/features.png",
-    alt: " some text",
-    description:"Image description"
+    alt: "",
+    description:""
 }
 
 export const galleryBlockSchema: TinaTemplate = {
@@ -78,7 +78,7 @@ export const galleryBlockSchema: TinaTemplate = {
     ui: {
         previewSrc: "/blocks/gallery.png",
         defaultItem: {
-            items:[defaultImage, defaultImage]
+            items:[defaultImage]
         },
     },
     fields:[
