@@ -4,17 +4,8 @@ import { Section } from "../util/section";
 import { useTheme } from "../layout";
 import format from "date-fns/format";
 import { TinaMarkdown } from "tinacms/dist/rich-text";
-import type { Components } from "tinacms/dist/rich-text";
 import { ProgramType } from "../../pages/programs/[filename]";
 import { tinaField } from "tinacms/dist/react";
-
-const components: Components = {
-  img: (props) => (
-    <span className="flex items-center justify-center">
-      <img src={props.url} alt={props.alt} />
-    </span>
-  ),
-};
 
 export const Program = (props: ProgramType) => {
   const theme = useTheme();
@@ -108,7 +99,7 @@ export const Program = (props: ProgramType) => {
           data-tina-field={tinaField(props, "_body")}
           className="prose dark:prose-dark w-full max-w-none"
         >
-          <TinaMarkdown components={components} content={props._body} />
+          <TinaMarkdown content={props._body} />
         </div>
       </Container>
     </Section>
