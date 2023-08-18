@@ -222,14 +222,15 @@ const config = defineConfig({
         name: "page",
         path: "content/pages",
         ui: {
+          // @ts-ignore
           router: ({ document }) => {
             if (document._sys.filename === "home") {
-              return `/`;
+              return `/`
             }
-            if (document._sys.filename === "about") {
-              return `/about`;
+            if (document._sys.filename) {
+              return `/${document._sys.filename}`
             }
-            return undefined;
+            return undefined
           },
         },
         fields: [
@@ -252,7 +253,8 @@ const config = defineConfig({
             },
             templates: [
               heroBlockSchema,
-              featureBlockSchema,
+              // @ts-ignore
+              featureBlockSchema, 
               contentBlockSchema,
               testimonialBlockSchema,
               videoBlockSchema,
