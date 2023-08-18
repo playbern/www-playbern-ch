@@ -93,7 +93,7 @@ export const galleryBlockSchema: TinaTemplate = {
           name:"items",
           list: true,
           ui: {
-              itemProps: (item) => {
+              itemProps: (item: any) => {
                 return {
                   label: item?.description,
                 };

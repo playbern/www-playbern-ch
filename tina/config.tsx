@@ -251,7 +251,7 @@ const config = defineConfig({
                 name: "nav",
                 list: true,
                 ui: {
-                  itemProps: (item) => {
+                  itemProps: (item: any) => {
                     return { label: item?.label };
                   },
                   defaultItem: {
@@ -432,7 +432,7 @@ const config = defineConfig({
             },
             templates: [
               heroBlockSchema,
-              featureBlockSchema,
+              // featureBlockSchema,
               contentBlockSchema,
               testimonialBlockSchema,
               videoBlockSchema,

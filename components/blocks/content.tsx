@@ -8,7 +8,7 @@ import { tinaField } from "tinacms/dist/react";
 
 export const Content = ({ data }: { data: PageBlocksContent }) => {
   return (
-    <Section color={data.color}>
+    <Section color={data.color ? data.color : ''}>
         <Container
           className={`prose prose-lg ${
             data.color === "primary" ? `prose-primary` : `dark:prose-dark`

@@ -100,7 +100,7 @@ export const partnersBlockSchema: TinaTemplate = {
       name: "items",
       list: true,
       ui: {
-        itemProps: (item) => {
+        itemProps: (item: any) => {
           return {
             label: item?.link,
           };

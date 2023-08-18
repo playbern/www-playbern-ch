@@ -13,7 +13,7 @@ export const Event = ({ eventColor, data }: { eventColor: string; data: PageBloc
         className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
         style={{ flexBasis: '16rem' }}
       >
-        {data.image && (
+        {data.image && data.image.src && (
           <div
             data-tina-field={tinaField(data.image, 'src')}
             className="relative row-start-1 md:col-span-2 flex justify-center"
@@ -21,13 +21,13 @@ export const Event = ({ eventColor, data }: { eventColor: string; data: PageBloc
             <img
               className="absolute w-full rounded-lg max-w-xs md:max-w-none h-auto blur-2xl brightness-150 contrast-[0.9] dark:brightness-150 saturate-200 opacity-50 dark:opacity-30 mix-blend-multiply dark:mix-blend-hard-light"
               src={data.image.src}
-              alt={data.image.alt}
+              alt={data.image.alt ? data.image.alt : ''}
               aria-hidden="true"
             />
             <img
               className="relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto"
-              alt={data.image.alt}
               src={data.image.src}
+              alt={data.image.alt ? data.image.alt : ''}
             />
           </div>
         )}
@@ -46,11 +46,12 @@ export const Event = ({ eventColor, data }: { eventColor: string; data: PageBloc
 
 export const Events = ({ data }: { data: PageBlocksEvents }) => {
   return (
-    <Section color={data.color}>
+    <Section color={data.color ? data.color: ''}>
       <Container className={`flex flex-wrap gap-x-10 gap-y-8 text-left`} size="large">
         {data.items &&
           data.items.map(function (block, i) {
-            return <Event eventColor={data.color} key={i} data={block} />;
+            if (!block) return null;
+            return <Event eventColor={data.color ? data.color: ''} key={i} data={block} />;
           })}
       </Container>
     </Section>
@@ -81,7 +82,7 @@ export const eventBlockSchema: TinaTemplate = {
         name: 'items',
         list: true,
         ui: {
-          itemProps: (item) => {
+          itemProps: (item: any) => {
             return {
               label: item?.title,
             };

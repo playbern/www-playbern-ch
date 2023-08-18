@@ -15,11 +15,15 @@ export const Blocks = (props: Omit<Page, "id" | "_sys" | "_values">) => {
     <>
       {props.blocks
         ? props.blocks.map(function (block, i) {
-            return (
-              <div key={i} data-tina-field={tinaField(block)}>
-                <Block {...block} />
-              </div>
-            );
+            if (block && block.__typename) {
+              return (
+                <div key={i} data-tina-field={tinaField(block)}>
+                  <Block {...block} />
+                </div>
+              );
+            } else {
+              return null;
+            }
           })
         : null}
     </>
@@ -44,8 +48,8 @@ const Block = (block: PageBlocks) => {
       return <Nav data={block} />;
     case "PageBlocksGallery":
       return <Gallery data={block} />;
-      case "PageBlocksPartners":
-        return <Partners data={block} />;
+    case "PageBlocksPartners":
+      return <Partners data={block} />;
     default:
       return null;
   }
