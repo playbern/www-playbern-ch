@@ -42,9 +42,7 @@ blocks:
 
       * Bettina Wegenast (Künstlerische Leitung)
 
-      * Elisabeth Blättler (Medien & Kommunikation)
-
-      * Salomé Rodriguez Bär (Social Media & Unterstützung Website)
+      * Vera Stierli (Webseite, Kommunikation)
 
       * Olivier Stuker (Jury Kinder-Game-Wettbewerb)
 
@@ -53,7 +51,7 @@ blocks:
       * Meret Stoppia (Organisation Helfer:innen, Kommunikation
       Kinder-Game-Wettbewerb)
 
-      * Oleg Lavrovsky (Webtechnik, Parklet Paradise)
+      * Oleg Lavrovsky (Webtechnik)
 
       * Jonathan Wegenast (Tavern Busters)
     color: primary
@@ -70,16 +68,12 @@ blocks:
         link: 'https://www.bern.ch/politik-und-verwaltung/stadtverwaltung/bss'
         description: ''
       - src: /uploads/partners/BGB_Logo.png
-        alt: ''
+        alt: Burgergemeinde Bern
         link: 'https://www.bgbern.ch/themen/engagements/kulturfoerderung'
         description: ''
       - src: /uploads/partners/SL_KtBE_Kultur_d_sw.jpg
         alt: ''
         link: 'https://www.erz.be.ch/erz/de/index/kultur/kulturfoerderung.html'
-        description: ''
-      - src: /uploads/partners/ph_logo_neutr_black.png
-        alt: ''
-        link: 'https://prohelvetia.ch/de/'
         description: ''
       - src: /uploads/partners/migros-kulturprozent-schwarzweiss_d.png
         alt: ''
@@ -119,21 +113,13 @@ blocks:
         alt: Tatkraft
         link: 'https://tatkraft.org/'
         description: ''
-      - src: /uploads/partners/cropped-sgda-logo.png
-        alt: Swiss Game Developers Association
-        link: 'https://www.sgda.ch/de/'
-        description: ''
-      - src: /uploads/partners/ITFS.jpg
-        alt: Internationales Trickfilm-Festival Stuttgart (ITFS)
-        link: 'https://www.itfs.de/'
-        description: ''
       - src: /uploads/partners/erupt.jpg
         alt: Erupt
         link: 'https://www.erupt.ch/'
         description: ''
     color: white
     _template: partners
-  - body: "# Kontakt\n\n**Verein PlayBern**\n\n\U0001F4E6 Buristrasse 53, 3006 Bern\n\n\U0001F4E8 [info@playbern.ch](mailto:info@playbern.ch \"E-mail\")\n\n**[Programm & Produktion](mailto:info@playbern.ch)**\n\n* [Bettina Wegenast](mailto:bettina@playbern.ch \"E-mail\")\n\n**Medien & Kommunikation**\n\n* [Vera Stierli](mailto:vera.playbern@gmail.com \"E-mail\")\n* [Saphir Ben Dakon](saphir.bendakon@bluewin.ch \"E-mail\")\n\n**Organisation Verein**\n\n* [Philipp Wegenast](mailto:info@playbern.ch \"E-mail\")\n\n**Organisation Helfer:innen**\n\n* [Meret Stoppia](mailto:mstoppia@gmx.ch \"E-mail\")\n\n**Technik**\n\n* [Oleg Lavrovsky](mailto:oleg@datalets.ch \"E-mail\")\n* [Ibrahim Halil-Kuray](https://github.com/Halil-Kuray/)\n"
+  - body: "# Kontakt\n\n**Verein PlayBern**\n\n\U0001F4E6 Buristrasse 53, 3006 Bern\n\n\U0001F4E8 [info@playbern.ch](mailto:info@playbern.ch \"E-mail\")\n\n**[Programm & Produktion](mailto:info@playbern.ch)**\n\n* [Bettina Wegenast](mailto:bettina@playbern.ch \"E-mail\")\n\n**Medien & Kommunikation**\n\n* [Vera Stierli](mailto:vera.playbern@gmail.com \"E-mail\")\n\n**Organisation Verein**\n\n* [Philipp Wegenast](mailto:info@playbern.ch \"E-mail\")\n\n**Organisation Helfer:innen**\n\n* [Meret Stoppia](mailto:mstoppia@gmx.ch \"E-mail\")\n\n**Technik**\n\n* [Oleg Lavrovsky](mailto:oleg@datalets.ch \"E-mail\")\n* [Ibrahim Halil-Kuray](https://github.com/Halil-Kuray/)\n"
     color: primary
     _template: content
   - body: |
@@ -142,6 +128,10 @@ blocks:
       ![](/uploads/photos/coplanaphoto.jpg)
     _template: content
 ---
+
+
+
+
 
 
 

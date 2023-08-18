@@ -38,7 +38,7 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
           formattedDateTo = format(datefinish, "HH:MM dd.MM.yyyy");
         }
         let categoryImg = "";
-        if (program.category.length > 1) {
+        if (program.category) {
           categoryImg = '/playbern/category-' + program.category + '.png';
         }
 
