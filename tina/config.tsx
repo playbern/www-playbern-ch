@@ -424,7 +424,7 @@ const config = defineConfig({
           },
           {
             type: "object",
-            list: true,
+            // list: true,
             name: "blocks",
             label: "Sections",
             ui: {
@@ -432,7 +432,7 @@ const config = defineConfig({
             },
             templates: [
               heroBlockSchema,
-              // featureBlockSchema,
+              featureBlockSchema,
               contentBlockSchema,
               testimonialBlockSchema,
               videoBlockSchema,
