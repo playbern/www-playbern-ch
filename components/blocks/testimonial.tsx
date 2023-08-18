@@ -1,67 +1,68 @@
 import React from "react";
 import { Container } from "../util/container";
 import { Section } from "../util/section";
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import { PageBlocksTestimonial } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
 
 export const Testimonial = ({ data }: { data: PageBlocksTestimonial }) => {
   return (
     <Section color={data.color}>
-      <Container size="large">
-        <blockquote>
-          <div
-            className={`relative z-10 max-w-3xl mx-auto text-4xl lg:text-5xl font-bold tracking-normal text-center title-font ${
-              data.color === "primary"
-                ? `text-gray-1000`
-                : `text-gray-700 dark:text-gray-50`
-            }`}
-          >
-            <span
-              className={`block opacity-15 text-8xl absolute inset-y-1/2 transform translate-y-2	-left-4 leading-4 -z-1`}
-            >
-              &ldquo;
-            </span>
-            <p
-              data-tina-field={tinaField(data, `quote`)}
-              className="relative opacity-95"
-            >
-              {data.quote}
-            </p>
-            <span
-              className={`block opacity-15 text-8xl absolute inset-y-1/2 transform translate-y-3	-right-4 leading-4 -z-1`}
-            >
-              &rdquo;
-            </span>
-          </div>
-          <div className={`my-8 flex-grow-0`}>
-            <span
-              className={`block mx-auto h-0.5 w-1/6 ${
-                data.color === "primary"
-                  ? `bg-gray-1000`
-                  : `bg-gray-200 dark:bg-gray-700`
-              }`}
-            ></span>
-          </div>
-          <footer className="text-center">
-            <p
-              data-tina-field={tinaField(data, `author`)}
-              className={`tracking-wide title-font font-bold text-lg ${
+        <Container size="large">
+          <blockquote>
+            <div
+              className={`relative z-10 max-w-3xl mx-auto text-4xl lg:text-5xl font-bold tracking-normal text-center title-font ${
                 data.color === "primary"
                   ? `text-gray-1000`
-                  : `text-blue-500 dark:text-blue-300`
+                  : `text-gray-700 dark:text-gray-50`
               }`}
             >
-              {data.author}
-            </p>
-          </footer>
-        </blockquote>
-      </Container>
+              <span
+                className={`block opacity-15 text-8xl absolute inset-y-1/2 transform translate-y-2	-left-4 leading-4 -z-1`}
+              >
+                &ldquo;
+              </span>
+              <p
+                data-tina-field={tinaField(data, `quote`)}
+                className="relative opacity-95"
+              >
+                {data.quote}
+              </p>
+              <span
+                className={`block opacity-15 text-8xl absolute inset-y-1/2 transform translate-y-3	-right-4 leading-4 -z-1`}
+              >
+                &rdquo;
+              </span>
+            </div>
+            <div className={`my-8 flex-grow-0`}>
+              <span
+                className={`block mx-auto h-0.5 w-1/6 ${
+                  data.color === "primary"
+                    ? `bg-gray-1000`
+                    : `bg-gray-200 dark:bg-gray-700`
+                }`}
+              ></span>
+            </div>
+            <footer className="text-center">
+              <p
+                data-tina-field={tinaField(data, `author`)}
+                className={`tracking-wide title-font font-bold text-lg ${
+                  data.color === "primary"
+                    ? `text-gray-1000`
+                    : `text-blue-500 dark:text-blue-300`
+                }`}
+              >
+                {data.author}
+              </p>
+            </footer>
+          </blockquote>
+        </Container>
+      
     </Section>
   );
 };
 
-export const testimonialBlockSchema: TinaTemplate = {
+export const testimonialBlockSchema: Template = {
   name: "testimonial",
   label: "Testimonial",
   ui: {

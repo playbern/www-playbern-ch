@@ -1,41 +1,9 @@
 ---
 title: PlayBern
 blocks:
-  - quote: 'https://www.youtube.com/embed/-NeFLn55Wpg'
-    author: Alt text
-    color: primary
-    _template: video
-  - quote: >-
-      There are only two hard things in Computer Science: cache invalidation and
-      naming things.
-    author: Phil Karlton
-    color: primary
-    _template: testimonial
-  - tagline: Here's some text above the other text
-    headline: This Big Text is Totally Awesome
-    text: |
-      Icerik olacak bir metin
-    actions:
-      - label: Action Label label blaakfjajasd
-        type: button
-        icon: false
-        link: /
-      - label: Action Label
-        type: button
-        icon: true
-        link: /
-      - label: Action Label
-        type: button
-        icon: true
-        link: /
-    _template: hero
-  - body: >
-      # PlayBern Festival 2023
-
-
-      ![](</uploads/Screenshot from 2023-06-27 08-39-40.png>)
-
-
+  - tagline: 15. - 17. September 2023
+    headline: PlayBern Festival
+    text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
 
 
@@ -44,10 +12,26 @@ blocks:
       Ausprobieren, Programmieren, Diskutieren … Im Zentrum stehen ungewöhnliche
       Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
       Alters, egal ob mit oder ohne Game-Hintergrund.
-
-
-      #### Das nächste PlayBern-Festival findet vom 15. – 17. September 23
-      wieder im Progr im Zentrum von Bern statt.
+    actions:
+      - label: Programm
+        type: button
+        icon: true
+        link: /program
+      - label: Wettbewerb
+        type: button
+        icon: true
+        link: '#wettbewerb'
+      - label: 'Helfer:innen'
+        type: button
+        icon: true
+        link: '#helpers'
+    image:
+      src: /uploads/figur2023.png
+      alt: Festival für Games + Kultur
+    _template: hero
+  - body: >
+      ## Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder
+      im [PROGR](https://www.progr.ch/) im Zentrum von Bern statt.
 
 
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
@@ -55,14 +39,12 @@ blocks:
       Game-Mechanics.
 
 
-      Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
-      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz. Rückblick:
-      [PlayBern 2022](https://archive.playbern.ch/index.html%3Fp=3525.html),
-      [PlayBern 2021](https://archive.playbern.ch/index.html%3Fp=2103.html).
-
-
-
-      ## **Der Kinder-Game-Wettbewerb 2023**
+      2023 Poster [downloaden und verteilen](/uploads/poster2023.pdf "262
+      KB")!![](/uploads/poster2023.png)
+    color: white
+    _template: content
+  - body: >
+      ## Der Kinder-Game-Wettbewerb 2023
 
 
       Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung
@@ -87,45 +69,37 @@ blocks:
 
 
       **Anmeldeschluss: Sonntag, 27. August 2023 per**
-      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\*\*
+    _template: content
+  - body: "## Helfer:innen gesucht\n\n**15.-17. September 2023, im Progr Bern**\n\nDas PlayBern-Festival bietet eine bunte Mischung aus Spielen, Entdecken, Ausprobieren, Programmieren und Diskutieren. Es gibt Workshops, Ausstellungen, Games zum Ausprobieren, Wettbewerbe und ein Kinder- programm. Das Festivalprogramm richtet sich an Interessierte jeden Alters, egal ob mit oder ohne Game-Hintergrund.\n\n**Für während den Festivaltagen suchen wir Helfer:innen, die bei der Kasse, in den vier Festival- Ausstellungsräumen oder zum Auf- und Abbau helfen.**\n\n* Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr\n* Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr\n\nWir bezahlen 15.- pro Stunde, es gibt tagsüber Verpflegung und natürlich das ganze Wochenende freier Eintritt.\n\n\U0001F929 Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den Tagen und Uhrzeiten, zu denen du verfügbar bist, an!\n"
+    color: primary
+    _template: content
+  - body: >
+      Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
+      statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz.
 
 
-      ## Helfer:innen gesucht
+      Rückblicke: [PlayBern
+      2022](https://archive.playbern.ch/index.html%3Fp=3525.html), [PlayBern
+      2021](https://archive.playbern.ch/index.html%3Fp=2103.html),
+      [Medienecho](/medienecho).
 
-
-      **15.-17. September 2023, im Progr Bern**
-
-
-      Das PlayBern-Festival bietet eine bunte Mischung aus Spielen, Entdecken,
-      Ausprobieren, Programmieren und Diskutieren. Es gibt Workshops,
-      Ausstellungen, Games zum Ausprobieren, Wettbewerbe und ein Kinder-
-      programm. Das Festivalprogramm richtet sich an Interessierte jeden Alters,
-      egal ob mit oder ohne Game-Hintergrund.
-
-
-      **Für während den Festivaltagen suchen wir Helfer:innen, die bei der
-      Kasse, in den vier Festival- Ausstellungsräumen oder zum Auf- und Abbau
-      helfen.**
-
-
-      * Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr
-
-      * Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr
-
-
-      Wir bezahlen 15.- pro Stunde, es gibt tagsüber Verpflegung und natürlich
-      das ganze Wochenende freier Eintritt.
-
-
-      Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den
-      Tagen und Uhrzeiten, zu denen du verfügbar bist, an!
-
-      # Kontakt
-      saphir.bendakon@bluewin.ch
-      
-      **Organisation Helfer:innen**
-      
-      ### *ACHTUNG: DIESE WEBSITE WIRD MOMENTAN ÜBERARBEITET. UPDATES WERDEN DEMNÄCHST FOLGEN.*
-    color: default
+      ![](/uploads/logo2023.png)
     _template: content
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

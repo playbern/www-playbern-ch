@@ -3,7 +3,7 @@ import { NavActions } from "../util/actions";
 import { Container } from "../util/container";
 import { Section } from "../util/section";
 import { useTheme } from "../layout";
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import { PageBlocksNav } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
 
@@ -22,37 +22,37 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
 
     return (
         <Section color={data.color}>
-            <Container size="small" className="py-0">            
-            {data.actions && (
-                <div className="grid py-0 justify-items-center">
-                    <NavActions
-                        className="flex items-center"
-                        parentColor={data.color}
-                        actions={data.actions} />
-                </div>)}
+                <Container size="small" className="py-0">            
+                {data.actions && (
+                    <div className="grid py-0 justify-items-center">
+                        <NavActions
+                            className="flex items-center"
+                            parentColor={data.color}
+                            actions={data.actions} />
+                    </div>)}
 
-            {data.headline && (
-                <h3 data-tina-field={tinaField(data, "headline")}
-                    className={`mb-10 text-2xl pt-10 pb-0 font-extrabold tracking-normal leading-tight title-font text-center`}>
-                    <span
-                        className={`bg-clip-text text-transparent bg-gradient-to-r   ${data.color === "primary"
-                                ? `from-white to-gray-100`
-                                : headlineColorClasses[theme.color]
-                            }`} >
-                        {data.headline}
-                    </span>
-                </h3>
-            )}  
-            </Container>
+                {data.headline && (
+                    <h3 data-tina-field={tinaField(data, "headline")}
+                        className={`mb-10 text-2xl pt-10 pb-0 font-extrabold tracking-normal leading-tight title-font text-center`}>
+                        <span
+                            className={`bg-clip-text text-transparent bg-gradient-to-r   ${data.color === "primary"
+                                    ? `from-white to-gray-100`
+                                    : headlineColorClasses[theme.color]
+                                }`} >
+                            {data.headline}
+                        </span>
+                    </h3>
+                )}  
+                </Container>
         </Section>
     );
 };
 
-export const navBlockSchema: TinaTemplate = {
+export const navBlockSchema: Template = {
     name: "nav",
     label: "Nav",
     ui: {
-        previewSrc: "/blocks/hero.png",
+        previewSrc: "/blocks/nav.png",
         defaultItem: {
             headline: "This Big Text is Totally Awesome",
         },
@@ -75,7 +75,7 @@ export const navBlockSchema: TinaTemplate = {
                     icon: true,
                     link: "/",
                 },
-                itemProps: (item) => ({ label: item.label }),
+                itemProps: (item: any) => ({ label: item.label }),
             },
             fields: [
                 {

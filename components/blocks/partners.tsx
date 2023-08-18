@@ -1,6 +1,6 @@
 import { Section } from "../util/section";
 import { Container } from "../util/container";
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import {
   PageBlocksPartners,
   PageBlocksPartnersItems,
@@ -17,7 +17,7 @@ export const Partner = ({
   return (
     <div
       data-tina-field={tinaField(data)}
-      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto"
+      className="flex-1 flex flex-col gap-6 text-center items-center lg:items-start lg:text-left max-w-xl mx-auto py-12"
       style={{ flexBasis: "16rem" }}
       color={partnersColor}
     >
@@ -25,6 +25,7 @@ export const Partner = ({
         <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
           {data.src && (
             <img
+            className="max-h-28"
               data-tina-field={tinaField(data, "src")}
               src={data.src}
               alt={data.alt}
@@ -47,8 +48,18 @@ export const Partner = ({
 export const Partners = ({ data }: { data: PageBlocksPartners }) => {
   return (
     <Section color={data.color}>
+
+      {data.title && (
+        <h3
+        data-tina-field={tinaField(data, "title")}
+        className="text-4xl text-center title-font mt-8"
+        >
+        {data.title}
+        </h3>   
+      )}
+
       <Container
-        className={`grid gap-2 grid-cols-8 text-left`}
+        className={`grid gap-2 grid-cols-6 text-left`}
         size="large"
       >
         {data.items &&
@@ -56,34 +67,40 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
             return <Partner partnersColor={data.color} key={i} data={block} />;
           })}
       </Container>
+      
     </Section>
   );
 };
 
 const defaultPartner = {
   src: "/blocks/features.png",
-  alt: "Alt Text",
-  link: "https://www.sbb.ch/en",
-  description: "Description",
+  alt: "",
+  link: "",
+  description: "",
 };
 
-export const partnersBlockSchema: TinaTemplate = {
+export const partnersBlockSchema: Template = {
   name: "partners",
   label: "Partners",
   ui: {
-    previewSrc: "/blocks/features.png",
+    previewSrc: "/blocks/partners.png",
     defaultItem: {
       items: [defaultPartner, defaultPartner, defaultPartner],
     },
   },
   fields: [
     {
+      name:"title",
+      label:"Title",
+      type:"string"
+    },
+    {
       type: "object",
       label: "Partner Items",
       name: "items",
       list: true,
       ui: {
-        itemProps: (item) => {
+        itemProps: (item: any) => {
           return {
             label: item?.link,
           };
@@ -124,6 +141,7 @@ export const partnersBlockSchema: TinaTemplate = {
         { label: "Default", value: "default" },
         { label: "Tint", value: "tint" },
         { label: "Primary", value: "primary" },
+        { label: "White", value: "white" },
       ],
     },
   ],

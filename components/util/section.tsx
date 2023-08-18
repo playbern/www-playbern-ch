@@ -5,8 +5,9 @@ export const Section = ({ children, color = "", className = "" }) => {
   const theme = useTheme();
   const sectionColor = {
     default:
-      "text-gray-800 dark:text-gray-50 bg-gradient-to-tl from-gray-50 dark:from-gray-900 via-transparent to-transparent",
+      "text-gray-800 dark:text-gray-50",
     tint: "text-gray-900 dark:text-gray-100 bg-gradient-to-br from-gray-100 dark:from-gray-1000 to-transparent",
+    white: "text-gray-900 dark:text-gray-100 bg-white",
     primary: {
       blue: "text-white bg-blue-500 bg-gradient-to-br from-blue-500 to-blue-600",
       teal: "text-white bg-teal-500 bg-gradient-to-br from-teal-500 to-teal-600",
@@ -19,7 +20,7 @@ export const Section = ({ children, color = "", className = "" }) => {
       orange:
         "text-white bg-orange-500 bg-gradient-to-br from-orange-500 to-orange-600",
       yellow:
-        "text-gray-1000 bg-gray-200 bg-gradient-to-br from-yellow-400 to-yellow-400",
+      "text-gray-1000 bg-gray-200 bg-yellow-400",
     },
   };
   const sectionColorCss =

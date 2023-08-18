@@ -4,7 +4,7 @@
       "color": "blue",
       "style": "float"
     },
-    "name": "PlayBern.ch",
+    "name": "PlayBern",
     "color": "primary",
     "nav": [
       {
@@ -18,19 +18,16 @@
       {
         "href": "about",
         "label": "Verein"
-      },
-      {
-        "href": "posts",
-        "label": "Blogs"
       }
     ]
   },
   "footer": {
-    "color": "primary",
+    "color": "",
     "social": {
-      "facebook": "",
-      "twitter": "https://twitter.com/proxeusapp",
-      "instagram": ""
+      "facebook": "https://www.facebook.com/playbern",
+      "twitter": "https://twitter.com/bern_play",
+      "instagram": "https://www.instagram.com/playbern_festival/",
+      "discord": "https://discord.gg/ZVX8DXp9Z"
     }
   },
   "theme": {
