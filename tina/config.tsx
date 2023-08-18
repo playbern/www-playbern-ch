@@ -37,7 +37,7 @@ const config = defineConfig({
   schema: {
     collections: [
       {
-        label: "Programm",
+        label: "Program",
         name: "program",
         path: "content/program",
         format: "mdx",

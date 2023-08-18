@@ -2,6 +2,7 @@ import type { Page, PageBlocks } from "../tina/__generated__/types";
 import { Content } from "./blocks/content";
 import { Features } from "./blocks/features";
 import { Partners } from "./blocks/partners";
+import { Programs } from "./blocks/programs";
 import { Hero } from "./blocks/hero";
 import { Testimonial } from "./blocks/testimonial";
 import { Video } from "./blocks/video";
@@ -50,6 +51,8 @@ const Block = (block: PageBlocks) => {
       return <Gallery data={block} />;
     case "PageBlocksPartners":
       return <Partners data={block} />;
+    case "PageBlocksPrograms":
+      return <Programs data={block} />;
     default:
       return null;
   }
