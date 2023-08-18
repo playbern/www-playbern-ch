@@ -16,8 +16,8 @@ export const Content = ({ data }: { data: PageBlocksContent }) => {
           data-tina-field={tinaField(data, "body")}
           size="large"
           width="medium"
-          id={data.label}
         >
+          <a name={data.anchor}></a>
           <TinaMarkdown content={data.body} />
         </Container>
     </Section>
@@ -41,9 +41,9 @@ export const contentBlockSchema: TinaTemplate = {
     },
     {
       type: "string",
-      label: "Label",
-      name: "label",
-      description: "An optional name for this block, used for anchors (not shown)"
+      label: "Anchor",
+      name: "anchor",
+      description: "Optional name for #links for this block (not shown)"
     },
     {
       type: "string",
