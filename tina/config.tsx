@@ -37,66 +37,6 @@ const config = defineConfig({
   schema: {
     collections: [
       {
-        label: "Program",
-        name: "program",
-        path: "content/program",
-        format: "mdx",
-        ui: {
-          router: ({ document }) => {
-            return `/programs/${document._sys.filename}`;
-          },
-        },
-        fields: [
-          {
-            type: "string",
-            label: "Title",
-            name: "title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "image",
-            label: "Image",
-            name: "heroImg",
-          },
-          {
-            type: "rich-text",
-            label: "Summary",
-            name: "summary",
-          },
-          {
-            type: "datetime",
-            label: "Start",
-            name: "datestart",
-            ui: {
-              dateFormat: "DD.MM.YYYY",
-              timeFormat: "HH:mm",
-            },
-          },
-          {
-            type: "datetime",
-            label: "Finish",
-            name: "datefinish",
-            ui: {
-              dateFormat: "DD.MM.YYYY",
-              timeFormat: "HH:mm",
-            },
-          },
-          {
-            name: "category",
-            label: "Category",
-            type: "string",
-            options: ["Art", "Education", "Accessibility"],
-          },
-          {
-            type: "rich-text",
-            label: "Body",
-            name: "_body",
-            isBody: true,
-          },
-        ],
-      },
-      {
         label: "Global",
         name: "global",
         path: "content/global",

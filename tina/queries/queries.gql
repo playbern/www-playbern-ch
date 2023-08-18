@@ -1,32 +1,10 @@
 query pageQuery {
   ...LayoutQueryFragment
-  programConnection {
-    edges {
-      node {
-        id
-        datestart
-        datefinish
-        title
-        summary
-        category
-        _sys {
-          filename
-        }
-      }
-    }
-  }
 }
 
 query contentQuery($relativePath: String!) {
   ...LayoutQueryFragment
   page(relativePath: $relativePath) {
     ...PageParts
-  }
-}
-
-query programQuery($relativePath: String!) {
-  ...LayoutQueryFragment
-  program(relativePath: $relativePath) {
-    ...ProgramParts
   }
 }

@@ -16,7 +16,7 @@ blocks:
       - label: Programm
         type: button
         icon: true
-        link: /programs
+        link: /program
       - label: Wettbewerb
         type: button
         icon: true
@@ -87,6 +87,7 @@ blocks:
       ![](/uploads/logo2023.png)
     _template: content
 ---
+
 
 
 
