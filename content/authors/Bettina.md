@@ -1,5 +1,5 @@
 ---
 name: Bettina Wegenast
-avatar: 
+avatar: /playbern/icon.png
 ---
 

@@ -7,11 +7,9 @@ import layoutData from "../../content/global/index.json";
 import { Global } from "../../tina/__generated__/types";
 
 export const Layout = ({
-  rawData = {},
   data = layoutData,
   children,
 }: {
-  rawData?: object;
   data?: Omit<Global, "id" | "_sys" | "_values">;
   children: React.ReactNode;
 }) => {
@@ -57,7 +55,6 @@ export const Layout = ({
           </div>
           
           <Footer
-            rawData={rawData}
             data={data?.footer}
             icon={data?.header.icon}
           />

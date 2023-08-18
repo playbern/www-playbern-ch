@@ -7,3 +7,9 @@ body {
 	background: url('/playbern/background.png');
 	background-repeat: repeat;
 }
+footer {
+    position: fixed;
+    bottom: -1em;
+    right: -1em;
+    border-radius: 2em;
+}

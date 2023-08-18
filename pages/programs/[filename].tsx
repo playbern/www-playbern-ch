@@ -15,7 +15,7 @@ export default function ProgramPage(
   });
   if (data && data.program) {
     return (
-      <Layout rawData={data} data={data.global}>
+      <Layout data={data.global}>
         <Program {...data.program} />
       </Layout>
     );

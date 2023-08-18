@@ -54,7 +54,6 @@ export const Program = (props: ProgramType) => {
           </span>
         </h2>
         <div
-          data-tina-field={tinaField(props, "author")}
           className="flex items-center justify-center mb-16"
         >
           <p data-tina-field={tinaField(props, "category")}>

@@ -46,6 +46,12 @@ Build the project:
 yarn build
 ```
 
+You can also automatically include the Git branch like this:
+
+```bash
+NEXT_PUBLIC_TINA_BRANCH=`git rev-parse --abbrev-ref HEAD` yarn build
+```
+
 ## Getting Help
 
 To get help with any TinaCMS challenges you may have:

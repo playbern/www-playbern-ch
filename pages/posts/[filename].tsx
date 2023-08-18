@@ -15,7 +15,7 @@ export default function BlogPostPage(
   });
   if (data && data.post) {
     return (
-      <Layout rawData={data} data={data.global}>
+      <Layout data={data.global}>
         <Post {...data.post} />
       </Layout>
     );

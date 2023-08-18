@@ -30,6 +30,6 @@ export const getStaticProps = async () => {
   };
 };
 
-export type ProgramsType = InferGetStaticPropsType<
+export type ProgramType = InferGetStaticPropsType<
   typeof getStaticProps
 >["data"]["programConnection"]["edges"][number];

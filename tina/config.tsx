@@ -313,6 +313,11 @@ const config = defineConfig({
                     label: "Github",
                     name: "github",
                   },
+                  {
+                    type: "string",
+                    label: "Discord",
+                    name: "discord"
+                  }
                 ],
               },
             ],
@@ -413,7 +418,7 @@ const config = defineConfig({
             label: "Title",
             name: "title",
             description:
-              "The title of the page. This is used to display the title in the CMS",
+              "The title of the page.",
             isTitle: true,
             required: true,
           },

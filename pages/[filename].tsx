@@ -11,7 +11,7 @@ export default function HomePage(
   const { data } = useTina(props);
 
   return (
-    <Layout rawData={data} data={data.global as any}>
+    <Layout data={data.global}>
       <Blocks {...data.page} />
     </Layout>
   );

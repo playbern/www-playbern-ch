@@ -1,15 +1,14 @@
 import React from "react";
 import Link from "next/link";
-import { FaFacebookF, FaGithub, FaTwitter } from "react-icons/fa";
+import { FaFacebookF, FaGithub, FaTwitter, FaDiscord } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
 import { Container } from "../../util/container";
-import { RawRenderer } from "./rawRenderer";
 import { useTheme } from "..";
 import { Icon } from "../../util/icon";
 
-export const Footer = ({ data, icon, rawData }) => {
+export const Footer = ({ data, icon }) => {
   const theme = useTheme();
-  const socialIconClasses = "h-7 w-auto";
+  const socialIconClasses = "h-7 w-auto bg-white rounded-lg";
   const socialIconColorClasses = {
     blue: "text-blue-500 dark:text-blue-400 hover:text-blue-300",
     teal: "text-teal-500 dark:text-teal-400 hover:text-teal-300",
@@ -37,10 +36,10 @@ export const Footer = ({ data, icon, rawData }) => {
     },
   };
 
-  const footerColorCss =
-    data.color === "primary"
-      ? footerColor.primary[theme.color]
-      : footerColor.default;
+  const footerColorCss = 'none';
+  //  data.color === "primary"
+  //    ? footerColor.primary[theme.color]
+  //    : footerColor.default;
 
   return (
     <footer className={`bg-${footerColorCss}`}>
@@ -61,6 +60,21 @@ export const Footer = ({ data, icon, rawData }) => {
             />
           </Link>
           <div className="flex gap-4">
+            {data.social && data.social.discord && (
+              <a
+                className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
+                href={data.social.discord}
+                target="_blank"
+              >
+                <FaDiscord
+                  className={`${socialIconClasses} ${
+                    socialIconColorClasses[
+                      data.color === "primary" ? "primary" : theme.color
+                    ]
+                  }`}
+                />
+              </a>
+            )}
             {data.social && data.social.facebook && (
               <a
                 className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
@@ -123,11 +137,6 @@ export const Footer = ({ data, icon, rawData }) => {
             )}
           </div>
         </div>
-        <div
-          className={`absolute h-1 bg-gradient-to-r from-transparent ${
-            data.color === "primary" ? `via-white` : `via-black dark:via-white`
-          } to-transparent top-0 left-4 right-4 opacity-5`}
-        ></div>
       </Container>
     </footer>
   );
