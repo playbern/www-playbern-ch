@@ -424,7 +424,7 @@ const config = defineConfig({
           },
           {
             type: "object",
-            // list: true,
+            list: true,
             name: "blocks",
             label: "Sections",
             ui: {

@@ -13,15 +13,15 @@ blocks:
       Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
       Alters, egal ob mit oder ohne Game-Hintergrund.
     actions:
-      - anchor: Programm
+      - label: Programm
         type: button
         icon: true
         link: /programs
-      - anchor: Wettbewerb
+      - label: Wettbewerb
         type: button
         icon: true
         link: '#wettbewerb'
-      - anchor: 'Helfer:innen'
+      - label: 'Helfer:innen'
         type: button
         icon: true
         link: '#helpers'
@@ -70,10 +70,8 @@ blocks:
 
       **Anmeldeschluss: Sonntag, 27. August 2023 per**
       [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\*\*
-    anchor: wettbewerb
     _template: content
   - body: "## Helfer:innen gesucht\n\n**15.-17. September 2023, im Progr Bern**\n\nDas PlayBern-Festival bietet eine bunte Mischung aus Spielen, Entdecken, Ausprobieren, Programmieren und Diskutieren. Es gibt Workshops, Ausstellungen, Games zum Ausprobieren, Wettbewerbe und ein Kinder- programm. Das Festivalprogramm richtet sich an Interessierte jeden Alters, egal ob mit oder ohne Game-Hintergrund.\n\n**Für während den Festivaltagen suchen wir Helfer:innen, die bei der Kasse, in den vier Festival- Ausstellungsräumen oder zum Auf- und Abbau helfen.**\n\n* Festival: Fr 18-20 Uhr / Sa 10-18 Uhr / So 10-18 Uhr\n* Aufbau & Abbau: Do & Fr 10-16 Uhr / So 18-20 Uhr\n\nWir bezahlen 15.- pro Stunde, es gibt tagsüber Verpflegung und natürlich das ganze Wochenende freier Eintritt.\n\n\U0001F929 Hast du Interesse? [Schreib uns eine Mail](mailto:mstoppia@gmx.ch) mit den Tagen und Uhrzeiten, zu denen du verfügbar bist, an!\n"
-    anchor: helpers
     color: primary
     _template: content
   - body: >
@@ -87,9 +85,9 @@ blocks:
       [Medienecho](/medienecho).
 
       ![](/uploads/logo2023.png)
-    anchor: programm
     _template: content
 ---
+
 
 
 

@@ -17,7 +17,6 @@ export const Content = ({ data }: { data: PageBlocksContent }) => {
           size="large"
           width="medium"
         >
-          <a name={data.anchor}></a>
           <TinaMarkdown content={data.body} />
         </Container>
     </Section>
@@ -38,12 +37,6 @@ export const contentBlockSchema: TinaTemplate = {
       type: "rich-text",
       label: "Body",
       name: "body",
-    },
-    {
-      type: "string",
-      label: "Anchor",
-      name: "anchor",
-      description: "Optional name for #links for this block (not shown)"
     },
     {
       type: "string",
