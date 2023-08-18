@@ -80,10 +80,10 @@ const config = defineConfig({
             },
           },
           {
-            name:"category",
-            label:"Category",
-            type:"string",
-            options:["Art","Education","Accessibility","Partner"],
+            name: "category",
+            label: "Category",
+            type: "string",
+            options: ["Art", "Education", "Accessibility", "Partner"],
           },
           {
             type: "rich-text",
