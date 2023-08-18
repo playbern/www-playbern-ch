@@ -3,7 +3,7 @@ import { tinaField } from 'tinacms/dist/react';
 import { Container } from '../util/container';
 import { Section } from '../util/section';
 import { TinaMarkdown } from 'tinacms/dist/rich-text';
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import React from 'react';
 
 export const Program = ({ data }: { data: PageBlocksProgramsItems }) => {
@@ -37,4 +37,36 @@ export const Programs = ({ data }: { data: PageBlocksPrograms }) => {
       </Container>
     </Section>
   );
+};
+
+
+const defaultProgram = {
+  summary: "",
+  body: "",
+};
+
+export const programsBlockSchema: Template = {
+  label: "Program",
+  name: "program",
+  ui: {
+    previewSrc: "/blocks/partners.png",
+  },
+  fields: [
+    {
+      type: "string",
+      label: "Title",
+      name: "title",
+    },
+    {
+      type: "object",
+      label: "Program Items",
+      name: "items",
+      list: true,
+      ui: {
+        router: ({ document }) => {
+          return `/programs/${document._sys.filename}`;
+        },
+      }
+    }
+  ],
 };

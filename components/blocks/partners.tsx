@@ -1,6 +1,6 @@
 import { Section } from "../util/section";
 import { Container } from "../util/container";
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import {
   PageBlocksPartners,
   PageBlocksPartnersItems,
@@ -79,7 +79,7 @@ const defaultPartner = {
   description: "",
 };
 
-export const partnersBlockSchema: TinaTemplate = {
+export const partnersBlockSchema: Template = {
   name: "partners",
   label: "Partners",
   ui: {

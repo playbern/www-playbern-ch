@@ -3,7 +3,7 @@ import { NavActions } from "../util/actions";
 import { Container } from "../util/container";
 import { Section } from "../util/section";
 import { useTheme } from "../layout";
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import { PageBlocksNav } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
 
@@ -48,7 +48,7 @@ export const Nav = ({ data }: { data: PageBlocksNav }) => {
     );
 };
 
-export const navBlockSchema: TinaTemplate = {
+export const navBlockSchema: Template = {
     name: "nav",
     label: "Nav",
     ui: {

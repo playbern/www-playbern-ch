@@ -1,6 +1,6 @@
 import { Section } from "../util/section";
 import { Container } from "../util/container";
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import { PageBlocksGallery, PageBlocksGalleryItems  } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
 import ModalImage from 'react-modal-image';
@@ -72,7 +72,7 @@ const defaultImage = {
     description:""
 }
 
-export const galleryBlockSchema: TinaTemplate = {
+export const galleryBlockSchema: Template = {
     name:"gallery",
     label: "Gallery",
     ui: {

@@ -51,8 +51,8 @@ const Block = (block: PageBlocks) => {
       return <Gallery data={block} />;
     case "PageBlocksPartners":
       return <Partners data={block} />;
-    case "PageBlocksPrograms":
-      return <Programs data={block} />;
+    //case "PageBlocksPrograms":
+    //  return <Programs data={block} />;
     default:
       return null;
   }

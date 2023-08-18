@@ -3,7 +3,7 @@ import { tinaField } from 'tinacms/dist/react';
 import { Container } from '../util/container';
 import { Section } from '../util/section';
 import { TinaMarkdown } from 'tinacms/dist/rich-text';
-import type { TinaTemplate } from "tinacms";
+import type { Template } from "tinacms";
 import React from 'react';
 
 export const Event = ({ eventColor, data }: { eventColor: string; data: PageBlocksEventsItems }) => {
@@ -66,7 +66,7 @@ export const defaultEvent = {
   },
 };
 
-export const eventBlockSchema: TinaTemplate = {
+export const eventBlockSchema: Template = {
     name: 'events',
     label: 'Events',
     ui: {
