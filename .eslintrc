@@ -8,6 +8,9 @@
     "plugin:@typescript-eslint/recommended"
   ],
   "rules": {
-    "@typescript-eslint/no-non-null-assertion": "off"
+    "@typescript-eslint/no-non-null-assertion": "off",
+    // https://typescript-eslint.io/rules/ban-ts-comment/
+    "@typescript-eslint/ban-ts-comment": "warn",
+    "@typescript-eslint/ban-types": "warn"
   }
 }
