@@ -39,8 +39,9 @@ blocks:
       Game-Mechanics.
 
 
-      2023 Poster [downloaden und verteilen](/uploads/poster2023.pdf "262
-      KB")!![](/uploads/poster2023.png)
+      2023 Flyer [downloaden und
+      verteilen!](<https://assets.tina.io/b022fb78-dee7-41fa-8081-1869fa876097/PlayBern
+      Flyer 2023 zum Download.pdf> "262 KB")
     color: white
     _template: content
   - body: >
@@ -87,6 +88,7 @@ blocks:
       ![](/uploads/logo2023.png)
     _template: content
 ---
+
 
 
 
