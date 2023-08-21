@@ -21,8 +21,8 @@ blocks:
         type: button
         icon: true
         link: '#wettbewerb'
-      - label: 'Helfer:innen'
-        type: button
+      - label: ''
+        type: ''
         icon: true
         link: '#helpers'
     image:
@@ -87,6 +87,7 @@ blocks:
       ![](/uploads/logo2023.png)
     _template: content
 ---
+
 
 
 
