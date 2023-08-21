@@ -59,7 +59,7 @@ blocks:
       Games» und «Interaktive Projekte» bewertet:
 
 
-      * Altersgruppe 1:     8 – 12 Jahre
+      * Altersgruppe 1:      8 – 12 Jahre
 
       * Altersgruppe 2:  13 – 16 Jahre
 
@@ -87,6 +87,7 @@ blocks:
       ![](/uploads/logo2023.png)
     _template: content
 ---
+
 
 
 
