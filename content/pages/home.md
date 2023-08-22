@@ -22,7 +22,7 @@ blocks:
         icon: true
         link: /posts/2023-kinder-game-wettbewerb
     image:
-      src: ''
+      src: /uploads/2023/figur2023.png
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
@@ -55,6 +55,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
