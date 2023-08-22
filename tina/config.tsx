@@ -37,6 +37,188 @@ const config = defineConfig({
   schema: {
     collections: [
       {
+        label: "Aktuell",
+        name: "post",
+        path: "content/posts",
+        format: "mdx",
+        ui: {
+          // @ts-ignore
+          router: ({ document }) => {
+            return `/posts/${document._sys.filename}`;
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            label: "Title",
+            name: "title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "image",
+            name: "heroImg",
+            label: "Hero Image",
+          },
+          {
+            type: "rich-text",
+            label: "Excerpt",
+            name: "excerpt",
+          },
+          {
+            type: "reference",
+            label: "Author",
+            name: "author",
+            collections: ["author"],
+          },
+          {
+            type: "datetime",
+            label: "Date",
+            name: "date",
+            ui: {
+              dateFormat: "DD.MM.YYYY",
+              timeFormat: "HH:mm",
+            },
+          },
+          {
+            name: "category",
+            label: "Category",
+            type: "string",
+            options: ["Art", "Education", "Accessibility", "Partner"],
+          },
+          {
+            type: "rich-text",
+            label: "Body",
+            name: "_body",
+            templates: [
+              {
+                name: "DateTime",
+                label: "Date & Time",
+                inline: true,
+                fields: [
+                  {
+                    name: "format",
+                    label: "Format",
+                    type: "string",
+                    options: ["utc", "iso", "local"],
+                  },
+                ],
+              },
+              {
+                name: "BlockQuote",
+                label: "Block Quote",
+                fields: [
+                  {
+                    name: "children",
+                    label: "Quote",
+                    type: "rich-text",
+                  },
+                  {
+                    name: "authorName",
+                    label: "Author",
+                    type: "string",
+                  },
+                ],
+              },
+              {
+                name: "NewsletterSignup",
+                label: "Newsletter Sign Up",
+                fields: [
+                  {
+                    name: "children",
+                    label: "CTA",
+                    type: "rich-text",
+                  },
+                  {
+                    name: "placeholder",
+                    label: "Placeholder",
+                    type: "string",
+                  },
+                  {
+                    name: "buttonText",
+                    label: "Button Text",
+                    type: "string",
+                  },
+                  {
+                    name: "disclaimer",
+                    label: "Disclaimer",
+                    type: "rich-text",
+                  },
+                ],
+                ui: {
+                  defaultItem: {
+                    placeholder: "Enter your email",
+                    buttonText: "Notify Me",
+                  },
+                },
+              },
+            ],
+            isBody: true,
+          },
+        ],
+      },
+      {
+        label: "Programm",
+        name: "program",
+        path: "content/program",
+        format: "mdx",
+        ui: {
+          // @ts-ignore
+          router: ({ document }) => {
+            return `/programs/${document._sys.filename}`;
+          },
+        },
+        fields: [
+          {
+            type: "string",
+            label: "Title",
+            name: "title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "image",
+            label: "Image",
+            name: "heroImg",
+          },
+          {
+            type: "rich-text",
+            label: "Summary",
+            name: "summary",
+          },
+          {
+            type: "datetime",
+            label: "Start",
+            name: "datestart",
+            ui: {
+              dateFormat: "DD.MM.YYYY",
+              timeFormat: "HH:mm",
+            },
+          },
+          {
+            type: "datetime",
+            label: "Finish",
+            name: "datefinish",
+            ui: {
+              dateFormat: "DD.MM.YYYY",
+              timeFormat: "HH:mm",
+            },
+          },
+          {
+            name: "category",
+            label: "Category",
+            type: "string",
+            options: ["Art", "Education", "Accessibility"],
+          },
+          {
+            type: "rich-text",
+            label: "Body",
+            name: "_body",
+            isBody: true,
+          },
+        ],
+      },
+      {
         label: "Global",
         name: "global",
         path: "content/global",

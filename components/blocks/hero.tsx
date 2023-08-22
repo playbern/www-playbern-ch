@@ -21,8 +21,16 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
     yellow: "from-gray-1000 to-gray-1000",
   };
 
+  const sectionAnchor = 
+    data.headline ? 
+      data.headline.replace(/\W/g, '').toLowerCase() : 
+    data.tagline ? 
+      data.tagline.replace(/\W/g, '').toLowerCase() : 
+    '';
+
   return (
     <Section color={data.color}>
+        <a name={sectionAnchor}></a>
         <Container
           size="large"
           className="grid grid-cols-1 md:grid-cols-5 gap-14 items-center justify-center"

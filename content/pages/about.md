@@ -13,10 +13,7 @@ blocks:
 
 
       Mit Deiner Mitgliedschaft unterstützt du das PlayBern-Festival und die
-      Game-Kultur in und um Bern.
-
-
-      You win:
+      Game-Kultur in und um Bern. You win:
 
 
       * reduzierter Eintritt ans Festival
@@ -24,15 +21,19 @@ blocks:
       * tiefe Einblicke in die Gaming-Kultur …
 
 
-      > Mit Fr. 50.- im Jahr bist du dabei.
+      #### Mit Fr. 50.- im Jahr bist du dabei.
+
+
+      ***
 
 
       [Statuten Verein
-      PlayBern](https://playbern.ch/wp-content/uploads/partners/2020/07/Statuten-Verein-PlayBern.pdf)
+      PlayBern](https://archive.playbern.ch/wp-content/uploads/partners/2020/07/Statuten-Verein-PlayBern.pdf)
       (.pdf)
 
+
       [Infos & Anmeldung Verein
-      PlayBern](https://playbern.ch/wp-content/uploads/partners/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf)
+      PlayBern](https://archive.playbern.ch/wp-content/uploads/partners/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf)
       (.pdf)
     color: white
     _template: content
@@ -125,9 +126,10 @@ blocks:
   - body: |
       # [Medienecho](/medienecho)
 
-      ![](/uploads/photos/coplanaphoto.jpg)
+      ![](/uploads/2023/photos/coplanaphoto.jpg)
     _template: content
 ---
+
 
 
 

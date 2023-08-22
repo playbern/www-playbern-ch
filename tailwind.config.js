@@ -128,6 +128,9 @@ module.exports = {
               borderRadius: "3px",
               margin: "-0.25rem 1px",
             },
+            "li::marker": {
+              color: theme("colors.black"),
+            },
             "code::before": {
               content: '""',
             },
@@ -229,6 +232,7 @@ module.exports = {
               borderBottomColor: theme("colors.gray.1000"),
             },
             "tbody tr": { borderBottomColor: theme("colors.gray.1000") },
+            "li div": { margin: "0px" },
           },
         },
       }),

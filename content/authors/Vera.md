@@ -1,6 +1,6 @@
 ---
 name: Vera Stierli
-avatar: /playbern/icon.png
+avatar: /uploads/global/icon.png
 ---
 
 

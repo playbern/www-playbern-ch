@@ -16,17 +16,13 @@ blocks:
       - label: Programm
         type: button
         icon: true
-        link: /program
+        link: /programs
       - label: Wettbewerb
         type: button
         icon: true
-        link: '#wettbewerb'
-      - label: ''
-        type: ''
-        icon: true
-        link: '#helpers'
+        link: /posts/2023-kinder-game-wettbewerb
     image:
-      src: /uploads/figur2023.png
+      src: /uploads/2023/figur2023.png
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
@@ -39,40 +35,12 @@ blocks:
       Game-Mechanics.
 
 
-      2023 Flyer [downloaden und verteilen](/uploads/poster2023.pdf "262
-      KB")!![Flyer PlayBern - Festival 2023](/uploads/poster2023.png)
+      2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "262
+      KB")!![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
     color: default
     _template: content
-  - body: >
-      ## Der Kinder-Game-Wettbewerb 2023
-
-
-      Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung
-      einen Wettbewerb für von Kindern eigenständig entwickelte Games
-      durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im
-      Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
-
-
-      **Am Wettbewerb können Kinder und Jugendliche teilnehmen, die in der
-      Schweiz wohnen und die selber Games kreieren.** Die Games werden in zwei
-      unterschiedlichen Altersgruppen und in den beiden Kategorien «Digitale
-      Games» und «Interaktive Projekte» bewertet:
-
-
-      * Altersgruppe 1:         8 – 12 Jahre 
-
-      * Altersgruppe 2:       13 – 16 Jahre
-
-
-      Pro Einzelperson oder pro Gruppe ist jeweils nur eine Einreichung
-      möglich.
-
-
-      **Anmeldeschluss: Sonntag, 27. August 2023 per**
-      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\*\*
-    _template: content
-  - body: ''
-    color: default
+  - body: "## Der Kinder-Game-Wettbewerb 2023\n\nBereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.\n\nAnmeldeschluss: **Sonntag, 27. August 2023** per [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\n\n### \U0001F449\U0001F3FD [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)\n"
+    color: white
     _template: content
   - body: >
       Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
@@ -84,9 +52,10 @@ blocks:
       2021](https://archive.playbern.ch/index.html%3Fp=2103.html),
       [Medienecho](/medienecho).
 
-      ![](/uploads/logo2023.png)
+      ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 

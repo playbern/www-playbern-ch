@@ -18,6 +18,10 @@
       {
         "href": "about",
         "label": "Verein"
+      },
+      {
+        "href": "posts",
+        "label": "Aktuell"
       }
     ]
   },
