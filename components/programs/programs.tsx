@@ -40,7 +40,7 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
         }
         let categoryImg = "";
         if (program.category) {
-          categoryImg = '/playbern/category-' + program.category + '.png';
+          categoryImg = '/uploads/global/category-' + program.category + '.png';
         }
 
         return (

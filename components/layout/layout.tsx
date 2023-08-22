@@ -17,7 +17,7 @@ export const Layout = ({
     <>
       <Head>
         <title>PlayBern</title>
-        <link rel="icon" type="image/x-icon" href="/playbern/icon.png"/>
+        <link rel="icon" type="image/x-icon" href="/uploads/global/icon.png"/>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         {data.theme.font === "nunito" && (
           <>

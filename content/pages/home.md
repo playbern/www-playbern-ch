@@ -26,7 +26,7 @@ blocks:
         icon: true
         link: '#wettbewerb'
     image:
-      src: /uploads/figur2023.png
+      src: /uploads/2023/figur2023.png
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
@@ -39,8 +39,8 @@ blocks:
       Game-Mechanics.
 
 
-      2023 Flyer [downloaden und verteilen](/uploads/poster2023.pdf "262
-      KB")!![Flyer PlayBern - Festival 2023](/uploads/poster2023.png)
+      2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "262
+      KB")!![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
     color: default
     _template: content
   - body: >
@@ -84,7 +84,7 @@ blocks:
       2021](https://archive.playbern.ch/index.html%3Fp=2103.html),
       [Medienecho](/medienecho).
 
-      ![](/uploads/logo2023.png)
+      ![](/uploads/2023/logo2023.png)
     _template: content
 ---
 

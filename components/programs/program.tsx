@@ -35,7 +35,7 @@ export const Program = (props: ProgramType) => {
   }
   let categoryImg = "";
   if (props.category) {
-    categoryImg = '/playbern/category-' + props.category + '.png';
+    categoryImg = '/uploads/global/category-' + props.category + '.png';
   }
 
   return (

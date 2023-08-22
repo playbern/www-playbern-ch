@@ -125,7 +125,7 @@ blocks:
   - body: |
       # [Medienecho](/medienecho)
 
-      ![](/uploads/photos/coplanaphoto.jpg)
+      ![](/uploads/2023/photos/coplanaphoto.jpg)
     _template: content
 ---
 

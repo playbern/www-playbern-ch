@@ -1,6 +1,6 @@
 ---
 name: Saphir Ben Dakon
-avatar: /playbern/icon.png
+avatar: /uploads/global/icon.png
 ---
 
 
