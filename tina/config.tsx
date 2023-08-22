@@ -42,6 +42,7 @@ const config = defineConfig({
         path: "content/posts",
         format: "mdx",
         ui: {
+          // @ts-ignore
           router: ({ document }) => {
             return `/posts/${document._sys.filename}`;
           },
@@ -162,6 +163,7 @@ const config = defineConfig({
         path: "content/program",
         format: "mdx",
         ui: {
+          // @ts-ignore
           router: ({ document }) => {
             return `/programs/${document._sys.filename}`;
           },
