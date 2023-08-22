@@ -19,6 +19,7 @@ export const Layout = ({
         <title>PlayBern</title>
         <link rel="icon" type="image/x-icon" href="/uploads/global/icon.png"/>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        {/* eslint-disable @next/next/no-page-custom-font */}
         {data.theme.font === "nunito" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -39,6 +40,7 @@ export const Layout = ({
             />
           </>
         )}
+        {/* eslint-enable @next/next/no-page-custom-font */}
       </Head>
       <Theme data={data?.theme}>
         <div

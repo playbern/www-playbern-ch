@@ -5,6 +5,7 @@ import { Section } from '../util/section';
 import { TinaMarkdown } from 'tinacms/dist/rich-text';
 import type { Template } from "tinacms";
 import React from 'react';
+import Image from 'next/image';
 
 export const Event = ({ eventColor, data }: { eventColor: string; data: PageBlocksEventsItems }) => {
   return (
@@ -18,16 +19,18 @@ export const Event = ({ eventColor, data }: { eventColor: string; data: PageBloc
             data-tina-field={tinaField(data.image, 'src')}
             className="relative row-start-1 md:col-span-2 flex justify-center"
           >
-            <img
-              className="absolute w-full rounded-lg max-w-xs md:max-w-none h-auto blur-2xl brightness-150 contrast-[0.9] dark:brightness-150 saturate-200 opacity-50 dark:opacity-30 mix-blend-multiply dark:mix-blend-hard-light"
+            <Image
+              className={`absolute w-full rounded-lg max-w-xs md:max-w-none h-auto blur-2xl brightness-150 contrast-[0.9] dark:brightness-150 saturate-200 opacity-50 dark:opacity-30 mix-blend-multiply dark:mix-blend-hard-light`}
               src={data.image.src}
               alt={data.image.alt ? data.image.alt : ''}
               aria-hidden="true"
+              fill={true}
             />
-            <img
-              className="relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto"
+            <Image
+              className={`relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto`}
               src={data.image.src}
               alt={data.image.alt ? data.image.alt : ''}
+              fill={true}
             />
           </div>
         )}
@@ -82,7 +85,7 @@ export const eventBlockSchema: Template = {
         name: 'items',
         list: true,
         ui: {
-          itemProps: (item: any) => {
+          itemProps: (item) => {
             return {
               label: item?.title,
             };

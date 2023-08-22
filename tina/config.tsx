@@ -253,7 +253,7 @@ const config = defineConfig({
                 name: "nav",
                 list: true,
                 ui: {
-                  itemProps: (item: any) => {
+                  itemProps: (item) => {
                     return { label: item?.label };
                   },
                   defaultItem: {

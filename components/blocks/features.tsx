@@ -91,7 +91,7 @@ export const featureBlockSchema = {
       name: "items",
       list: true,
       ui: {
-        itemProps: (item: any) => {
+        itemProps: (item) => {
           return {
             label: item?.title,
           };

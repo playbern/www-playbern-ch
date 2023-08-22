@@ -75,7 +75,7 @@ export const navBlockSchema: Template = {
                     icon: true,
                     link: "/",
                 },
-                itemProps: (item: any) => ({ label: item.label }),
+                itemProps: (item) => ({ label: item.label }),
             },
             fields: [
                 {

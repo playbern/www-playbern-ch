@@ -5,6 +5,7 @@ import { BsArrowRight } from "react-icons/bs";
 import { useTheme } from "../layout";
 import format from "date-fns/format";
 import { ProgramType } from "../../pages/programs";
+import Image from 'next/image';
 
 export const Programs = ({ data }: { data: ProgramType[] }) => {
   const theme = useTheme();
@@ -52,10 +53,11 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
             <div className="float-right">
               {program?.category !== "" && (
                 <>
-                  <img src={categoryImg}
+                  <Image src={categoryImg}
                       title={program.category} 
                       className="mx-16 w-24" 
-                      />
+                      fill={true}
+                  />
                 </>
               )}
             </div>

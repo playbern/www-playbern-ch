@@ -5,6 +5,7 @@ import { BsArrowRight } from "react-icons/bs";
 import { useTheme } from "../layout";
 import format from "date-fns/format";
 import { PostsType } from "../../pages/posts";
+import Image from 'next/image';
 
 export const Posts = ({ data }: { data: PostsType[] }) => {
   const theme = useTheme();
@@ -49,10 +50,11 @@ export const Posts = ({ data }: { data: PostsType[] }) => {
             </div>
             <div className="flex items-center">
               <div className="flex-shrink-0 mr-2">
-                <img
+                <Image
                   className="h-10 w-10 object-cover rounded-full shadow-sm"
                   src={post?.author?.avatar}
                   alt={post?.author?.name}
+                  fill={true}
                 />
               </div>
               <p className="text-base font-medium text-gray-600 group-hover:text-gray-800 dark:text-gray-200 dark:group-hover:text-white">

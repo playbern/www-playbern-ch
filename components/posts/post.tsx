@@ -1,16 +1,3 @@
-/**
-Copyright 2021 Forestry.io Holdings, Inc.
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-    http://www.apache.org/licenses/LICENSE-2.0
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-*/
-
 import React from "react";
 import { Container } from "../util/container";
 import { Section } from "../util/section";
@@ -21,6 +8,7 @@ import { Prism } from "tinacms/dist/rich-text/prism";
 import type { TinaMarkdownContent, Components } from "tinacms/dist/rich-text";
 import { PostType } from "../../pages/posts/[filename]";
 import { tinaField } from "tinacms/dist/react";
+import Image from 'next/image';
 
 const components: Components<{
   BlockQuote: {
@@ -107,7 +95,7 @@ const components: Components<{
   },
   img: (props) => (
     <span className="flex items-center justify-center">
-      <img src={props.url} alt={props.alt} />
+      <Image src={props.url} alt={props.alt} fill={true} />
     </span>
   ),
 };
@@ -156,11 +144,12 @@ export const Post = (props: PostType) => {
           {props.author && (
             <>
               <div className="flex-shrink-0 mr-4">
-                <img
+                <Image
                   data-tina-field={tinaField(props.author, "avatar")}
                   className="h-14 w-14 object-cover rounded-full shadow-sm"
                   src={props.author.avatar}
                   alt={props.author.name}
+                  fill={true}
                 />
               </div>
               <p
@@ -194,15 +183,18 @@ export const Post = (props: PostType) => {
             data-tina-field={tinaField(props, "heroImg")}
             className="relative max-w-4xl lg:max-w-5xl mx-auto"
           >
-            <img
+            <Image
               src={props.heroImg}
+              alt={props.title}
               className="absolute block rounded-lg w-full h-auto blur-2xl brightness-150 contrast-[0.9] dark:brightness-150 saturate-200 opacity-50 dark:opacity-30 mix-blend-multiply dark:mix-blend-hard-light"
               aria-hidden="true"
+              fill={true}
             />
-            <img
+            <Image
               src={props.heroImg}
               alt={props.title}
               className="relative z-10 mb-14 block rounded-lg w-full h-auto opacity-100"
+              fill={true}
             />
           </div>
         </div>

@@ -6,6 +6,7 @@ import {
   PageBlocksPartnersItems,
 } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
+import Image from 'next/image';
 
 export const Partner = ({
   partnersColor,
@@ -24,11 +25,12 @@ export const Partner = ({
       {data.link && (
         <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
           {data.src && (
-            <img
-            className="max-h-28"
+            <Image
+              className="max-h-28"
               data-tina-field={tinaField(data, "src")}
               src={data.src}
               alt={data.alt}
+              fill={true}
             />
           )}
           {data.description && (
@@ -100,7 +102,7 @@ export const partnersBlockSchema: Template = {
       name: "items",
       list: true,
       ui: {
-        itemProps: (item: any) => {
+        itemProps: (item) => {
           return {
             label: item?.link,
           };

@@ -6,7 +6,7 @@ import { tinaField } from "tinacms/dist/react";
 import ModalImage from 'react-modal-image';
 
 
-export const Image = ({
+export const GalleryImage = ({
     galleryColor,
     data,
   }: {
@@ -58,7 +58,7 @@ export const Gallery = ({ data }: { data: PageBlocksGallery }) => {
         >
           {data.items &&
             data.items.map(function (block, i) {
-              return <Image galleryColor={data.color} key={i} data={block} />;
+              return <GalleryImage galleryColor={data.color} key={i} data={block} />;
             })}
         </Container>
       
@@ -93,7 +93,7 @@ export const galleryBlockSchema: Template = {
           name:"items",
           list: true,
           ui: {
-              itemProps: (item: any) => {
+              itemProps: (item) => {
                 return {
                   label: item?.description,
                 };

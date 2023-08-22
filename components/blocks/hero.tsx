@@ -7,6 +7,7 @@ import { TinaMarkdown } from "tinacms/dist/rich-text";
 import type { Template } from "tinacms";
 import { PageBlocksHero } from "../../tina/__generated__/types";
 import { tinaField } from "tinacms/dist/react";
+import Image from 'next/image';
 
 export const Hero = ({ data }: { data: PageBlocksHero }) => {
   const theme = useTheme();
@@ -29,8 +30,9 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
     '';
 
   return (
-    <Section color={data.color} id={sectionAnchor}>
+    <Section color={data.color}>
         <Container
+          id={sectionAnchor}
           size="large"
           className="grid grid-cols-1 md:grid-cols-5 gap-14 items-center justify-center"
         >
@@ -83,15 +85,18 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
               data-tina-field={tinaField(data.image, "src")}
               className="relative row-start-1 md:col-span-2 flex justify-center"
             >
-              <img
+              <Image
                 className="absolute w-full rounded-lg max-w-xs md:max-w-none h-auto blur-2xl brightness-150 contrast-[0.9] dark:brightness-150 saturate-200 opacity-50 dark:opacity-30 mix-blend-multiply dark:mix-blend-hard-light"
+                alt={data.image.alt}
                 src={data.image.src}
                 aria-hidden="true"
+                fill={true}
               />
-              <img
+              <Image
                 className="relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto"
                 alt={data.image.alt}
                 src={data.image.src}
+                fill={true}
               />
             </div>
           )}
@@ -140,7 +145,7 @@ export const heroBlockSchema: Template = {
           icon: true,
           link: "/",
         },
-        itemProps: (item: any) => ({ label: item.label }),
+        itemProps: (item) => ({ label: item.label }),
       },
       fields: [
         {
