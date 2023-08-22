@@ -47,8 +47,10 @@ blocks:
     text: "Gamen macht Spass. Aber in Games steckt noch viel mehr!\n\nSeit 2019 findet in Bern jeweils im Spätsommer das\_PlayBern-Festival statt. Geboten wird eine bunte Mischung aus Spielen, Entdecken, Ausprobieren, Programmieren, Diskutieren … Im Zentrum stehen ungewöhnliche Games und sperrige Ideen.\n\nDas Festival richtet sich an Interessierte jeden Alters, egal ob mit oder ohne Game-Hintergrund. Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz.\n"
     image:
       src: /uploads/2023/figur2022.jpg
+      alt: Festival logo
     _template: hero
 ---
+
 
 
 
