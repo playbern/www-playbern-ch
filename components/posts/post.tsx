@@ -95,7 +95,7 @@ const components: Components<{
   },
   img: (props) => (
     <span className="flex items-center justify-center">
-      <img src={props.url} alt={props.alt} fill={true} />
+      <img src={props.url} alt={props.alt} fill="true" />
     </span>
   ),
 };
@@ -149,7 +149,7 @@ export const Post = (props: PostType) => {
                   className="h-14 w-14 object-cover rounded-full shadow-sm"
                   src={props.author.avatar}
                   alt={props.author.name}
-                  fill={true}
+                  fill="true"
                 />
               </div>
               <p
@@ -188,13 +188,13 @@ export const Post = (props: PostType) => {
               alt={props.title}
               className="absolute block rounded-lg w-full h-auto blur-2xl brightness-150 contrast-[0.9] dark:brightness-150 saturate-200 opacity-50 dark:opacity-30 mix-blend-multiply dark:mix-blend-hard-light"
               aria-hidden="true"
-              fill={true}
+              fill="true"
             />
             <img
               src={props.heroImg}
               alt={props.title}
               className="relative z-10 mb-14 block rounded-lg w-full h-auto opacity-100"
-              fill={true}
+              fill="true"
             />
           </div>
         </div>

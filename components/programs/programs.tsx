@@ -58,7 +58,7 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
                       alt={program.category} 
                       title={program.category} 
                       className="mx-16 w-24" 
-                      fill={true}
+                      fill="true"
                   />
                 </>
               )}

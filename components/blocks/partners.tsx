@@ -30,7 +30,7 @@ export const Partner = ({
               data-tina-field={tinaField(data, "src")}
               src={data.src}
               alt={data.alt}
-              fill={true}
+              fill="true"
             />
           )}
           {data.description && (

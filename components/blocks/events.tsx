@@ -24,13 +24,13 @@ export const Event = ({ eventColor, data }: { eventColor: string; data: PageBloc
               src={data.image.src}
               alt={data.image.alt ? data.image.alt : ''}
               aria-hidden="true"
-              fill={true}
+              fill="true"
             />
             <img
               className={`relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto`}
               src={data.image.src}
               alt={data.image.alt ? data.image.alt : ''}
-              fill={true}
+              fill="true"
             />
           </div>
         )}
