@@ -54,7 +54,7 @@ export const Posts = ({ data }: { data: PostsType[] }) => {
                   className="h-10 w-10 object-cover rounded-full shadow-sm"
                   src={post?.author?.avatar}
                   alt={post?.author?.name}
-                  fill="true"
+                  // fill="true"
                 />
               </div>
               <p className="text-base font-medium text-gray-600 group-hover:text-gray-800 dark:text-gray-200 dark:group-hover:text-white">

@@ -90,13 +90,13 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
                 alt={data.image.alt}
                 src={data.image.src}
                 aria-hidden="true"
-                fill="true"
+                // fill="true"
               />
               <img
                 className="relative z-10 w-full max-w-xs rounded-lg md:max-w-none h-auto"
                 alt={data.image.alt}
                 src={data.image.src}
-                fill="true"
+                // fill="true"
               />
             </div>
           )}
