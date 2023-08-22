@@ -26,7 +26,7 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das nächste PlayBern-Festival findet vom 15. – 17. September 23 wieder
+      ## Das nächste PlayBern-Festival findet vom 15. – 17. September wieder
       im [PROGR](https://www.progr.ch/) im Zentrum von Bern statt.
 
 
