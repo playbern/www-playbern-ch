@@ -53,7 +53,9 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
             <div className="float-right">
               {program?.category !== "" && (
                 <>
-                  <Image src={categoryImg}
+                  <Image 
+                      src={categoryImg}
+                      alt={program.category} 
                       title={program.category} 
                       className="mx-16 w-24" 
                       fill={true}
