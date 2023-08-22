@@ -33,6 +33,7 @@ blocks:
     text: "Gemeinsam gamen und sich über aktuelle Games austauschen schafft Gemeinschaft.\_PlayBern\_setzt sich seit Beginn für einen möglichst barrierefreien Zugang zu Games ein. Wir fördern zudem den Austausch zwischen Gamer:innen mit einer Behinderung und Game-Entwickler:innen.\n"
     image:
       src: /uploads/global/category-Accessibility.png
+      alt: Accessibility logo
     _template: hero
   - tagline: ''
     headline: Art
@@ -47,5 +48,6 @@ blocks:
       src: /uploads/2023/figur2022.jpg
     _template: hero
 ---
+
 
 
