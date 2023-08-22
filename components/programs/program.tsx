@@ -27,12 +27,12 @@ export const Program = (props: ProgramType) => {
   const datestart = new Date(props.datestart);
   let formattedDateFrom = "";
   if (!isNaN(datestart.getTime())) {
-    formattedDateFrom = format(datestart, "HH:mm dd.MM.yyyy");
+    formattedDateFrom = format(datestart, "HH:mm");
   }
   const datefinish = new Date(props.datefinish);
   let formattedDateTo = "";
   if (!isNaN(datefinish.getTime())) {
-    formattedDateTo = format(datefinish, "HH:MM dd.MM.yyyy");
+    formattedDateTo = format(datefinish, "HH:MM — dd.MM.yyyy");
   }
   let categoryImg = "";
   if (props.category) {
@@ -72,10 +72,18 @@ export const Program = (props: ProgramType) => {
           >
             {formattedDateFrom}
             <span className="dark:text-gray-500 mx-2">
-                —
+                -
             </span>
             {formattedDateTo}
           </p>
+        </div>
+      </Container>
+      <Container className={`flex-1 pt-4`} width="small" size="large">
+        <div
+          data-tina-field={tinaField(props, "_body")}
+          className="prose dark:prose-dark w-full max-w-none"
+        >
+          <TinaMarkdown content={props._body} />
         </div>
       </Container>
       {props.heroImg && (
@@ -100,14 +108,6 @@ export const Program = (props: ProgramType) => {
           </div>
         </div>
       )}
-      <Container className={`flex-1 pt-4`} width="small" size="large">
-        <div
-          data-tina-field={tinaField(props, "_body")}
-          className="prose dark:prose-dark w-full max-w-none"
-        >
-          <TinaMarkdown content={props._body} />
-        </div>
-      </Container>
     </Section>
   );
 };
