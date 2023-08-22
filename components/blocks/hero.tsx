@@ -29,8 +29,7 @@ export const Hero = ({ data }: { data: PageBlocksHero }) => {
     '';
 
   return (
-    <Section color={data.color}>
-        <a name={sectionAnchor}></a>
+    <Section color={data.color} id={sectionAnchor}>
         <Container
           size="large"
           className="grid grid-cols-1 md:grid-cols-5 gap-14 items-center justify-center"
