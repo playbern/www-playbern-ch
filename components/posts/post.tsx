@@ -207,7 +207,7 @@ export const Post = (props: PostType) => {
           </div>
         </div>
       )}
-      <Container className={`flex-1 pt-4`} width="small" size="large">
+      <Container className={`bg-white flex-1 pt-4`} width="small" size="large">
         <div
           data-tina-field={tinaField(props, "_body")}
           className="prose dark:prose-dark w-full max-w-none"

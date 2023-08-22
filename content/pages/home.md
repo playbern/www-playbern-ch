@@ -13,11 +13,7 @@ blocks:
       Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
       Alters, egal ob mit oder ohne Game-Hintergrund.
     actions:
-      - label: Programm (Static)
-        type: button
-        icon: true
-        link: /program
-      - label: Programm (Dynamic)
+      - label: Programm
         type: button
         icon: true
         link: /programs
@@ -46,34 +42,17 @@ blocks:
   - body: >
       ## Der Kinder-Game-Wettbewerb 2023
 
-
       Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung
       einen Wettbewerb für von Kindern eigenständig entwickelte Games
       durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im
       Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
 
+      [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
 
-      **Am Wettbewerb können Kinder und Jugendliche teilnehmen, die in der
-      Schweiz wohnen und die selber Games kreieren.** Die Games werden in zwei
-      unterschiedlichen Altersgruppen und in den beiden Kategorien «Digitale
-      Games» und «Interaktive Projekte» bewertet:
-
-
-      * Altersgruppe 1:         8 – 12 Jahre 
-
-      * Altersgruppe 2:       13 – 16 Jahre
-
-
-      Pro Einzelperson oder pro Gruppe ist jeweils nur eine Einreichung
-      möglich.
-
-
-      **Anmeldeschluss: Sonntag, 27. August 2023 per**
-      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\*\*
+      Anmeldeschluss: **Sonntag, 27. August 2023** per
+      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
     _template: content
-  - body: ''
-    color: default
-    _template: content
+    color: white
   - body: >
       Von 2019 bis 2021 fand PlayBern in der Grossen Halle der Reitschule Bern
       statt, seit 2022 im Kulturhaus Progr am Waisenhausplatz.

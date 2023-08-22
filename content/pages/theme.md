@@ -5,21 +5,3 @@ blocks:
     color: ''
     _template: content
 ---
-
-
-
-
-
-
-
-
-
-
-
-Themen:
-
-# Education
-
-# Accessibility
-
-# Art
