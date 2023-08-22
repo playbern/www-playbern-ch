@@ -1,10 +1,64 @@
 query pageQuery {
   ...LayoutQueryFragment
+  postConnection {
+    edges {
+      node {
+        id
+        date
+        title
+        excerpt
+        category
+        author {
+          ... on Author {
+            ...AuthorParts
+          }
+        }
+        _sys {
+          filename
+        }
+      }
+    }
+  }
+  programConnection {
+    edges {
+      node {
+        id
+        datestart
+        datefinish
+        title
+        summary
+        category
+        _sys {
+          filename
+        }
+      }
+    }
+  }
 }
 
 query contentQuery($relativePath: String!) {
   ...LayoutQueryFragment
   page(relativePath: $relativePath) {
     ...PageParts
+  }
+}
+
+query blogPostQuery($relativePath: String!) {
+  ...LayoutQueryFragment
+  post(relativePath: $relativePath) {
+    ...PostParts
+    author {
+      ... on Author {
+        name
+        avatar
+      }
+    }
+  }
+}
+
+query programQuery($relativePath: String!) {
+  ...LayoutQueryFragment
+  program(relativePath: $relativePath) {
+    ...ProgramParts
   }
 }

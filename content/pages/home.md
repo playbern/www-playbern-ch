@@ -13,18 +13,18 @@ blocks:
       Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
       Alters, egal ob mit oder ohne Game-Hintergrund.
     actions:
-      - label: Programm
+      - label: Programm (Static)
         type: button
         icon: true
         link: /program
+      - label: Programm (Dynamic)
+        type: button
+        icon: true
+        link: /programs
       - label: Wettbewerb
         type: button
         icon: true
         link: '#wettbewerb'
-      - label: ''
-        type: ''
-        icon: true
-        link: '#helpers'
     image:
       src: /uploads/figur2023.png
       alt: Festival für Games + Kultur
