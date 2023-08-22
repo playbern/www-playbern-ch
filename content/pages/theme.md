@@ -40,6 +40,7 @@ blocks:
     text: "PlayBern\_ist eine Plattform für (oft auch interaktive) Kunst- und Kulturprojekte im Bereich Gaming/Spiel. Die Kunst ist digital, analog oder beides. Das Feld ist breit: Von Virtual Reality, game-inspiriertem Tanz bis Game-Musik ist alles möglich. Wir sind multi-disziplinär und verbinden zukunftsorientierte Kunst, Technik und Gesellschaft.\n"
     image:
       src: /uploads/global/category-Art.png
+      alt: Art logo
     _template: hero
   - tagline: ''
     headline: Festival
@@ -48,6 +49,7 @@ blocks:
       src: /uploads/2023/figur2022.jpg
     _template: hero
 ---
+
 
 
 
