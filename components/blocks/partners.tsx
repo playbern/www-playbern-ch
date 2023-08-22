@@ -25,7 +25,7 @@ export const Partner = ({
       {data.link && (
         <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
           {data.src && (
-            <Image
+            <img
               className="max-h-28"
               data-tina-field={tinaField(data, "src")}
               src={data.src}
