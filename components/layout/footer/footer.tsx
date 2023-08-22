@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { FaFacebookF, FaGithub, FaTwitter, FaDiscord } from "react-icons/fa";
+import { MdOutlineAlternateEmail } from "react-icons/md";
 import { AiFillInstagram } from "react-icons/ai";
 import { Container } from "../../util/container";
 import { useTheme } from "..";
@@ -60,6 +61,21 @@ export const Footer = ({ data, icon }) => {
             />
           </Link>
           <div className="flex gap-4">
+            {data.social && data.social.email && (
+              <a
+                className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"
+                href={data.social.email}
+                target="_blank"
+              >
+                <MdOutlineAlternateEmail
+                  className={`${socialIconClasses} ${
+                    socialIconColorClasses[
+                      data.color === "primary" ? "primary" : theme.color
+                    ]
+                  }`}
+                />
+              </a>
+            )}
             {data.social && data.social.discord && (
               <a
                 className="inline-block opacity-80 hover:opacity-100 transition ease-out duration-150"

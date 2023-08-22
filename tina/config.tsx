@@ -319,6 +319,11 @@ const config = defineConfig({
                     type: "string",
                     label: "Discord",
                     name: "discord"
+                  },
+                  {
+                    type: "string",
+                    label: "Email",
+                    name: "email"
                   }
                 ],
               },

@@ -67,7 +67,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
     >
       <Container size="custom" className="py-0 relative z-10 max-w-8xl">
         <div className="flex items-center justify-between gap-6">
-          <h4 className="select-none text-lg font-bold tracking-tight my-4 transition duration-150 ease-out transform">
+          <h4 className="select-none text-lg font-bold tracking-tight my-4 transition duration-150 ease-out transform collapse md:visible lg:visible">
             <Link
               href="/"
               className="flex gap-1 items-center whitespace-nowrap tracking-[.002em]"
@@ -84,7 +84,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
               <span data-tina-field={tinaField(data, "name")}>{data.name}</span>
             </Link>
           </h4>
-          <ul className="flex gap-6 sm:gap-8 lg:gap-10 tracking-[.002em] -mx-4">
+          <ul className="flex gap-2 sm:gap-6 lg:gap-10 tracking-[.002em] -mx-4">
             {data.nav &&
               data.nav.map((item, i) => {
                 const activeItem =
@@ -95,13 +95,13 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
                   <li
                     key={`${item.label}-${i}`}
                     className={`${
-                      activeItem ? activeItemClasses[theme.color] : ""
+                      activeItem ? activeItemClasses[theme.color] + ` collapse sm:visible md:visible lg:visible` : ""
                     }`}
                   >
                     <Link
                       data-tina-field={tinaField(item, "label")}
                       href={`/${item.href}`}
-                      className={`relative select-none	text-base inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-2 px-4 ${
+                      className={`relative select-none text-base inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-2 px-4 ${
                         activeItem ? `` : `opacity-70`
                       }`}
                     >
