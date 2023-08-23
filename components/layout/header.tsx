@@ -95,7 +95,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
                   <li
                     key={`${item.label}-${i}`}
                     className={`${
-                      activeItem ? activeItemClasses[theme.color] + ` collapse sm:visible md:visible lg:visible` : ""
+                      activeItem ? activeItemClasses[theme.color] : ""
                     }`}
                   >
                     <Link
