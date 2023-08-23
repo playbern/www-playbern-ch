@@ -10,11 +10,14 @@ export default function HomePage(
 ) {
   const posts = props.data.postConnection.edges;
 
+  // Hard-coded reversing
+  const postsReverse = posts.sort((a,b) => (Date.parse(a.node.date) < Date.parse(b.node.date)));
+
   return (
     <Layout>
       <Section className="flex-1">
         <Container size="large" width="small">
-          <Posts data={posts} />
+          <Posts data={postsReverse} />
         </Container>
       </Section>
     </Layout>

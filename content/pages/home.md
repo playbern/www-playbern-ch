@@ -17,6 +17,10 @@ blocks:
         type: button
         icon: true
         link: /programs
+      - label: Aktuell
+        type: button
+        icon: true
+        link: /programs
       - label: Wettbewerb
         type: button
         icon: true
@@ -35,10 +39,15 @@ blocks:
       Game-Mechanics.
     color: primary
     _template: content
-  - body: "## Der Kinder-Game-Wettbewerb 2023\n\nBereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.\n\nAnmeldeschluss: **Sonntag, 27. August 2023** per [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)\n\n### \U0001F449\U0001F3FD [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)\n"
-    color: white
-    _template: content
   - body: >
+      ## Der Kinder-Game-Wettbewerb 2023
+
+      Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
+
+      Anmeldeschluss: **Sonntag, 27. August 2023** per [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+
+      ### ⭐ [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
+
       ![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
 
       2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "PDF")
