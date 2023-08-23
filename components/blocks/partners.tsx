@@ -26,7 +26,7 @@ export const Partner = ({
         <a data-tina-field={tinaField(data, "link")} href={data.link} target="_blank">
           {data.src && (
             <img
-              className="max-h-28"
+              className="md:max-h-28"
               data-tina-field={tinaField(data, "src")}
               src={data.src}
               alt={data.alt}
@@ -61,8 +61,8 @@ export const Partners = ({ data }: { data: PageBlocksPartners }) => {
       )}
 
       <Container
-        className={`grid gap-2 grid-cols-6 text-left`}
-        size="large"
+        className={`grid gap-2 lg:grid-cols-6 text-left md:grid-cols-3`}
+        size="small"
       >
         {data.items &&
           data.items.map(function (block, i) {
