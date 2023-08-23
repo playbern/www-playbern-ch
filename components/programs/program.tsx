@@ -71,7 +71,7 @@ export const Program = (props: ProgramType) => {
             className="text-base font-bold"
           >
             {formattedDateFrom}
-            <span className="dark:text-gray-500 mx-2">
+            <span className="dark:text-gray-500 mx-1">
                 -
             </span>
             {formattedDateTo}

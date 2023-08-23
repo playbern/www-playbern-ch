@@ -32,12 +32,12 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
         const datestart = new Date(program.datestart);
         let formattedDateFrom = "";
         if (!isNaN(datestart.getTime())) {
-          formattedDateFrom = format(datestart, "HH:mm dd.MM.yyyy");
+          formattedDateFrom = format(datestart, "HH:mm"); // TODO: check for multi-day events
         }
         const datefinish = new Date(program.datefinish);
         let formattedDateTo = "";
         if (!isNaN(datefinish.getTime())) {
-          formattedDateTo = format(datefinish, "HH:MM dd.MM.yyyy");
+          formattedDateTo = format(datefinish, "HH:MM — dd.MM.yyyy");
         }
         let categoryImg = "";
         if (program.category) {
@@ -69,8 +69,8 @@ export const Programs = ({ data }: { data: ProgramType[] }) => {
               >
               
                 {formattedDateFrom !== "" && (formattedDateFrom)}
-                <span className="dark:text-gray-500 mx-2">
-                    —
+                <span className="dark:text-gray-500 mx-1">
+                    -
                 </span>
                 {formattedDateTo !== "" && (formattedDateTo)}
               </p>
