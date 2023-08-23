@@ -1,6 +1,6 @@
 ---
 name: PlayBern Festival
-avatar: /uploads/2023/figur2023.png
+avatar: /uploads/global/icon.png
 ---
 
 
