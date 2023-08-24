@@ -27,12 +27,12 @@ export const Program = (props: ProgramType) => {
   const datestart = new Date(props.datestart);
   let formattedDateFrom = "";
   if (!isNaN(datestart.getTime())) {
-    formattedDateFrom = format(datestart, "HH:mm");
+    formattedDateFrom = format(datestart, "HH:mm dd MM yyyy");
   }
   const datefinish = new Date(props.datefinish);
   let formattedDateTo = "";
   if (!isNaN(datefinish.getTime())) {
-    formattedDateTo = format(datefinish, "HH:MM — dd.MM.yyyy");
+    formattedDateTo = format(datefinish, "HH:mm dd MM yyyy");
   }
   let categoryImg = "";
   if (props.category) {
