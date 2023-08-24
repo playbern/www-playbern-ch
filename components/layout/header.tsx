@@ -17,6 +17,10 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
     setIsMenuOpen(!isMenuOpen);
   };
 
+  const handleMenuItemClick = () => {		
+    setIsMenuOpen(false);		
+  };
+
   const headerColor = {
     default:
       "text-black dark:text-white from-gray-50 to-white dark:from-gray-800 dark:to-gray-900",
@@ -126,6 +130,7 @@ export const Header = ({ data }: { data: GlobalHeader }) => {
                               className={`relative select-none	text-base inline-block tracking-wide transition duration-150 ease-out hover:opacity-100 py-8 px-4 ${
                                 activeItem ? `` : `opacity-70`
                               }`}
+                              onClick={handleMenuItemClick}
                             >
                               {item.label}
                               {activeItem && (
