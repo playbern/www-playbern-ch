@@ -18,8 +18,8 @@ export const Footer = ({ data, icon }) => {
     pink: "text-pink-500 dark:text-pink-400 hover:text-pink-300",
     purple: "text-purple-500 dark:text-purple-400 hover:text-purple-300",
     orange: "text-orange-500 dark:text-orange-400 hover:text-orange-300",
-    yellow: "text-yellow-500 dark:text-yellow-400 hover:text-yellow-300",
-    primary: "text-yellow-400 opacity-80 hover:opacity-100",
+    yellow: "text-gray-1000 dark:text-gray-900 hover:text-gray-800",
+    primary: "text-gray-1000 opacity-80 hover:opacity-100",
   };
 
   const footerColor = {
