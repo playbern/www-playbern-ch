@@ -27,7 +27,7 @@ export const Posts = ({ data }: { data: PostsType[] }) => {
         const date = new Date(post.date);
         let formattedDate = "";
         if (!isNaN(date.getTime())) {
-          formattedDate = format(date, "MMM dd, yyyy");
+          formattedDate = format(date, "dd.MM.yyyy");
         }
         return (
           <Link

@@ -32,7 +32,7 @@ export const Program = (props: ProgramType) => {
   const datefinish = new Date(props.datefinish);
   let formattedDateTo = "";
   if (!isNaN(datefinish.getTime())) {
-    formattedDateTo = format(datefinish, "HH:MM — dd.MM.yyyy");
+    formattedDateTo = format(datefinish, "HH:mm — dd.MM.yyyy");
   }
   let categoryImg = "";
   if (props.category) {
@@ -71,7 +71,7 @@ export const Program = (props: ProgramType) => {
             className="text-base font-bold"
           >
             {formattedDateFrom}
-            <span className="dark:text-gray-500 mx-2">
+            <span className="dark:text-gray-500 mx-1">
                 -
             </span>
             {formattedDateTo}
