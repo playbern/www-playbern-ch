@@ -4,6 +4,8 @@ blocks:
   - body: |
       ## Medienecho
 
+      Weitere Infos für die [Presse hier](https://playbern.ch/press).
+
       ### PlayBern 2022
 
       * 6.9.2022\
@@ -62,6 +64,7 @@ blocks:
         «bi de Lüüt» #3: Bettina Wegenast
     _template: content
 ---
+
 
 
 
