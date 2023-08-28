@@ -13,6 +13,10 @@ blocks:
       Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
       Alters, egal ob mit oder ohne Game-Hintergrund.
     actions:
+      - label: Tickets
+        type: button
+        icon: true
+        link: /
       - label: Programm
         type: button
         icon: true
@@ -30,8 +34,8 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das nächste PlayBern-Festival findet vom 15. – 17. September wieder
-      im [PROGR](https://www.progr.ch/) im Zentrum von Bern statt.
+      ## Das nächste PlayBern-Festival findet vom 15. – 17. September wieder im
+      [PROGR](https://www.progr.ch/) im Zentrum von Bern statt.
 
 
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
@@ -42,11 +46,18 @@ blocks:
   - body: >
       ## Der Kinder-Game-Wettbewerb 2023
 
-      Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
 
-      Anmeldeschluss: **Sonntag, 27. August 2023** per [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+      Bereits zum fünften Mal können wir mit Unterstützung der Hasler-Stiftung
+      einen Wettbewerb für von Kindern eigenständig entwickelte Games
+      durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im
+      Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
+
+      Anmeldeschluss: **Sonntag, 27. August 2023** per
+      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+
 
       ### ⭐ [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
+
 
       ![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
 
@@ -66,6 +77,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
