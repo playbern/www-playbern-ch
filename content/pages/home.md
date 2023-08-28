@@ -16,7 +16,7 @@ blocks:
       - label: Presse
         type: button
         icon: true
-        link: /
+        link: '/https://playbern.ch/admin/index.html#/~/press'
       - label: Tickets
         type: button
         icon: true
@@ -81,6 +81,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
