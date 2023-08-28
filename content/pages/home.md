@@ -25,7 +25,7 @@ blocks:
         type: button
         icon: true
         link: /programs
-      - label: Aktuell
+      - label: Informationen zum Programm
         type: button
         icon: true
         link: /programs
@@ -81,6 +81,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
