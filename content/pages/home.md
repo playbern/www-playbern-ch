@@ -20,7 +20,7 @@ blocks:
       - label: Tickets
         type: button
         icon: true
-        link: /
+        link: /Tickets
       - label: Programm
         type: button
         icon: true
@@ -81,6 +81,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
