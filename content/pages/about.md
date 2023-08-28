@@ -12,30 +12,7 @@ blocks:
         icon: true
         link: /contact
     _template: hero
-  - body: >
-      ## Mitmachen
-
-
-      Mit Deiner Mitgliedschaft unterstützt du das PlayBern-Festival und die
-      Game-Kultur in und um Bern. You win:
-
-
-      * reduzierter Eintritt ans Festival
-
-      * tiefe Einblicke in die Gaming-Kultur …
-
-
-      [Statuten Verein
-      PlayBern](https://archive.playbern.ch/wp-content/uploads/partners/2020/07/Statuten-Verein-PlayBern.pdf)
-      (PDF)
-
-
-      [Infos & Anmeldung Verein
-      PlayBern](https://archive.playbern.ch/wp-content/uploads/partners/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf)
-      (PDF)
-
-      #### 🎇 Mit Fr. 50.- im Jahr bist du dabei
-
+  - body: "## Mitmachen\n\nMit Deiner Mitgliedschaft unterstützt du das PlayBern-Festival und die Game-Kultur in und um Bern. You win:\n\n* reduzierter Eintritt ans Festival\n* tiefe Einblicke in die Gaming-Kultur …\n\n[Statuten Verein PlayBern](https://archive.playbern.ch/wp-content/uploads/partners/2020/07/Statuten-Verein-PlayBern.pdf) (PDF)\n\n[Infos & Anmeldung Verein PlayBern](https://archive.playbern.ch/wp-content/uploads/partners/2020/07/Infos-und-Anmeldung-Verein-PlayBern.pdf) (PDF)\n\n#### \U0001F387 Mit Fr. 50.- im Jahr bist du dabei\n"
     color: white
     _template: content
   - title: Vielen Dank für die Unterstützung
@@ -70,7 +47,7 @@ blocks:
         alt: ''
         link: 'https://haslerstiftung.ch/'
         description: ''
-      - src: /uploads/partners/logo_oertli_stiftung.png
+      - src: ''
         alt: ''
         link: 'https://www.oertlistiftung.ch/'
         description: ''
@@ -82,7 +59,7 @@ blocks:
         alt: ''
         link: 'https://www.gewa.ch/'
         description: ''
-      - src: /uploads/partners/EGS_Schriftzug_2_schwarz.jpg
+      - src: ''
         alt: ''
         link: >-
           https://www.ernst-goehner-stiftung.ch/index.php/de/F%C3%B6rdert%C3%A4tigkeit/Kultur
@@ -127,6 +104,7 @@ blocks:
       ![](/uploads/2023/photos/coplanaphoto.jpg)
     _template: content
 ---
+
 
 
 
