@@ -49,7 +49,7 @@ blocks:
         description: ''
       - src: ''
         alt: ''
-        link: 'https://www.oertlistiftung.ch/'
+        link: ''
         description: ''
       - src: /uploads/partners/Logo_DAM_CMYK_mitClaim-1536x582.png
         alt: ''
@@ -104,6 +104,7 @@ blocks:
       ![](/uploads/2023/photos/coplanaphoto.jpg)
     _template: content
 ---
+
 
 
 
