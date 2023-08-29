@@ -20,7 +20,7 @@ blocks:
       - label: Tickets
         type: button
         icon: true
-        link: /tickets
+        link: /Tickets
       - label: Programm
         type: button
         icon: true
