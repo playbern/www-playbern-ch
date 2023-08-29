@@ -20,7 +20,7 @@ blocks:
       - label: Tickets
         type: button
         icon: true
-        link: /tickets
+        link: 'https://playbern.ch/admin/index.html#/~/Tickets'
       - label: Programm
         type: button
         icon: true
@@ -109,6 +109,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
