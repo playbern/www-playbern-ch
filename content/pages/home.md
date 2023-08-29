@@ -63,7 +63,18 @@ blocks:
       ## Der Petarde Game Cartoon Wettbewerb 2023
 
 
-      Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/ "Petarde")
+      Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/
+      "Petarde")schreibt PlayBern einen Preis für Cartoons oder Memes zum Thema
+      "Games" aus. 
+
+
+      Die eingesendeten Beiträge werden wärgedn dem Festival im Progr
+      ausgestellt und vom Publikum prämiert. Die Preisverleihung findet am
+      PlayBern-Sonntag um 17.00 im Progr statt. 
+
+
+      Anmeldeschluss: Sonntag, 10.September 2023 auf[
+      info@playbern.ch](mailto:info@playbern.ch "info@playbern.ch")  
 
 
       ### ⭐ [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
@@ -87,6 +98,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
