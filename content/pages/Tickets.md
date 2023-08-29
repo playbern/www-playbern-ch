@@ -27,8 +27,9 @@ blocks:
 
 
       #### Die Workshops und alle andern Aktivitäten sind in den Preisen
-      inbegriffen. 
+      inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden. 
     _template: hero
 ---
+
 
 
