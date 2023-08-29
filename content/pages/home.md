@@ -60,6 +60,12 @@ blocks:
       [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
 
 
+      ## Der Petarde Game Cartoon Wettbewerb 2023
+
+
+      Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/ "Petarde")
+
+
       ### ⭐ [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
 
 
@@ -81,6 +87,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
