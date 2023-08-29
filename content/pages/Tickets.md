@@ -10,7 +10,7 @@ blocks:
       Erwachsene                                                    sFr. 20.00
 
 
-      #### Tageseintritt Studierende                                        sFr.
+      #### Tageseintritt Schüler:innen ab 12.Jahre, Studierende   sFr.
       15.00                         
 
 
@@ -30,6 +30,7 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden. 
     _template: hero
 ---
+
 
 
 
