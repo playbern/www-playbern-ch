@@ -26,7 +26,7 @@ blocks:
       sFr. 45.00
 
 
-      #### Die Workshops und alle andern Aktivitäten sind in den Preisen
+      ### Die Workshops und alle andern Aktivitäten sind in den Preisen
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden. 
     _template: hero
 ---
