@@ -64,11 +64,12 @@ blocks:
 
 
       Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/
-      "Petarde")schreibt PlayBern einen Preis für Cartoons oder Memes zum Thema
-      "Games" aus. 
+      "Petarde")schreibt PlayBern einen [Preis für Cartoons oder Memes zum Thema
+      "Games" aus. ](https://petarde.ch/news/cartoon-und-meme-wettbewerb
+      "Cartoon Wettbewerb")
 
 
-      Die eingesendeten Beiträge werden wärgedn dem Festival im Progr
+      Die eingesendeten Beiträge werden während dem Festival im Progr
       ausgestellt und vom Publikum prämiert. Die Preisverleihung findet am
       PlayBern-Sonntag um 17.00 im Progr statt. 
 
@@ -98,6 +99,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
