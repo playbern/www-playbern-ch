@@ -3,7 +3,7 @@ title: Tickets
 blocks:
   - body: ''
     _template: content
-  - tagline: ''
+  - tagline: Infos Tickets
     headline: 'Ticketpreise: '
     text: >
       #### Tageseintritt
