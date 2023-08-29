@@ -20,7 +20,7 @@ blocks:
       - label: Tickets
         type: button
         icon: true
-        link: /Tickets
+        link: /tickets
       - label: Programm
         type: button
         icon: true
@@ -81,9 +81,8 @@ blocks:
 
 
       [Game-on! Der Play Bern Gaming Cartoon und Meme
-      Contest.pdf](<https://assets.tina.io/b022fb78-dee7-41fa-8081-1869fa876097/Game-on!
-      Der Play Bern Gaming Cartoon und Meme Contest.pdf> "Game-on! Der Play Bern
-      Gaming Cartoon und Meme Contest.pdf")
+      Contest.pdf](https://assets.tina.io/b022fb78-dee7-41fa-8081-1869fa876097/Game-on!%20Der%20Play%20Bern%20Gaming%20Cartoon%20und%20Meme%20Contest.pdf
+      "Game-on! Der Play Bern Gaming Cartoon und Meme Contest.pdf")
 
 
       [Weitere Details]()
@@ -110,6 +109,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
