@@ -29,10 +29,6 @@ blocks:
         type: button
         icon: true
         link: /posts
-      - label: Wettbewerb
-        type: button
-        icon: true
-        link: /posts/2023-kinder-game-wettbewerb
     image:
       src: /uploads/2023/figur2023.png
       alt: Festival für Games + Kultur
