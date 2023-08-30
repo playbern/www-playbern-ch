@@ -1,6 +1,9 @@
 ---
 title: Tickets
 blocks:
+  - body: |
+      HI there, this is a content block
+    _template: content
   - tagline: Infos Tickets
     headline: 'Ticketpreise: '
     text: >
@@ -26,6 +29,7 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
     _template: hero
 ---
+
 
 
 
