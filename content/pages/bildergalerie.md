@@ -1,21 +1,11 @@
 ---
 title: Bildergalerie
 blocks:
-  - items:
-      - src: /uploads/llama-3.avif
-        alt: ' some text'
-        description: Some text
-      - src: /blocks/features.png
-        alt: ' some text'
-        description: Some text
-      - src: /blocks/features.png
-        alt: ' some text'
-        description: Some text
-    _template: gallery
   - body: |
-      ## Bildergalerie
+      ## Create your gallery by using "**Gallery**" block
     _template: content
 ---
+
 
 
 
