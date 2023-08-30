@@ -77,8 +77,7 @@ blocks:
 
 
       [Game-on! Der Play Bern Gaming Cartoon und Meme
-      Contest.pdf](https://assets.tina.io/b022fb78-dee7-41fa-8081-1869fa876097/Game-on!%20Der%20Play%20Bern%20Gaming%20Cartoon%20und%20Meme%20Contest.pdf
-      "Game-on! Der Play Bern Gaming Cartoon und Meme Contest.pdf")
+      Contest.pdf](2023/Game-on - Der PlayBern Gaming Cartoon und Meme Contest.pdf)
 
 
       [Weitere Details]()
