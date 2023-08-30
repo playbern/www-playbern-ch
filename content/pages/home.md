@@ -36,9 +36,10 @@ blocks:
 
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
       sowohl in Games, als auch in Gaming-Tools, in Game-Figuren und in
-      Game-Mechanics. 
-      
-      Entdecken Sie diese vielfältigen Seiten in dem [Festival-Programm](/programs) und weitere [Informationen](/posts) ...
+      Game-Mechanics.
+
+      Entdecken Sie diese vielfältigen Seiten in dem
+      [Festival-Programm](/programs) und weitere [Informationen](/posts) ...
     color: primary
     _template: content
   - body: >
@@ -98,6 +99,8 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
+
 
 
 
