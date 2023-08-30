@@ -25,10 +25,6 @@ blocks:
         type: button
         icon: true
         link: /programs
-      - label: Informationen zum Programm
-        type: button
-        icon: true
-        link: /posts
     image:
       src: /uploads/2023/figur2023.png
       alt: Festival für Games + Kultur
@@ -40,7 +36,9 @@ blocks:
 
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
       sowohl in Games, als auch in Gaming-Tools, in Game-Figuren und in
-      Game-Mechanics.
+      Game-Mechanics. 
+      
+      Entdecken Sie diese vielfältigen Seiten in dem [Festival-Programm](/programs) und weitere [Informationen](/posts) ...
     color: primary
     _template: content
   - body: >
@@ -72,15 +70,11 @@ blocks:
       PlayBern-Sonntag um 17.00 im Progr statt.
 
 
-      Anmeldeschluss: Sonntag, 10.September 2023 auf[
-      info@playbern.ch](mailto:info@playbern.ch "info@playbern.ch")
+      Anmeldeschluss: **Sonntag, 10.September 2023** auf[
+      info@playbern.ch](mailto:info@playbern.ch)
 
 
-      [Game-on! Der Play Bern Gaming Cartoon und Meme
-      Contest.pdf](2023/Game-on - Der PlayBern Gaming Cartoon und Meme Contest.pdf)
-
-
-      [Weitere Details]()
+      ###### [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
 
 
       ###
