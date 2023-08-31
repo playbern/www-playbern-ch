@@ -5,7 +5,7 @@ import { client } from "../tina/__generated__/client";
 import { Layout } from "../components/layout";
 import { InferGetStaticPropsType } from "next";
 
-export default function HomePage(
+export default function ProgramsPage(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
   const programs = props.data.programConnection.edges;

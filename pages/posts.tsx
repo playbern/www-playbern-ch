@@ -5,7 +5,7 @@ import { client } from "../tina/__generated__/client";
 import { Layout } from "../components/layout";
 import { InferGetStaticPropsType } from "next";
 
-export default function HomePage(
+export default function PostsPage(
   props: InferGetStaticPropsType<typeof getStaticProps>
 ) {
   const posts = props.data.postConnection.edges;
