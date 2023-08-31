@@ -7,11 +7,11 @@ export default function FourOhFour() {
       <Hero
         data={{
           color: "default",
-          headline: "404 – Page Not Found",
-          text: "Oops! It seems there's nothing here, how embarrassing.",
+          headline: "404 – Seite nicht gefunden",
+          text: "Huch! Anscheinend gibt es hier nichts, wie peinlich.",
           actions: [
             {
-              label: "Return Home",
+              label: "Nach Hause gehen",
               type: "button",
               icon: true,
               link: "/",
