@@ -29,12 +29,23 @@ blocks:
       Hier kann man für die einzelnen Tage Tickets kaufen:
 
 
-      Freitag                                                   Samstag
+      ### Freitag    ![](</uploads/PB23 Code Ticktes Freitag.png>)
+
+                                                     
+
+      ### Samstag  
 
 
-      ![](</uploads/PB23 Code Ticktes Freitag.png>)
+      ![](</uploads/PB23 Code Samstag.png>)
+
+
+      ### Sonntag 
+
+
+      ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
