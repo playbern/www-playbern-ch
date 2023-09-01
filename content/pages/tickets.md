@@ -24,8 +24,18 @@ blocks:
 
       ##### Die Workshops und alle andern Aktivitäten sind in den Preisen
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
+
+
+      Hier kann man für die einzelnen Tage Tickets kaufen:
+
+
+      Freitag                                                   Samstag
+
+
+      ![](</uploads/PB23 Code Ticktes Freitag.png>)
     _template: hero
 ---
+
 
 
 
