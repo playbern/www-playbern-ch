@@ -26,7 +26,7 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
 
 
-      Hier kann man für die einzelnen Tage Tickets kaufen:
+      ## Hier kann man Tickets für die einzelnen Tage kaufen:
 
 
       ### Freitag    ![](</uploads/PB23 Code Ticktes Freitag.png>)
@@ -45,6 +45,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
