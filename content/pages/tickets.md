@@ -26,6 +26,12 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
 
 
+      ### Adresse:
+
+
+      ###### PROGR, Zentrum für Kulturproduktion, Speichergasse 4, 3011 Bern
+
+
       ### Barrierefreie Wege im Progr:
 
 
@@ -54,6 +60,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
