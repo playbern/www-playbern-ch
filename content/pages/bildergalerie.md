@@ -2,6 +2,9 @@
 title: Bildergalerie
 blocks:
   - items:
+      - src: /uploads/Vergangene Festivals/SCM_1236.jpg
+        alt: ''
+        description: ''
       - src: /uploads/Vergangene Festivals/MSFX8339.jpg
         alt: ''
         description: ''
@@ -43,6 +46,7 @@ blocks:
       ## Create your gallery by using "**Gallery**" block
     _template: content
 ---
+
 
 
 
