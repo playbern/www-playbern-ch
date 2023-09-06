@@ -21,7 +21,7 @@ blocks:
         type: button
         icon: true
         link: /press
-      - label: Tickets
+      - label: Info & Tickets
         type: button
         icon: true
         link: /tickets
@@ -95,8 +95,8 @@ blocks:
 
 
       [PB23 Tagesprogramm
-      PlayBern.pdf](<https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23
-      Tagesprogramm PlayBern.pdf> "PB23 Tagesprogramm PlayBern.pdf")
+      PlayBern.pdf](https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23%20Tagesprogramm%20PlayBern.pdf
+      "PB23 Tagesprogramm PlayBern.pdf")
     color: white
     _template: content
   - title: Vielen Dank für die Unterstützung
@@ -195,6 +195,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
