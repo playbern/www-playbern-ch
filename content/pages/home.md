@@ -13,6 +13,10 @@ blocks:
       Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
       Alters, egal ob mit oder ohne Game-Hintergrund.
     actions:
+      - label: Bildergalerie
+        type: button
+        icon: true
+        link: /bildergalerie
       - label: Presse
         type: button
         icon: true
@@ -182,6 +186,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
