@@ -1,7 +1,7 @@
 ---
 title: Tickets
 blocks:
-  - tagline: Infos Tickets
+  - tagline: Infos und Tickets
     headline: 'Ticketpreise: '
     text: >
       #### Tageseintritt
@@ -31,20 +31,20 @@ blocks:
 
       ### Freitag    ![](</uploads/PB23 Code Ticktes Freitag.png>)
 
-                                                     
 
-      ### Samstag  
+      ### Samstag
 
 
       ![](</uploads/PB23 Code Samstag.png>)
 
 
-      ### Sonntag 
+      ### Sonntag
 
 
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
