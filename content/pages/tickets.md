@@ -26,6 +26,12 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
 
 
+      ###### Barrierefreie Wege im Progr Das Gebäude hat einen Treppenlift und
+      Lift, wie auch zugängliche Toiletten im 1. und 3. Stock. Während
+      Randzeiten ist der Lift nur via Badge zugänglich. Bei Fragen bitte mit uns
+      direkt Kontakt aufnehmen: info@playbern.ch 
+
+
       ## Hier kann man Tickets für die einzelnen Tage kaufen:
 
 
@@ -44,6 +50,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
