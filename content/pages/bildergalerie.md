@@ -2,6 +2,9 @@
 title: Bildergalerie
 blocks:
   - items:
+      - src: /uploads/Vergangene Festivals/2P9A2038.jpg
+        alt: ''
+        description: ''
       - src: /uploads/Vergangene Festivals/2P9A1997.jpg
         alt: ''
         description: ''
@@ -25,6 +28,7 @@ blocks:
       ## Create your gallery by using "**Gallery**" block
     _template: content
 ---
+
 
 
 
