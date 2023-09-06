@@ -30,7 +30,7 @@ blocks:
 
 
       ###### Das Gebäude hat einen Treppenlift und Lift, wie auch zugängliche
-      Toiletten im 1. und 3. Stock. Während Randzeiten ist der Lift nur via
+      Toiletten im EG, 1. und 3. Stock. Während Randzeiten ist der Lift nur via
       Badge zugänglich. Bei Fragen bitte mit uns direkt Kontakt aufnehmen über
       info@playbern.ch oder während dem Festival vor Ort an der Kasse.
 
@@ -53,6 +53,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
