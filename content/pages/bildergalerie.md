@@ -48,10 +48,10 @@ blocks:
         alt: ''
         description: ''
     _template: gallery
-  - body: |
-      ## Create your gallery by using "**Gallery**" block
+  - body: ''
     _template: content
 ---
+
 
 
 
