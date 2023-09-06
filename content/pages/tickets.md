@@ -1,7 +1,7 @@
 ---
 title: Tickets
 blocks:
-  - tagline: Infos Tickets
+  - tagline: Infos und Tickets
     headline: 'Ticketpreise: '
     text: >
       #### Tageseintritt
@@ -14,7 +14,7 @@ blocks:
       #### Tageseintritt Kinder bis 12 Jahre                    sFr.  5.00
 
 
-      #### Tagespass Familien (mit Kindern -12Jahren)  sFr. 35.00
+      #### Tagespass Familien (mit Kindern bis 12 Jahren)  sFr. 35.00
 
 
       #### Festivalpass, alle
@@ -26,25 +26,59 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
 
 
+      ### Adresse:
+
+
+      ###### PROGR, Zentrum für Kulturproduktion, Speichergasse 4, 3011 Bern
+
+
+      ### Barrierefreie Wege im Progr:
+
+
+      ###### Das Gebäude hat einen Treppenlift zum EG (Hochparterre) und einen
+      Lift vom EG aus in alle Stockwerke, wie auch zugängliche Toiletten im EG,
+      1. und 3. Stock. Während Randzeiten ist der Lift nur via Badge zugänglich.
+      Bei Fragen bitte mit uns direkt Kontakt aufnehmen über info@playbern.ch
+      oder während dem Festival vor Ort an der Kasse.
+
+
       ## Hier kann man Tickets für die einzelnen Tage kaufen:
 
 
       ### Freitag    ![](</uploads/PB23 Code Ticktes Freitag.png>)
 
-                                                     
 
-      ### Samstag  
+      ### Samstag
 
 
       ![](</uploads/PB23 Code Samstag.png>)
 
 
-      ### Sonntag 
+      ### Sonntag
 
 
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
