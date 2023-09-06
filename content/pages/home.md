@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 15. - 17. September 2023
+  - tagline: 15. - 17. September 2023 im Progr Bern
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -195,6 +195,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
