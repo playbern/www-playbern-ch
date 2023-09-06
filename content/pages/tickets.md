@@ -14,7 +14,7 @@ blocks:
       #### Tageseintritt Kinder bis 12 Jahre                    sFr.  5.00
 
 
-      #### Tagespass Familien (mit Kindern -12Jahren)  sFr. 35.00
+      #### Tagespass Familien (mit Kindern bis 12Jahren)  sFr. 35.00
 
 
       #### Festivalpass, alle
@@ -44,6 +44,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
