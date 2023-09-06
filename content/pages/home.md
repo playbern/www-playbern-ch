@@ -80,21 +80,23 @@ blocks:
 
 
       #### Die Preisverleihung findet am Sonntag, 17. September 2023 um 16.00 im
-      Progr statt. 
-
-
-      ####
+      Progr statt.
 
 
       ###### [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
 
 
-      ###
-
-
       ![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
 
       2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "PDF")
+
+
+      Programm zum Download
+
+
+      [PB23 Tagesprogramm
+      PlayBern.pdf](<https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23
+      Tagesprogramm PlayBern.pdf> "PB23 Tagesprogramm PlayBern.pdf")
     color: white
     _template: content
   - title: Vielen Dank für die Unterstützung
@@ -193,6 +195,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
