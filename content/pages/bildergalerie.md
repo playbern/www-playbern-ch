@@ -3,7 +3,7 @@ title: Bildergalerie
 blocks:
   - items:
       - src: /uploads/Vergangene Festivals/SCM_1248.jpg
-        alt: ''
+        alt: Bild Beschreibung
         description: ''
       - src: /uploads/Vergangene Festivals/SCM_1222.jpg
         alt: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
