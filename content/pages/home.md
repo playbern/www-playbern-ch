@@ -79,8 +79,8 @@ blocks:
       info@playbern.ch](mailto:info@playbern.ch)
 
 
-      #### Die Preisverleihung findet am Sonntag, 17. September 2023 im Progr
-      statt. 
+      #### Die Preisverleihung findet am Sonntag, 17. September 2023 um 16.00 im
+      Progr statt. 
 
 
       ####
@@ -193,6 +193,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
