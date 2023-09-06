@@ -26,7 +26,7 @@ blocks:
       inbegriffen. Der Eintritt kann am Festival auch mit Twint bezahlt werden.
 
 
-      ##### Barrierefreie Wege im Progr
+      #### Barrierefreie Wege im Progr:
 
 
       ###### Das Gebäude hat einen Treppenlift und Lift, wie auch zugängliche
@@ -53,6 +53,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
