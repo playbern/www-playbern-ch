@@ -29,7 +29,8 @@ blocks:
       ###### Barrierefreie Wege im Progr Das Gebäude hat einen Treppenlift und
       Lift, wie auch zugängliche Toiletten im 1. und 3. Stock. Während
       Randzeiten ist der Lift nur via Badge zugänglich. Bei Fragen bitte mit uns
-      direkt Kontakt aufnehmen: info@playbern.ch 
+      direkt Kontakt aufnehmen über info@playbern.ch oder während dem Festival
+      vor Ort an der Kasse.
 
 
       ## Hier kann man Tickets für die einzelnen Tage kaufen:
@@ -50,6 +51,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
