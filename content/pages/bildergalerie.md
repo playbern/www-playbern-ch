@@ -3,8 +3,8 @@ title: Bildergalerie
 blocks:
   - items:
       - src: /uploads/Vergangene Festivals/SCM_1248.jpg
-        alt: Bild Beschreibung
-        description: ''
+        alt: Blonde Person probiert die "Super Cat"Arcade aus
+        description: Blonde Person probiert die "Super Cat"Arcade aus
       - src: /uploads/Vergangene Festivals/SCM_1222.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
