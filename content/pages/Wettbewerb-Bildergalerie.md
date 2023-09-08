@@ -49,9 +49,10 @@ blocks:
         description: ''
     _template: gallery
   - body: |
-      Die Beiträge werden ab dem 12.09 aufgeschlagen
+      Die Beiträge werden ab dem 12.09 aufgeschalten
     _template: content
 ---
+
 
 
 
