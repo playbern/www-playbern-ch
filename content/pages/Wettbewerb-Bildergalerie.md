@@ -2,7 +2,7 @@
 title: Wettbewerb-Bildergalerie
 blocks:
   - items:
-      - src: /uploads/Vergangene Festivals/SCM_1248.jpg
+      - src: ''
         alt: Bild Beschreibung
         description: ''
       - src: /uploads/Vergangene Festivals/SCM_1222.jpg
@@ -32,7 +32,7 @@ blocks:
       - src: /uploads/Vergangene Festivals/2P9A1997.jpg
         alt: ''
         description: ''
-      - src: /uploads/Vergangene Festivals/2P9A1439.jpg
+      - src: ''
         alt: ''
         description: ''
       - src: /uploads/Vergangene Festivals/2P9A1363.jpg
@@ -51,4 +51,5 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
