@@ -25,7 +25,7 @@ blocks:
         description: Susi v. Graffenried von "Schminklusiv" bei der Arbeit
       - src: /uploads/Vergangene Festivals/2P9A2046.jpg
         alt: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
-        description: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
+        description: 'Zwei fröhliche Gamer:innen sitzen lachend auf dem Boden '
       - src: /uploads/Vergangene Festivals/2P9A2038.jpg
         alt: Kinder bei "Just Dance"
         description: Kinder bei "Just Dance"
@@ -59,6 +59,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
