@@ -9,8 +9,8 @@ blocks:
         alt: 'Bild des Buttomats '
         description: 'Bild des Buttomats '
       - src: /uploads/Vergangene Festivals/SCM_1236.jpg
-        alt: ''
-        description: ''
+        alt: Lila Plakolli stellt ihr Gaming-Equipement vor
+        description: Lila Plakolli stellt ihr Gaming-Equipement vor
       - src: /uploads/Vergangene Festivals/MSFX8339.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
