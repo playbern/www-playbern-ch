@@ -33,8 +33,8 @@ blocks:
         alt: '"Just Dance" für alle'
         description: '"Just Dance" für alle'
       - src: /uploads/Vergangene Festivals/2P9A1439.jpg
-        alt: ''
-        description: ''
+        alt: Zwei Jungs spielen "Mario Kart"
+        description: Zwei Jungs spielen "Mario Kart"
       - src: /uploads/Vergangene Festivals/2P9A1363.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
