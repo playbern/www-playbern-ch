@@ -18,8 +18,8 @@ blocks:
         alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
         description: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
       - src: /uploads/Vergangene Festivals/MSFX8311.jpg
-        alt: ''
-        description: ''
+        alt: 'Gamer:in spielt  "Snake-Game"'
+        description: 'Gamer:in spielt  "Snake-Game"'
       - src: /uploads/Vergangene Festivals/MSFX8295.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
