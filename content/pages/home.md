@@ -47,20 +47,6 @@ blocks:
     color: primary
     _template: content
   - body: >
-      ### Der Kinder-Game-Wettbewerb 2023
-
-
-      ###### Bereits zum fünften Mal können wir mit Unterstützung der
-      Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte
-      Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im
-      Kulturzentrum Progr ausgestellt und vom Publikum getestet und
-      juriert.&#xA;Anmeldeschluss: **Sonntag, 27. August 2023** per
-      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
-
-
-      ###### [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
-
-
       ### Der Petarde Game-Cartoon Wettbewerb 2023
 
 
@@ -84,6 +70,23 @@ blocks:
 
 
       ###### [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
+
+
+      ### Der Kinder-Game-Wettbewerb 2023
+
+
+      ###### Bereits zum fünften Mal können wir mit Unterstützung der
+      Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte
+      Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im
+      Kulturzentrum Progr ausgestellt und vom Publikum getestet und
+      juriert.&#xA;Anmeldeschluss: **Sonntag, 27. August 2023** per
+      [kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+
+
+      ###### [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
+
+
+      ######
 
 
       ![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
@@ -195,6 +198,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
