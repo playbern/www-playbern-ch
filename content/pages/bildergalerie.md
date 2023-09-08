@@ -15,8 +15,8 @@ blocks:
         alt: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
         description: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
       - src: /uploads/Vergangene Festivals/MSFX8326.jpg
-        alt: 'Louis Amport unterhält sich mit einer andern Rollstuhlfahrerin '
-        description: 'Louis Amport unterhält sich mit einer andern Rollstuhlfahrerin '
+        alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
+        description: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
       - src: /uploads/Vergangene Festivals/MSFX8311.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
