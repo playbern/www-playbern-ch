@@ -27,8 +27,8 @@ blocks:
         alt: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
         description: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
       - src: /uploads/Vergangene Festivals/2P9A2038.jpg
-        alt: ''
-        description: ''
+        alt: Kinder bei "Just Dance"
+        description: Kinder bei "Just Dance"
       - src: /uploads/Vergangene Festivals/2P9A1997.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
