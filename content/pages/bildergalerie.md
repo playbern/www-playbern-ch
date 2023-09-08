@@ -24,8 +24,8 @@ blocks:
         alt: Susi von "Schminklusiv" bei der Arbeit
         description: Susi von "Schminklusiv" bei der Arbeit
       - src: /uploads/Vergangene Festivals/2P9A2046.jpg
-        alt: ''
-        description: ''
+        alt: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
+        description: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
       - src: /uploads/Vergangene Festivals/2P9A2038.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
