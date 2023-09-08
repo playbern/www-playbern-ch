@@ -18,8 +18,8 @@ blocks:
         alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
         description: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
       - src: /uploads/Vergangene Festivals/MSFX8311.jpg
-        alt: 'Gamer:in spielt  "Snake-Game"'
-        description: 'Gamer:in spielt  "Snake-Game"'
+        alt: Gamer spielt  das Game "Snake"
+        description: Gamer spielt  das Game "Snake"
       - src: /uploads/Vergangene Festivals/MSFX8295.jpg
         alt: Susi von "Schminklusiv" bei der Arbeit
         description: Susi von "Schminklusiv" bei der Arbeit
@@ -59,6 +59,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
