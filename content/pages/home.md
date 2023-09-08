@@ -72,6 +72,9 @@ blocks:
       ###### [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
 
 
+      # [DIE BEITRÄGE](https://playbern.ch/Wettbewerb-Bildergalerie)
+
+
       ### Der Kinder-Game-Wettbewerb 2023
 
 
@@ -198,6 +201,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
