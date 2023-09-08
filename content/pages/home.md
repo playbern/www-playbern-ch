@@ -61,15 +61,15 @@ blocks:
       PlayBern-Sonntag um 17.00 im Progr statt.
 
 
-      #### Anmeldeschluss: **Sonntag, 10.September 2023** auf[
+      Anmeldeschluss: **Sonntag, 10.September 2023** auf[
       info@playbern.ch](mailto:info@playbern.ch)
 
 
-      #### Die Preisverleihung findet am Sonntag, 17. September 2023 um 16.00 im
-      Progr statt.
+      [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
 
 
-      ###### [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
+      #### **Die Preisverleihung findet am Sonntag, 17. September 2023 um 16.00
+      im Progr statt.**
 
 
       # [DIE BEITRÄGE](https://playbern.ch/Wettbewerb-Bildergalerie)
@@ -89,10 +89,9 @@ blocks:
       ###### [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
 
 
-      ######
+      ###### ![](/uploads/2023/poster2023.png)
 
 
-      ![Flyer PlayBern - Festival 2023](/uploads/2023/poster2023.png)
 
       2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "PDF")
 
@@ -201,6 +200,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
