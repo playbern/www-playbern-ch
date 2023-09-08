@@ -41,7 +41,7 @@ blocks:
           Kindersoftware-Preis vor. 
         description: >-
           Felix Hüppi von der Kornhausbibliothek stellt das Projekt
-          Kindersoftware-Preis vor. 
+          "Kindersoftware-Preis" vor. 
       - src: /uploads/Vergangene Festivals/2P9A1215.jpg
         alt: ''
         description: ''
