@@ -43,8 +43,8 @@ blocks:
           Felix Hüppi von der Kornhausbibliothek stellt das Projekt
           "Kindersoftware-Preis" vor. 
       - src: /uploads/Vergangene Festivals/2P9A1215.jpg
-        alt: ''
-        description: ''
+        alt: Die Gewinner des PlayBern-Kinder-Game-Preises
+        description: Die Gewinner des PlayBern-Kinder-Game-Preises
       - src: /uploads/Vergangene Festivals/2P9A1185.jpg
         alt: ''
         description: ''
@@ -55,6 +55,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
