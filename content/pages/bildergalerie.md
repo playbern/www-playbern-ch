@@ -49,12 +49,17 @@ blocks:
         alt: 'Olivier Stuker präsentiert das Game "Wizard Ball" '
         description: 'Olivier Stuker präsentiert das Game "Wizard Ball" '
       - src: /uploads/Vergangene Festivals/2P9A1163.jpg
-        alt: ''
-        description: ''
+        alt: >-
+          Bettina Wegenast und Oli Stuker präsentieren den
+          PlayBern-Kinder-Game-Preis. 
+        description: >-
+          Bettina Wegenast und Oli Stuker präsentieren den
+          PlayBern-Kinder-Game-Preis. 
     _template: gallery
   - body: ''
     _template: content
 ---
+
 
 
 
