@@ -48,9 +48,11 @@ blocks:
         alt: ''
         description: ''
     _template: gallery
-  - body: ''
+  - body: |
+      Die Beiträge werden ab dem 12.09 aufgeschlagen
     _template: content
 ---
+
 
 
 
