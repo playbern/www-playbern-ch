@@ -14,9 +14,6 @@ blocks:
       - src: ''
         alt: ''
         description: ''
-      - src: /uploads/Vergangene Festivals/2P9A1363.jpg
-        alt: ''
-        description: ''
       - src: ''
         alt: ''
         description: ''
@@ -26,7 +23,10 @@ blocks:
       - src: ''
         alt: ''
         description: ''
-      - src: /uploads/Vergangene Festivals/MSFX8295.jpg
+      - src: ''
+        alt: ''
+        description: ''
+      - src: /uploads/2023/figur2023.png
         alt: ''
         description: ''
       - src: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
