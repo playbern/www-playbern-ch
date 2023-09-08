@@ -35,7 +35,7 @@ blocks:
       - src: ''
         alt: ''
         description: ''
-      - src: /uploads/Vergangene Festivals/2P9A2046.jpg
+      - src: /uploads/2023/figur2023.png
         alt: ''
         description: ''
       - src: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
