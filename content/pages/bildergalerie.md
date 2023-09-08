@@ -21,8 +21,8 @@ blocks:
         alt: 'Gamer:in spielt  "Snake-Game"'
         description: 'Gamer:in spielt  "Snake-Game"'
       - src: /uploads/Vergangene Festivals/MSFX8295.jpg
-        alt: ''
-        description: ''
+        alt: Susi von "Schminklusiv" bei der Arbeit
+        description: Susi von "Schminklusiv" bei der Arbeit
       - src: /uploads/Vergangene Festivals/2P9A2046.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
