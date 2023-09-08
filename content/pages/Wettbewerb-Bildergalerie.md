@@ -1,6 +1,9 @@
 ---
 title: Wettbewerb
 blocks:
+  - body: |
+      Die Beiträge werden ab dem 12.09 aufgeschalten
+    _template: content
   - items:
       - src: ''
         alt: Bild Beschreibung
@@ -48,10 +51,8 @@ blocks:
         alt: ''
         description: ''
     _template: gallery
-  - body: |
-      Die Beiträge werden ab dem 12.09 aufgeschalten
-    _template: content
 ---
+
 
 
 
