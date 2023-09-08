@@ -1,5 +1,5 @@
 ---
-title: Wettbewerb-Bildergalerie
+title: Wettbewerb
 blocks:
   - items:
       - src: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
