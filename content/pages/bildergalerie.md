@@ -16,7 +16,7 @@ blocks:
         description: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
       - src: /uploads/Vergangene Festivals/MSFX8326.jpg
         alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
-        description: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
+        description: Louis Amport unterhält sich mit einer Musikerin von "Tabula Musica"
       - src: /uploads/Vergangene Festivals/MSFX8311.jpg
         alt: Gamer spielt  das Game "Snake"
         description: Gamer spielt  das Game "Snake"
@@ -59,6 +59,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
