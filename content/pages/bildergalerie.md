@@ -12,7 +12,7 @@ blocks:
         alt: Lila Plakolli stellt ihr Gaming-Equipement vor
         description: Lila Plakolli stellt ihr Gaming-Equipement vor
       - src: /uploads/Vergangene Festivals/MSFX8339.jpg
-        alt: ''
+        alt: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
         description: ''
       - src: /uploads/Vergangene Festivals/MSFX8326.jpg
         alt: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
