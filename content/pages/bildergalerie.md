@@ -36,8 +36,12 @@ blocks:
         alt: Zwei Jungs spielen "Mario Kart"
         description: Zwei Jungs spielen "Mario Kart"
       - src: /uploads/Vergangene Festivals/2P9A1363.jpg
-        alt: ''
-        description: ''
+        alt: >-
+          Felix Hüppi von der Kornhausbibliothek stellt das Projekt
+          Kindersoftware-Preis vor. 
+        description: >-
+          Felix Hüppi von der Kornhausbibliothek stellt das Projekt
+          Kindersoftware-Preis vor. 
       - src: /uploads/Vergangene Festivals/2P9A1215.jpg
         alt: ''
         description: ''
@@ -51,6 +55,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
