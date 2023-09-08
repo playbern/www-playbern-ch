@@ -6,8 +6,8 @@ blocks:
         alt: Blonde Person probiert die "Super Cat"Arcade aus
         description: Blonde Person probiert die "Super Cat"Arcade aus
       - src: /uploads/Vergangene Festivals/SCM_1222.jpg
-        alt: ''
-        description: ''
+        alt: 'Bild des Buttomats '
+        description: 'Bild des Buttomats '
       - src: /uploads/Vergangene Festivals/SCM_1236.jpg
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
