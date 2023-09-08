@@ -46,8 +46,8 @@ blocks:
         alt: Die Gewinner des PlayBern-Kinder-Game-Preises
         description: Die Gewinner des PlayBern-Kinder-Game-Preises
       - src: /uploads/Vergangene Festivals/2P9A1185.jpg
-        alt: ''
-        description: ''
+        alt: 'Olivier Stuker präsentiert das Game "Wizard Ball" '
+        description: 'Olivier Stuker präsentiert das Game "Wizard Ball" '
       - src: /uploads/Vergangene Festivals/2P9A1163.jpg
         alt: ''
         description: ''
@@ -55,6 +55,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
