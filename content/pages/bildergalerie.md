@@ -22,7 +22,7 @@ blocks:
         description: Gamer spielt  das Game "Snake"
       - src: /uploads/Vergangene Festivals/MSFX8295.jpg
         alt: Susi von "Schminklusiv" bei der Arbeit
-        description: Susi vv. Graffenried von "Schminklusiv" bei der Arbeit
+        description: Susi v. Graffenried von "Schminklusiv" bei der Arbeit
       - src: /uploads/Vergangene Festivals/2P9A2046.jpg
         alt: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
         description: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
@@ -59,6 +59,7 @@ blocks:
   - body: ''
     _template: content
 ---
+
 
 
 
