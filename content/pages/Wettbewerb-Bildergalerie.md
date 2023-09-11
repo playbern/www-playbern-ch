@@ -10,9 +10,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.23.22.png
         alt: 'Beleibte Figur auf dem Sofa '
         description: 'Tim Gössling, VR'
-      - src: /uploads/2023/figur2023.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.23.59.png
         alt: ''
-        description: ''
+        description: 'Tim Gössling, Minecraft'
       - src: ''
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
