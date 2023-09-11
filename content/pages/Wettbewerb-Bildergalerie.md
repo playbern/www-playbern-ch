@@ -25,9 +25,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: ''
         description: 'Oger, Homo Nintensis'
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
         alt: ''
-        description: ''
+        description: 'Oger, Game Over'
       - src: /uploads/2023/figur2023.png
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
