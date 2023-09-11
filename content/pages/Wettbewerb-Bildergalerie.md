@@ -81,9 +81,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.23.png
         alt: ''
         description: 'Ruste, Neue Herausforderung'
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.47.png
         alt: ''
-        description: ''
+        description: Teresa Backmund
       - src: ''
         alt: ''
         description: ''
@@ -92,6 +92,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
