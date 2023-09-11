@@ -28,8 +28,8 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
         alt: ''
         description: 'Oger, Game Over'
-      - src: /uploads/2023/figur2023.png
-        alt: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.30.png
+        alt: 'Michael Hochschulte, Spielgruppe'
         description: ''
       - src: ''
         alt: ''
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
