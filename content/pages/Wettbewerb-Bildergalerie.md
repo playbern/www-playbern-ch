@@ -10,6 +10,18 @@ blocks:
       im 1.Stock
     _template: content
   - items:
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
       - src: /uploads/blocks/features.png
         alt: ''
         description: ''
@@ -66,9 +78,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.44.png
         alt: ''
         description: 'Lisa Wald, Klamotten'
-      - src: /uploads/2023/figur2023.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.23.png
         alt: ''
-        description: ''
+        description: 'Ruste, Neue Herausforderung'
       - src: ''
         alt: ''
         description: ''
@@ -80,6 +92,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
