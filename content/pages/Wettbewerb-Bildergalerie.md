@@ -13,9 +13,6 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 16.46.23.png
         alt: ''
         description: 'Rainer Demattio, Level Mensch'
-      - src: /blocks/features.png
-        alt: ''
-        description: ''
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
         alt: ''
         description: Carolin Aichhorn
@@ -25,15 +22,6 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.02.png
         alt: ''
         description: 'Pfuschi Pfister, Spieler'
-      - src: ''
-        alt: ''
-        description: ''
-      - src: /uploads/blocks/features.png
-        alt: ''
-        description: ''
-      - src: /uploads/blocks/features.png
-        alt: ''
-        description: ''
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.14.05.png
         alt: ''
         description: 'Luca, Vorher / Nachher'
@@ -90,14 +78,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.47.png
         alt: ''
         description: Teresa Backmund
-      - src: ''
-        alt: ''
-        description: ''
-      - src: ''
-        alt: ''
-        description: ''
     _template: gallery
 ---
+
 
 
 
