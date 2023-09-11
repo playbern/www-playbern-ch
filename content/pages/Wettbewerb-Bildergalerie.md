@@ -4,6 +4,27 @@ blocks:
   - body: ''
     _template: content
   - items:
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.04.png
+        alt: ''
+        description: 'Schlorian, Pokémon'
+      - src: ''
+        alt: ''
+        description: ''
+      - src: ''
+        alt: ''
+        description: ''
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
         alt: 'Olaf Hörning, Controller'
         description: 'Olaf Hörning, Controller'
@@ -53,6 +74,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
