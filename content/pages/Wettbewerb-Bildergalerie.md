@@ -63,9 +63,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.20.png
         alt: ''
         description: Mano Thoma
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.44.png
         alt: ''
-        description: ''
+        description: csc
       - src: /uploads/2023/figur2023.png
         alt: ''
         description: ''
@@ -80,6 +80,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
