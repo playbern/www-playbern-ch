@@ -22,9 +22,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.33.png
         alt: ''
         description: 'Oger,  Future Champion'
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: ''
-        description: ''
+        description: 'Oger, Homo Nintensis'
       - src: ''
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
