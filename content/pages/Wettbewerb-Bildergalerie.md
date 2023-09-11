@@ -16,9 +16,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
         alt: ''
         description: 'Ruth Hebbler, Controller'
-      - src: /blocks/features.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.02.png
         alt: ''
-        description: ''
+        description: 'Pfuschi Pfister, Spieler'
       - src: ''
         alt: ''
         description: ''
@@ -92,6 +92,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
