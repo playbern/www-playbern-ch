@@ -13,13 +13,13 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
         alt: ''
         description: Carolin Aichhorn
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
+        alt: ''
+        description: 'Ruth Hebbler, Controller'
       - src: /blocks/features.png
         alt: ''
         description: ''
-      - src: /blocks/features.png
-        alt: ''
-        description: ''
-      - src: /blocks/features.png
+      - src: ''
         alt: ''
         description: ''
       - src: /uploads/blocks/features.png
@@ -92,6 +92,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
