@@ -7,7 +7,7 @@ blocks:
   - items:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
         alt: Olaf Hörning/ Controller
-        description: ''
+        description: 'Olaf Hörning, Controller'
       - src: ''
         alt: ''
         description: ''
@@ -52,6 +52,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
