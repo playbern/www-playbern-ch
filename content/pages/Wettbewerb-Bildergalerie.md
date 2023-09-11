@@ -28,9 +28,9 @@ blocks:
       - src: /uploads/blocks/features.png
         alt: ''
         description: ''
-      - src: /uploads/blocks/features.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.14.05.png
         alt: ''
-        description: ''
+        description: 'Luca, Vorher / Nachher'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.21.png
         alt: ''
         description: 'Schlorian, Tamagochi'
@@ -92,6 +92,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
