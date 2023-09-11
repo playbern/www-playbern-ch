@@ -5,7 +5,7 @@ blocks:
     _template: content
   - items:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
-        alt: Olaf Hörning/ Controller
+        alt: 'Olaf Hörning, Controller'
         description: 'Olaf Hörning, Controller'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.23.22.png
         alt: 'Beleibte Figur auf dem Sofa '
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
