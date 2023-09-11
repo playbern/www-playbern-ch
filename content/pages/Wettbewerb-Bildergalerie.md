@@ -12,7 +12,7 @@ blocks:
         description: 'Tim Gossing, VR'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.23.59.png
         alt: ''
-        description: 'Tim Gössling, Minecraft'
+        description: 'Tim Gossing, Minecraft'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.25.29.png
         alt: ''
         description: 'Tim Gössling, Reaction Pauli'
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
