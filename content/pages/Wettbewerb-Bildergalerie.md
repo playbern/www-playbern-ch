@@ -28,9 +28,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.46.png
         alt: ''
         description: 'Schorian, Eigenes Handy'
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.40.png
         alt: ''
-        description: ''
+        description: 'Rainer Demattio, Selbsthilfechat'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
         alt: 'Olaf Hörning, Controller'
         description: 'Olaf Hörning, Controller'
@@ -80,6 +80,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
