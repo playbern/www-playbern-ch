@@ -65,7 +65,7 @@ blocks:
         description: Mano Thoma
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.44.png
         alt: ''
-        description: csc
+        description: 'Lisa Wald, Klamotten'
       - src: /uploads/2023/figur2023.png
         alt: ''
         description: ''
@@ -80,6 +80,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
