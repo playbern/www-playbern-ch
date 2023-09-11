@@ -60,9 +60,9 @@ blocks:
           eine Frau mit Kind steht vor einer Gruppe von Gamerfiguren und fragt
           "ist hier die Spielgruppe?"
         description: 'Michael Hochschulte, Spielgruppe'
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.20.png
         alt: ''
-        description: ''
+        description: Mano Thoma
       - src: ''
         alt: ''
         description: ''
@@ -80,6 +80,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
