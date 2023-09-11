@@ -5,8 +5,8 @@ blocks:
       Die Beiträge werden ab dem 12.09 aufgeschalten
     _template: content
   - items:
-      - src: ''
-        alt: Bild Beschreibung
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
+        alt: Olaf Hörning/ Controller
         description: ''
       - src: ''
         alt: ''
@@ -52,6 +52,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
