@@ -10,9 +10,9 @@ blocks:
       im 1.Stock
     _template: content
   - items:
-      - src: /blocks/features.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
         alt: ''
-        description: ''
+        description: Carolin Aichhorn
       - src: /blocks/features.png
         alt: ''
         description: ''
@@ -92,6 +92,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
