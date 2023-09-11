@@ -25,9 +25,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.04.png
         alt: ''
         description: 'Schlorian, Pokémon'
-      - src: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.46.png
         alt: ''
-        description: ''
+        description: 'Schorian, Eigenes Handy'
       - src: ''
         alt: ''
         description: ''
@@ -80,6 +80,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
