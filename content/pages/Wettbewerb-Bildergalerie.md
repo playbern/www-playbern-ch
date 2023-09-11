@@ -8,8 +8,8 @@ blocks:
         alt: Olaf Hörning/ Controller
         description: 'Olaf Hörning, Controller'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.23.22.png
-        alt: Tim Gössling
-        description: ''
+        alt: 'Beleibte Figur auf dem Sofa '
+        description: 'Tim Gössling, VR'
       - src: /uploads/2023/figur2023.png
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
