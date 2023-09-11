@@ -16,9 +16,9 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.25.29.png
         alt: ''
         description: 'Tim Gössling, Reaction Pauli'
-      - src: ''
-        alt: ''
-        description: ''
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.05.png
+        alt: Renter spielt am Computer "Enten füttern"
+        description: 'Nadia Menze, Videospiele für Rentner '
       - src: ''
         alt: ''
         description: ''
@@ -51,6 +51,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
