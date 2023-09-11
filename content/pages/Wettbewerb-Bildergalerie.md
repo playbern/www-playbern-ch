@@ -3,11 +3,11 @@ title: Wettbewerb
 blocks:
   - body: >
       ### Alle Bilder sind vom 15.9.- 17.9. 23 im Progr zu sehen. Das Publikum
-      entscheidet, wer den PlayBern-Game-Cartoon-Preis 2023 gewinnt! 
+      entscheidet, wer den PlayBern-Game-Cartoon-Preis 2023 gewinnt!
 
 
       ### Preisverleihung ist am Sonntag, 17.9. um 16.00 auf der Kleinen Bühne
-      im 1.Stock 
+      im 1.Stock
     _template: content
   - items:
       - src: /uploads/blocks/features.png
@@ -19,9 +19,9 @@ blocks:
       - src: /uploads/blocks/features.png
         alt: ''
         description: ''
-      - src: /uploads/blocks/features.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.21.png
         alt: ''
-        description: ''
+        description: 'Schlorian, Tamagochi'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.04.png
         alt: ''
         description: 'Schlorian, Pokémon'
@@ -80,6 +80,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
