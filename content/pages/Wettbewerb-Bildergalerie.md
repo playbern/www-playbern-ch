@@ -2,8 +2,9 @@
 title: Wettbewerb
 blocks:
   - body: >
-      ### Alle Bilder sind vom 15.9.- 17.9. 23 im Progr zu sehen. Das Publikum
-      entscheidet, wer den PlayBern-Game-Cartoon-Preis 2023 gewinnt!
+      ### Alle Bilder sind vom 15.9.- 17.9. 23 (in besserer Qualität) im Progr
+      zu sehen. Das Publikum entscheidet, wer den PlayBern-Game-Cartoon-Preis
+      2023 gewinnt!
 
 
       ### Preisverleihung ist am Sonntag, 17.9. um 16.00 auf der Kleinen Bühne
@@ -80,6 +81,7 @@ blocks:
         description: Teresa Backmund
     _template: gallery
 ---
+
 
 
 
