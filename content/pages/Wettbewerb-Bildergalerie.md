@@ -29,7 +29,9 @@ blocks:
         alt: ''
         description: 'Oger, Game Over'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.30.png
-        alt: 'Michael Hochschulte, Spielgruppe'
+        alt: >-
+          eine Frau mit Kind steht vor einer Gruppe von Gamerfiguren und fragt
+          "ist hier die Spielgruppe?"
         description: 'Michael Hochschulte, Spielgruppe'
       - src: ''
         alt: ''
@@ -51,6 +53,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
