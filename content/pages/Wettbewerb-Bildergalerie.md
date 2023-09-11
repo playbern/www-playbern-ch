@@ -10,6 +10,12 @@ blocks:
       im 1.Stock
     _template: content
   - items:
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 16.46.23.png
+        alt: ''
+        description: 'Rainer Demattio, Level Mensch'
+      - src: /blocks/features.png
+        alt: ''
+        description: ''
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
         alt: ''
         description: Carolin Aichhorn
@@ -92,6 +98,7 @@ blocks:
         description: ''
     _template: gallery
 ---
+
 
 
 
