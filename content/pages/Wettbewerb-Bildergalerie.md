@@ -63,7 +63,9 @@ blocks:
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
-        alt: ''
+        alt: >-
+          Gott ist mit einer Weltkugel am Gamen. Zwie Engel stehen hinter ihm.
+          Einer sagt: Komm, lassen wir ihn noch Ist eh gleich Game Over! 
         description: 'Oger, Game Over'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.30.png
         alt: >-
@@ -91,6 +93,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
