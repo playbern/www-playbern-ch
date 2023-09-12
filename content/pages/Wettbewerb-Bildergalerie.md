@@ -60,7 +60,7 @@ blocks:
         alt: ''
         description: 'Oger,  Future Champion'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
-        alt: ''
+        alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
         alt: ''
@@ -91,6 +91,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
