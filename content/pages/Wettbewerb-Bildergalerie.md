@@ -51,7 +51,9 @@ blocks:
         alt: ''
         description: 'Tim Gossing, Minecraft'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.25.29.png
-        alt: ''
+        alt: >-
+          eine Figur schaut in einen Bildschirm. Ein Gaming-Influencer kündigt
+          einen sehr langatmigen Pong-Walkthrough an
         description: 'Tim Gossing, Reaction Pauli'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.05.png
         alt: Renter spielt am Computer "Enten füttern"
@@ -93,6 +95,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
