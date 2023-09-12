@@ -75,7 +75,7 @@ blocks:
         description: Mano Thoma
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.44.png
         alt: ''
-        description: 'Lisa Walde, ohen Titel'
+        description: 'Lisa Walde, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.23.png
         alt: ''
         description: 'Ruste, Neue Herausforderung'
@@ -84,6 +84,7 @@ blocks:
         description: Teresa Backmund
     _template: gallery
 ---
+
 
 
 
