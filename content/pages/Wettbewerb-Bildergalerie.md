@@ -59,7 +59,11 @@ blocks:
         alt: Renter spielt am Computer "Enten füttern"
         description: 'Nadia Menze, Videospiele für Rentner '
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.33.png
-        alt: ''
+        alt: >-
+          Extrem entnervter Mann sitzt mit schwangerer Frau auf dem Sofa.
+          Offenbar hat das Ungeborenen einen Controller in der Hand und gamt.
+          Die Schwangere sagt: Reg dich nicht auf, Schatz! Kinder lernen sowas
+          einfach schneller!
         description: 'Oger,  Future Champion'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
@@ -95,6 +99,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
