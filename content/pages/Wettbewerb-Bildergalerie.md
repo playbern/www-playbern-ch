@@ -74,7 +74,9 @@ blocks:
         alt: 'Figur in Rüstung und orangem Visier. Ohne Text '
         description: Mano Thoma
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.44.png
-        alt: ''
+        alt: >-
+          Frau sitzt am Computer. Figur im Computer sagt: Könntest du mir nicht
+          wenigstens bequeme Klamotten besorgen? 
         description: 'Lisa Walde, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.23.png
         alt: ''
@@ -86,6 +88,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
