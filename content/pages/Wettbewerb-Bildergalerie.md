@@ -2,13 +2,16 @@
 title: Wettbewerb
 blocks:
   - body: >
+      ## Hier findest du die Beiträge zum PlayBern/ Petrade-Game-Cartoon-Preis!
+
+
       ### Alle Bilder sind vom 15.9.- 17.9. 23 (in besserer Qualität) im Progr
-      zu sehen. Das Publikum entscheidet, wer den PlayBern-Game-Cartoon-Preis
-      2023 gewinnt!
+      zu sehen. Das Publikum entscheidet vor Ort, wer den
+      PlayBern/Petarde-Game-Cartoon-Preis 2023 gewinnt!
 
 
-      ### Preisverleihung ist am Sonntag, 17.9. um 16.00 auf der Kleinen Bühne
-      im 1.Stock
+      ### Preisverleihung ist am Sonntag, 17.9.2023 um 16.00 auf der Kleinen
+      Bühne im 1.Stock
     _template: content
   - items:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 16.46.23.png
@@ -81,6 +84,7 @@ blocks:
         description: Teresa Backmund
     _template: gallery
 ---
+
 
 
 
