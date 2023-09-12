@@ -2,11 +2,11 @@
 title: Wettbewerb
 blocks:
   - body: >
-      ## Hier findest du die Beiträge zum PlayBern/ Petrade-Game-Cartoon-Preis!
+      ## Hier findest du alle Beiträge zum PlayBern/ Petarde-Game-Cartoon-Preis!
 
 
       ### Alle Bilder sind vom 15.9.- 17.9. 23 (in besserer Qualität) im Progr
-      zu sehen. Das Publikum entscheidet vor Ort, wer den
+      zu sehen. Du entscheidest vor Ort, wer den
       PlayBern/Petarde-Game-Cartoon-Preis 2023 gewinnt!
 
 
@@ -84,6 +84,7 @@ blocks:
         description: Teresa Backmund
     _template: gallery
 ---
+
 
 
 
