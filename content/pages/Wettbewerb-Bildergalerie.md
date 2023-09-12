@@ -44,7 +44,7 @@ blocks:
           2 Abbildungen aus Mincraft: Bild 1 eine Baustelle. Bild 2 ein fertiges
           Minecraft-Gebäude. TItel: nachdem ich mir die neuste Grafikkarte
           geleistet habe.
-        description: 'Luca, Vorher / Nachher'
+        description: 'Luca, Grafikkarte'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.21.png
         alt: >-
           Kinder drängeln sich im Naturhistorischen Museum vor dem
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
