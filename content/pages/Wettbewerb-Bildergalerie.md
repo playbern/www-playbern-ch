@@ -79,7 +79,10 @@ blocks:
           wenigstens bequeme Klamotten besorgen? 
         description: 'Lisa Walde, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.23.png
-        alt: ''
+        alt: >-
+          Bestattungsunternehmer ist am Telefon. Eine Stimme fragt: Wie macht
+          sich unser Neuer, der Ex-Game-Entwickler? der Neue baut inzwischen
+          Särge wie Tetris-Steine aufeinander. 
         description: 'Ruste, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.47.png
         alt: >-
@@ -88,6 +91,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
