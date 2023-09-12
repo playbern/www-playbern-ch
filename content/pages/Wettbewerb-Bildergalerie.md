@@ -42,8 +42,10 @@ blocks:
         alt: ''
         description: 'Rainer Demattio, Selbsthilfechat'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
-        alt: 'Olaf Hörning, Controller'
-        description: 'Olaf Hörning, Controller'
+        alt: >-
+          Zwei gamende Kids sitzen auf dem Sofa: Kid eins sagt: Mein Vater
+          arbeitet als Controller . Kid zwei sagt: Echt? Geil! 
+        description: 'Olaf Hörning, Controller '
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.23.22.png
         alt: 'Beleibte Figur auf dem Sofa '
         description: 'Tim Gossing, VR'
@@ -64,7 +66,7 @@ blocks:
           Offenbar hat das Ungeborenen einen Controller in der Hand und gamt.
           Die Schwangere sagt: Reg dich nicht auf, Schatz! Kinder lernen sowas
           einfach schneller!
-        description: 'Oger,  Future Champion'
+        description: 'Oger,  ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
@@ -99,6 +101,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
