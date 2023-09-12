@@ -33,7 +33,9 @@ blocks:
         alt: ''
         description: 'Schlorian, Tamagochi'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.04.png
-        alt: ''
+        alt: >-
+          King Kong bricht durch die Häuser. Ein KInd versucht, ihn mit seinem
+          Handy wie ein Pokémon einzufangen. 
         description: 'Schlorian, Pokémon'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.46.png
         alt: ''
@@ -101,6 +103,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
