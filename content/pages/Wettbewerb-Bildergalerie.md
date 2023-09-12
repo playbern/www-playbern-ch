@@ -78,12 +78,13 @@ blocks:
         description: 'Lisa Walde, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.23.png
         alt: ''
-        description: 'Ruste, Neue Herausforderung'
+        description: 'Ruste, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.47.png
         alt: ''
         description: Teresa Backmund
     _template: gallery
 ---
+
 
 
 
