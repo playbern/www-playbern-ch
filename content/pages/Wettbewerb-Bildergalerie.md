@@ -71,7 +71,7 @@ blocks:
           "ist hier die Spielgruppe?"
         description: 'Michael Hochschulte, Spielgruppe'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.20.png
-        alt: ''
+        alt: 'Figur in Rüstung und oragem Visier. Ohne Text '
         description: Mano Thoma
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.30.44.png
         alt: ''
@@ -86,6 +86,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
