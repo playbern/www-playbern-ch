@@ -43,8 +43,10 @@ blocks:
           hält ein Handy in der Hand und antwortet: Darf er kein eigenes Handy? 
         description: 'Schorian, Eigenes Handy'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.40.png
-        alt: ''
-        description: 'Rainer Demattio, Selbsthilfechat'
+        alt: >-
+          Person sitzt im Dunkeln vor einem Bildschirm und schreibt in einem
+          Selbsthilfechat zum Thema Internetsucht.
+        description: 'Rainer Demattio, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.13.24.png
         alt: >-
           Zwei gamende Kids sitzen auf dem Sofa: Kid eins sagt: Mein Vater
@@ -105,6 +107,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
