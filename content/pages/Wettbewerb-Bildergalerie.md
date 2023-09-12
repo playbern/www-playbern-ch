@@ -81,9 +81,10 @@ blocks:
         description: 'Ruste, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.47.png
         alt: ''
-        description: Teresa Backmund
+        description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
