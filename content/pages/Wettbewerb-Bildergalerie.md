@@ -35,7 +35,9 @@ blocks:
           geleistet habe.
         description: 'Luca, Vorher / Nachher'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.21.png
-        alt: ''
+        alt: >-
+          Kinder drängeln sich im Naturhistorischen Museum vor dem
+          Tamagotchi-Diorama. 
         description: 'Schlorian, Tamagochi'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.04.png
         alt: >-
@@ -112,6 +114,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
