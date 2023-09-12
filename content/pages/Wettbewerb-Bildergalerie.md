@@ -24,7 +24,9 @@ blocks:
         alt: ''
         description: 'Ruth Hebbler, Controller'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.02.png
-        alt: ''
+        alt: >-
+          Kind stapelt Bauklötze. Die Mutter sagt zum Vater: Er spielt und
+          spielt... hoffentlich wird er kein Spieler! 
         description: 'Pfuschi Pfister, Spieler'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.14.05.png
         alt: ''
@@ -107,6 +109,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
