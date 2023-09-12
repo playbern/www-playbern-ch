@@ -28,7 +28,11 @@ blocks:
           antwortet: Hast du daran gedacht, mein Shirt zu waschen? 
         description: Carolin Aichhorn
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
-        alt: ''
+        alt: >-
+          Vier Controller, die als Gesichter inszeniert sind: oben links:
+          Controllergesicht mit Schnuller rosa, oben rechts Controllergesicht
+          mit Kussmund, unten links Controllergesicht mit Smiley-Lächeln, unten
+          rechts Controllergesicht mit Schnuller hellblau
         description: 'Ruth Hebbler, Controller'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.02.png
         alt: >-
@@ -121,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
