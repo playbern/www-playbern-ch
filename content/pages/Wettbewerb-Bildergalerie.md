@@ -21,7 +21,11 @@ blocks:
           Moment! Ich spiele noch eben das Level "Mensch" zu  Ende
         description: 'Rainer Demattio, Level Mensch'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
-        alt: ''
+        alt: >-
+          auf dem Bild sind zwei Frauen. Die Frau in einem Fantasy-Kostüm hält
+          einen Wischmopp in der Hand sagt: Arrg könntest du mir nicht mal zur
+          Hand gehen? Die andere sitzt in einem Samuari-Kostüm im Sessel und
+          antwortet: Hast du daran gedacht, mein Shirt zu waschen? 
         description: Carolin Aichhorn
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
         alt: ''
@@ -117,6 +121,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
