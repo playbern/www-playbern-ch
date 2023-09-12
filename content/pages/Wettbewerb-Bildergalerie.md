@@ -38,7 +38,9 @@ blocks:
           Handy wie ein Pokémon einzufangen. 
         description: 'Schlorian, Pokémon'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.46.png
-        alt: ''
+        alt: >-
+          Frau mit Hund sagt zu einem Kind: Er will mit dir spielen! Das Kind
+          hält ein Handy in der Hand und antwortet: Darf er kein eigenes Handy? 
         description: 'Schorian, Eigenes Handy'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.40.png
         alt: ''
@@ -103,6 +105,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
