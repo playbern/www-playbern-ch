@@ -80,10 +80,13 @@ blocks:
         alt: ''
         description: 'Ruste, ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.31.47.png
-        alt: ''
+        alt: >-
+          2 Personen im Gameshop: Verkäuferin: Realitische Simulation, Pandemie,
+          Armut, Klimakrise? Käufer: Nee, dann doch liebr ein Fantasy-Spiel...
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
