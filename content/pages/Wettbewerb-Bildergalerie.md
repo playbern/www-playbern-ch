@@ -15,7 +15,10 @@ blocks:
     _template: content
   - items:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 16.46.23.png
-        alt: ''
+        alt: >-
+          Gott und der Teufel sitzen vor eine Welt. der Tuefel gamt. Gott sagt:
+          Jetzt reicht's! lass mich mal wieder ran! Der Teufel antwortet:  Einen
+          Moment! Ich spiele noch eben das Level "Mensch" zu  Ende
         description: 'Rainer Demattio, Level Mensch'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
         alt: ''
@@ -114,6 +117,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
