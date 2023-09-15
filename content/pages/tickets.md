@@ -42,6 +42,10 @@ blocks:
       oder während dem Festival vor Ort an der Kasse.
 
 
+      ###### [[PROGR Lageplan der Räume, Toiletten und Lift.pdf](<> "PROGR
+      Lageplan")]()
+
+
       ## Hier kann man Tickets für die einzelnen Tage kaufen:
 
 
@@ -60,6 +64,7 @@ blocks:
       ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
+
 
 
 
