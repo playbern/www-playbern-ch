@@ -72,10 +72,11 @@ blocks:
       im Progr statt.**
 
 
-      ## [DIE BEITRÄGE](https://playbern.ch/Wettbewerb-Bildergalerie)
+      ### [zu den Beiträgen ](https://playbern.ch/Wettbewerb-Bildergalerie
+      "Game-Cartoon Wettbewerb")
 
 
-      ### Der Kinder-Game-Wettbewerb 2023
+      # Der Kinder-Game-Wettbewerb 2023
 
 
       ###### Bereits zum fünften Mal können wir mit Unterstützung der
@@ -199,6 +200,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
