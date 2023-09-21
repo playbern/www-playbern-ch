@@ -51,45 +51,38 @@ blocks:
 
 
       Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/
-      "Petarde")schreibt PlayBern einen [Preis für Cartoons oder Memes zum Thema
-      "Games" aus. ](https://petarde.ch/news/cartoon-und-meme-wettbewerb
-      "Cartoon Wettbewerb")
+      "Petarde")schrieb PlayBern zum ersten Mal einen [Preis für Cartoons oder
+      Memes zum Thema "Games" aus.
+      ](https://petarde.ch/news/cartoon-und-meme-wettbewerb "Cartoon
+      Wettbewerb")
 
 
-      Die eingesendeten Beiträge werden während dem Festival im Progr
-      ausgestellt und vom Publikum prämiert. Die Preisverleihung findet am
-      PlayBern-Sonntag um 17.00 im Progr statt.
+      Die eingesendeten Beiträge wurden während dem Festival im Progr
+      ausgestellt und vom Publikum prämiert. Die Preisverleihung fand am
+      PlayBern-Sonntag  um 16.00 auf der Kleinen Bühne im Progr statt.
 
 
-      Anmeldeschluss: **Sonntag, 10.September 2023** auf[
-      info@playbern.ch](mailto:info@playbern.ch)
+      [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)****
 
 
-      [Weitere Details ...](/posts/Game-Cartoon-Wettbewerb-2023)
-
-
-      #### **Die Preisverleihung findet am Sonntag, 17. September 2023 um 16.00
-      im Progr statt.**
-
-
-      ### [zu den Game-Cartoon-Beiträgen
+      #### [zu den Game-Cartoon-Beiträgen
       ](https://playbern.ch/Wettbewerb-Bildergalerie "Game-Cartoon Wettbewerb")
-
-
-      ###
 
 
       ### Der Kinder-Game-Wettbewerb 2023
 
 
-      ### Bereits zum fünften Mal konnten wir mit Unterstützung der
-      Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte
-      Games durchführen! Die Games wurden am PlayBern-Festival, 15.9- 17.9 23 im
-      Kulturzentrum Progr ausgestellt und vom Publikum getestet und
-      juriert.&#xA;[kindergamepreis@playbern.ch](mailto:kindergamepreis@playbern.ch)
+      Bereits zum fünften Mal konnten wir mit Unterstützung der Hasler-Stiftung
+      einen Wettbewerb für von Kindern eigenständig entwickelte Games
+      durchführen! Die Games wurden am PlayBern-Festival, 15.9- 17.9 23 im
+      Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
 
 
-      ###### [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
+
+      [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
+
+
+      Weitere Angaben und die links zu den Games zu  folgen. 
 
 
       ###### ![](/uploads/2023/poster2023.png)
@@ -202,6 +195,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
