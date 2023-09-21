@@ -76,10 +76,13 @@ blocks:
       ](https://playbern.ch/Wettbewerb-Bildergalerie "Game-Cartoon Wettbewerb")
 
 
-      # Der Kinder-Game-Wettbewerb 2023
+      ###
 
 
-      ###### Bereits zum fünften Mal können wir mit Unterstützung der
+      ### Der Kinder-Game-Wettbewerb 2023
+
+
+      ### Bereits zum fünften Mal können wir mit Unterstützung der
       Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte
       Games durchführen! Die Games werden am PlayBern-Festival, 15.9- 17.9 23 im
       Kulturzentrum Progr ausgestellt und vom Publikum getestet und
@@ -200,6 +203,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
