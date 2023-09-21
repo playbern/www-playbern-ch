@@ -72,7 +72,7 @@ blocks:
       im Progr statt.**
 
 
-      # [DIE BEITRÄGE](https://playbern.ch/Wettbewerb-Bildergalerie)
+      ## [DIE BEITRÄGE](https://playbern.ch/Wettbewerb-Bildergalerie)
 
 
       ### Der Kinder-Game-Wettbewerb 2023
@@ -90,7 +90,6 @@ blocks:
 
 
       ###### ![](/uploads/2023/poster2023.png)
-
 
 
       2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "PDF")
@@ -200,6 +199,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
