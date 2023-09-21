@@ -1,5 +1,5 @@
 ---
-title: Wettbewerb
+title: Cartoon-Wettbewerb
 blocks:
   - body: >
       ## Hier findest du alle Beiträge zum PlayBern/ Petarde-Game-Cartoon-Preis!
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
