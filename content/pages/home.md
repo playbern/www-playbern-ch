@@ -38,7 +38,7 @@ blocks:
       [PROGR](https://www.progr.ch/) im Zentrum von Bern stattgefunden. 
 
 
-      Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
+      Das diesjährige Thema war **“Diversität”**. Damit meinten wir Diversität
       sowohl in Games, als auch in Gaming-Tools, in Game-Figuren und in
       Game-Mechanics.
 
@@ -51,8 +51,8 @@ blocks:
 
 
       Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/
-      "Petarde")schrieb PlayBern zum ersten Mal einen [Preis für Cartoons oder
-      Memes zum Thema "Games" aus.
+      "Petarde")hat PlayBern zum ersten Mal einen [Preis für Cartoons oder Memes
+      zum Thema "Games" ausgeschreiben.
       ](https://petarde.ch/news/cartoon-und-meme-wettbewerb "Cartoon
       Wettbewerb")
 
@@ -194,6 +194,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
