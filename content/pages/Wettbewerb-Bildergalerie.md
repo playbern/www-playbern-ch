@@ -92,9 +92,13 @@ blocks:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
-      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
-        alt: ''
-        description: '2.Preis. Oger, Game Over'
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
+        alt: >-
+          Auf dem Bild sind zwei Frauen. Die Frau in einem Fantasy-Kostüm hält
+          einen Wischmopp in der Hand sagt: Arrg könntest du mir nicht mal zur
+          Hand gehen? Die andere sitzt in einem Samuari-Kostüm im Sessel und
+          antwortet: Hast du daran gedacht, mein Shirt zu waschen?
+        description: 'Caroline Aichhorn, ohne Titel '
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.30.png
         alt: >-
           eine Frau mit Kind steht vor einer Gruppe von Gamerfiguren und fragt
@@ -121,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
