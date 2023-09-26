@@ -34,8 +34,8 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das nächste PlayBern-Festival findet vom 15. – 17. September wieder im
-      [PROGR](https://www.progr.ch/) im Zentrum von Bern statt.
+      ## Das letzte PlayBern-Festival hat vom 15. – 17. September im
+      [PROGR](https://www.progr.ch/) im Zentrum von Bern stattgefunden. 
 
 
       Das diesjährige Thema ist **“Diversität”**. Damit meinen wir Diversität
@@ -62,7 +62,7 @@ blocks:
       PlayBern-Sonntag  um 16.00 auf der Kleinen Bühne im Progr statt.
 
 
-      [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)****
+      [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)\*\*\*\*
 
 
       #### [zu den Game-Cartoon-Beiträgen
@@ -78,11 +78,10 @@ blocks:
       Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
 
 
-
       [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
 
 
-      Weitere Angaben und die links zu den Games zu  folgen. 
+      Weitere Angaben und die links zu den Games zu  folgen.
 
 
       ###### ![](/uploads/2023/poster2023.png)
@@ -195,6 +194,7 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
+
 
 
 
