@@ -39,12 +39,12 @@ blocks:
           Kind stapelt Bauklötze. Die Mutter sagt zum Vater: Er spielt und
           spielt... hoffentlich wird er kein Spieler! 
         description: 'Pfuschi Pfister, Spieler'
-      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.14.05.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.55.png
         alt: >-
-          2 Abbildungen aus Mincraft: Bild 1 eine Baustelle. Bild 2 ein fertiges
-          Minecraft-Gebäude. TItel: nachdem ich mir die neuste Grafikkarte
-          geleistet habe.
-        description: 'Gewonnen! 1. Preis für Luca, Grafikkarte Wir gratulieren! '
+          Gott und der Teufel sitzen vor eine Welt. der Teufell gamt. Gott sagt:
+          Jetzt reicht's! lass mich mal wieder ran! Der Teufel antwortet:  Einen
+          Moment! Ich spiele noch eben das Level "Mensch" zu  Ende
+        description: 'Demattio, Level Mensch'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.21.png
         alt: >-
           Kinder drängeln sich im Naturhistorischen Museum vor dem
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
