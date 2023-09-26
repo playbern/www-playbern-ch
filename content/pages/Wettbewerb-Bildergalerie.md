@@ -25,13 +25,9 @@ blocks:
           Gott ist mit einer Weltkugel am Gamen. Zwie Engel stehen hinter ihm.
           Einer sagt: Komm, lassen wir ihn noch Ist eh gleich Game Over! 
         description: '2. Preis, Oger , Ohne Titel'
-      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
-        alt: >-
-          Vier Controller, die als Gesichter inszeniert sind: oben links:
-          Controllergesicht mit Schnuller rosa, oben rechts Controllergesicht
-          mit Kussmund, unten links Controllergesicht mit Smiley-Lächeln, unten
-          rechts Controllergesicht mit Schnuller hellblau
-        description: 'Ruth Hebbler, Controller'
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.05.png
+        alt: Renter spielt am Computer das Game "Enten füttern"
+        description: '3. Preis! Nadia Menze, Videospiele für Rentner'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.02.png
         alt: >-
           Kind stapelt Bauklötze. Die Mutter sagt zum Vater: Er spielt und
@@ -80,7 +76,7 @@ blocks:
           einen sehr langatmigen Pong-Walkthrough an
         description: 'Tim Gossing, Reaction Pauli'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.05.png
-        alt: Renter spielt am Computer "Enten füttern"
+        alt: ''
         description: 'Der 3. Preis! Nadia Menze, Videospiele für Rentner '
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.33.png
         alt: >-
@@ -125,6 +121,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
