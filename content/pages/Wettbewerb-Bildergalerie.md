@@ -44,7 +44,7 @@ blocks:
           Gott und der Teufel sitzen vor eine Welt. der Teufell gamt. Gott sagt:
           Jetzt reicht's! lass mich mal wieder ran! Der Teufel antwortet:  Einen
           Moment! Ich spiele noch eben das Level "Mensch" zu  Ende
-        description: 'Demattio, Level Mensch'
+        description: 'Rainer Demattio, Level Mensch'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.29.21.png
         alt: >-
           Kinder drängeln sich im Naturhistorischen Museum vor dem
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
