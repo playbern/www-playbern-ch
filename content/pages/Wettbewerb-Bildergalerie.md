@@ -90,7 +90,7 @@ blocks:
           Offenbar hat das Ungeborenen einen Controller in der Hand und gamt.
           Die Schwangere sagt: Reg dich nicht auf, Schatz! Kinder lernen sowas
           einfach schneller!
-        description: 'Oger,  ohne Titel'
+        description: 'Der 2. Preis: Oger,  ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
