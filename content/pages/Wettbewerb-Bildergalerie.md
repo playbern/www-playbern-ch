@@ -75,9 +75,13 @@ blocks:
           eine Figur schaut in einen Bildschirm. Ein Gaming-Influencer kündigt
           einen sehr langatmigen Pong-Walkthrough an
         description: 'Tim Gossing, Reaction Pauli'
-      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.05.png
-        alt: ''
-        description: 'Der 3. Preis! Nadia Menze, Videospiele für Rentner '
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
+        alt: >-
+          Vier Controller, die als Gesichter inszeniert sind: oben links:
+          Controllergesicht mit Schnuller rosa, oben rechts Controllergesicht
+          mit Kussmund, unten links Controllergesicht mit Smiley-Lächeln, unten
+          rechts Controllergesicht mit Schnuller hellblau
+        description: 'Ruth Hebbler, Controller'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.26.33.png
         alt: >-
           Extrem entnervter Mann sitzt mit schwangerer Frau auf dem Sofa.
@@ -121,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
