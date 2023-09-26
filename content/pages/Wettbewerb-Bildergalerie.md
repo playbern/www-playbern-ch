@@ -16,7 +16,7 @@ blocks:
   - items:
       - src: /uploads/Bildschirmfoto 2023-09-11 um 16.46.23.png
         alt: >-
-          Gott und der Teufel sitzen vor eine Welt. der Tuefel gamt. Gott sagt:
+          Gott und der Teufel sitzen vor eine Welt. der Teufell gamt. Gott sagt:
           Jetzt reicht's! lass mich mal wieder ran! Der Teufel antwortet:  Einen
           Moment! Ich spiele noch eben das Level "Mensch" zu  Ende
         description: 'Rainer Demattio, Level Mensch'
@@ -90,7 +90,7 @@ blocks:
           Offenbar hat das Ungeborenen einen Controller in der Hand und gamt.
           Die Schwangere sagt: Reg dich nicht auf, Schatz! Kinder lernen sowas
           einfach schneller!
-        description: 'Der 2. Preis: Oger,  ohne Titel'
+        description: 'Oger,  ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.05.png
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
@@ -98,7 +98,7 @@ blocks:
         alt: >-
           Gott ist mit einer Weltkugel am Gamen. Zwie Engel stehen hinter ihm.
           Einer sagt: Komm, lassen wir ihn noch Ist eh gleich Game Over! 
-        description: 'Oger, Game Over'
+        description: '2.Preis. Oger, Game Over'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.30.png
         alt: >-
           eine Frau mit Kind steht vor einer Gruppe von Gamerfiguren und fragt
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
