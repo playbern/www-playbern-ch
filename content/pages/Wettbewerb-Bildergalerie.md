@@ -20,13 +20,11 @@ blocks:
           habe. Vorher: schickes Minecraft-Gebäude Nachher: rudimentärer
           MInecraft Bunker
         description: 'Gewonnen!   1.Preis für Luca, Grafikkarte!           '
-      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
         alt: >-
-          auf dem Bild sind zwei Frauen. Die Frau in einem Fantasy-Kostüm hält
-          einen Wischmopp in der Hand sagt: Arrg könntest du mir nicht mal zur
-          Hand gehen? Die andere sitzt in einem Samuari-Kostüm im Sessel und
-          antwortet: Hast du daran gedacht, mein Shirt zu waschen? 
-        description: Carolin Aichhorn
+          Gott ist mit einer Weltkugel am Gamen. Zwie Engel stehen hinter ihm.
+          Einer sagt: Komm, lassen wir ihn noch Ist eh gleich Game Over! 
+        description: '2. Preis, Oger , Ohne Titel'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.28.25.png
         alt: >-
           Vier Controller, die als Gesichter inszeniert sind: oben links:
@@ -95,9 +93,7 @@ blocks:
         alt: 'Schädel mit Nintendo-Buttons, anstelle der Augen'
         description: 'Oger, Homo Nintensis'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.27.37.png
-        alt: >-
-          Gott ist mit einer Weltkugel am Gamen. Zwie Engel stehen hinter ihm.
-          Einer sagt: Komm, lassen wir ihn noch Ist eh gleich Game Over! 
+        alt: ''
         description: '2.Preis. Oger, Game Over'
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.30.png
         alt: >-
@@ -125,6 +121,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
