@@ -14,12 +14,12 @@ blocks:
       Bühne im 1.Stock
     _template: content
   - items:
-      - src: /uploads/Bildschirmfoto 2023-09-11 um 16.46.23.png
+      - src: /uploads/Bildschirmfoto 2023-09-11 um 15.14.05.png
         alt: >-
-          Gott und der Teufel sitzen vor eine Welt. der Teufell gamt. Gott sagt:
-          Jetzt reicht's! lass mich mal wieder ran! Der Teufel antwortet:  Einen
-          Moment! Ich spiele noch eben das Level "Mensch" zu  Ende
-        description: 'Rainer Demattio, Level Mensch'
+          Titel: Ich in 20230: Nachdem ich mir die neuste Grafikkarte geleistet
+          habe. Vorher: schickes Minecraft-Gebäude Nachher: rudimentärer
+          MInecraft Bunker
+        description: 'Gewonnen!   1.Preis für Luca, Grafikkarte!           '
       - src: /uploads/Bildschirmfoto 2023-09-11 um 15.32.09.png
         alt: >-
           auf dem Bild sind zwei Frauen. Die Frau in einem Fantasy-Kostüm hält
@@ -125,6 +125,7 @@ blocks:
         description: 'Teresa Backmund, ohne Titel'
     _template: gallery
 ---
+
 
 
 
