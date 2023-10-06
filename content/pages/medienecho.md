@@ -5,7 +5,7 @@ blocks:
       ## Medienecho
 
 
-      Weitere Infos für die [Presse hier](https://playbern.ch/press).
+      Weitere Informationen für die [Presse hier](https://playbern.ch/press).
 
 
       ### PlayBern 2023
