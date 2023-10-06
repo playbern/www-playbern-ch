@@ -39,9 +39,9 @@ blocks:
         description: >-
           Ein Golem ist die Hauptfigur des wunderschönen Games aus Bern
           "Unpetrified"
-      - src: /uploads/Vergangene Festivals/2P9A1997.jpg
+      - src: /uploads/PlayBern Festival 2023/DSCF0388.JPG
         alt: '"Just Dance" für alle'
-        description: '"Just Dance" für alle'
+        description: 'Die Gewinner:innen des PlayBern-KInder-Game-Preises 23'
       - src: /uploads/Vergangene Festivals/2P9A1439.jpg
         alt: Zwei Jungs spielen "Mario Kart"
         description: Zwei Jungs spielen "Mario Kart"
