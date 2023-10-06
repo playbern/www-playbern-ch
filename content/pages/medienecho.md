@@ -20,6 +20,8 @@ blocks:
 
       * Vorschau in der Berner Kultur-Agenda
 
+      * Bericht in der "Hauptstadt" über den PlayBerner Pesche Buri
+
       *
 
       * PlayBern 2022
