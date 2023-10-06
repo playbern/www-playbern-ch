@@ -18,9 +18,9 @@ blocks:
           eine Gruppe von Personen sieht sich die Barrierefreiheitseinstellungen
           von Forza 5 an Forza 5
         description: Sven Radtke von "Gaming ohne Grenzen" erläutert "Barrierefreiheit"
-      - src: /uploads/Vergangene Festivals/MSFX8326.jpg
-        alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
-        description: Louis Amport unterhält sich mit einer Musikerin von "Tabula Musica"
+      - src: /uploads/PlayBern Festival 2023/DSCF0302.JPG
+        alt: 'Louis Amport unterhält sich mit PlayBerner Yves '
+        description: 'Louis Amport erläutert seine Turnier-Idee '
       - src: /uploads/Vergangene Festivals/MSFX8311.jpg
         alt: Gamer spielt  das Game "Snake"
         description: Gamer spielt  das Game "Snake"
