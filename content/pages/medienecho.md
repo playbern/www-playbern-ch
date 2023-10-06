@@ -21,8 +21,7 @@ blocks:
 
       * Vorschau in der Berner Kultur-Agenda
 
-
-      ### Bericht in der "Hauptstadt" über den PlayBerner Pesche Buri
+      * Bericht in der "Hauptstadt" über den PlayBerner Pesche Buri
 
 
       ###
@@ -31,10 +30,9 @@ blocks:
       ### PlayBern 2022
 
 
-      ### 6.9.2022 **Hauptstadt Newsletter #68** Virtuelle Welt (Rückblick von
-      Marina Bolzli auf den Besuch „Meine Sprache und ich“ am PlayBern)
-
-
+      * 6.9.2022\
+        **Hauptstadt Newsletter #68**\
+        Virtuelle Welt (Rückblick von Marina Bolzli auf den Besuch „Meine Sprache und ich“ am PlayBern)
       * 1.9.2022\
         **Der Bund**\
         Er machte Musik für einen Game-Hit: Applaus gibt es dafür keinen (Interview von Ane Hebeisen mit Mario Batkovic im Zusammenhang mit PlayBern)
