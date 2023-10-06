@@ -43,7 +43,7 @@ blocks:
         alt: '"Just Dance" für alle'
         description: 'Die Gewinner:innen des PlayBern-KInder-Game-Preises 23'
       - src: /uploads/PlayBern Festival 2023/DSCF0419.JPG
-        alt: Zwei Jungs spielen "Mario Kart"
+        alt: Die Gewinner-Cartoons werden von 3 Personen präsentiert
         description: Präsentation der Gewinner-Game-Cartoons 2023
       - src: /uploads/Vergangene Festivals/2P9A1363.jpg
         alt: >-
