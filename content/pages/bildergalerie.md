@@ -3,8 +3,8 @@ title: Bildergalerie
 blocks:
   - items:
       - src: /uploads/PlayBern Festival 2023/SCM_0639.jpg
-        alt: Vera befreit eine kleines gelbes Monster aus einem Käftig
-        description: 'Eröffnungsspiel: Monstaschule mit FUTUR2'
+        alt: Mitspielerin Vera befreit ein gelbes Monster aus einem Käftig
+        description: 'Eröffnungsspiel: Monstaschule mit FUTUR2 '
       - src: /uploads/Vergangene Festivals/SCM_1222.jpg
         alt: 'Bild des Buttomats '
         description: 'Bild des Buttomats '
