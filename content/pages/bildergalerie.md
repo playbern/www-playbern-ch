@@ -13,9 +13,9 @@ blocks:
         description: >-
           Eine Klasse aus dem Schulhaus Dennigkofen stellt ihr Game "New York
           New York" vor
-      - src: /uploads/Vergangene Festivals/MSFX8339.jpg
+      - src: /uploads/WhatsApp Image 2023-09-22 at 20.32.02.jpeg
         alt: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
-        description: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
+        description: Sven Radtke von "Gaming ohne Grenzen" erläutert "Barrierefreiheit"
       - src: /uploads/Vergangene Festivals/MSFX8326.jpg
         alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
         description: Louis Amport unterhält sich mit einer Musikerin von "Tabula Musica"
