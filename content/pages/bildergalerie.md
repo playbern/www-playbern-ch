@@ -21,7 +21,7 @@ blocks:
       - src: /uploads/PlayBern Festival 2023/DSCF0302.JPG
         alt: 'Louis Amport unterhält sich mit PlayBerner Yves '
         description: 'Louis Amport erläutert seine Turnier-Idee '
-      - src: /uploads/Vergangene Festivals/MSFX8311.jpg
+      - src: /uploads/PlayBern Festival 2023/DSCF0200.JPG
         alt: Gamer spielt  das Game "Snake"
         description: Gamer spielt  das Game "Snake"
       - src: /uploads/Vergangene Festivals/MSFX8295.jpg
