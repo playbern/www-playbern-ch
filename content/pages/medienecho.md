@@ -6,6 +6,8 @@ blocks:
 
       Weitere Infos für die [Presse hier](https://playbern.ch/press).
 
+      ### PlayBern 2023
+
       ### PlayBern 2022
 
       * 6.9.2022\
@@ -16,7 +18,7 @@ blocks:
         Er machte Musik für einen Game-Hit: Applaus gibt es dafür keinen (Interview von Ane Hebeisen mit Mario Batkovic im Zusammenhang mit PlayBern)
       * 29.5.2022\
         **Game Based – Der Podcast über Games in der Bildung**\
-        Interview mit Bettina Wegenast über PlayBern, Games und Inklusion
+        [Interview mit Bettina Wegenast über PlayBern, Games und Inklusion](https://open.spotify.com/episode/3s77baVDBGkSgw9gKaGKoo?go=1\&sp_cid=8ef93c87aedc3aaf4db88700b534cbe4\&nd=1 "Game Based Podcast")
 
       ### PlayBern 2021
 
@@ -64,16 +66,4 @@ blocks:
         «bi de Lüüt» #3: Bettina Wegenast
     _template: content
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 
