@@ -45,13 +45,14 @@ blocks:
       - src: /uploads/PlayBern Festival 2023/DSCF0419.JPG
         alt: Die Gewinner-Cartoons werden von 3 Personen präsentiert
         description: Präsentation der Gewinner-Game-Cartoons 2023
-      - src: /uploads/Vergangene Festivals/2P9A1363.jpg
+      - src: /uploads/Gerda a Flame in Winter.png
         alt: >-
-          Felix Hüppi von der Kornhausbibliothek stellt das Projekt
-          Kindersoftware-Preis vor. 
+          Titel des Games "Gerda a Flame in Winter". Wir sehen eine Frau mit
+          Fahrrad; es ist Winter im Hintergrund brennt Feuer und im Vordergrund
+          liegt Stacheldraht
         description: >-
-          Felix Hüppi von der Kornhausbibliothek stellt das Projekt
-          "Kindersoftware-Preis" vor. 
+          Gerda aus "Gerda a Flame in Winter" ist eine nicht so ganz
+          ungewöhnliche Game-Heldin
       - src: /uploads/Vergangene Festivals/2P9A1215.jpg
         alt: Die Gewinner des PlayBern-Kinder-Game-Preises
         description: Die Gewinner des PlayBern-Kinder-Game-Preises
