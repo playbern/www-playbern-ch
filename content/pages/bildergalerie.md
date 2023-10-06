@@ -63,13 +63,14 @@ blocks:
         description: >-
           Mit einer tollen Burg zu Gast bei PlayBern: die Pen & Paper-Gruppe
           "Inklinge"
-      - src: /uploads/Vergangene Festivals/2P9A1163.jpg
+      - src: /uploads/DSCF0161.JPG
         alt: >-
-          Bettina Wegenast und Oli Stuker präsentieren den
-          PlayBern-Kinder-Game-Preis. 
+          Jonathan Wegenast von "Stand Up Bern" steht neben einem Bildschirm und
+          erklärt einer Gruppe von KIndern sein Mitspiel-Adventure "Tavern
+          Busters"
         description: >-
-          Bettina Wegenast und Oli Stuker präsentieren den
-          PlayBern-Kinder-Game-Preis. 
+          Jonathan Wegenast von "Stand Up Bern" initiiert sein
+          Mitspiel-Adventure "Tavern Busters"
     _template: gallery
   - body: ''
     _template: content
