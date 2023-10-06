@@ -5,9 +5,9 @@ blocks:
       - src: /uploads/PlayBern Festival 2023/SCM_0639.jpg
         alt: Mitspielerin Vera befreit ein gelbes Monster aus einem Käftig
         description: 'Eröffnungsspiel: Monstaschule mit FUTUR2 '
-      - src: /uploads/Vergangene Festivals/SCM_1222.jpg
-        alt: 'Bild des Buttomats '
-        description: 'Bild des Buttomats '
+      - src: /uploads/SCM_0627.jpg
+        alt: 'eine Gruppe von Gameri:innen versucht gemeinsam ein Rätsel zu lösen '
+        description: Rätseln mit der Monstaschule von FUTUR2
       - src: /uploads/Vergangene Festivals/SCM_1236.jpg
         alt: Lila Plakolli stellt ihr Gaming-Equipement vor
         description: Lila Plakolli stellt ihr Gaming-Equipement vor
