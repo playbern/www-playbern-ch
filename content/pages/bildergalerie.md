@@ -8,9 +8,11 @@ blocks:
       - src: /uploads/SCM_0627.jpg
         alt: 'eine Gruppe von Gameri:innen versucht gemeinsam ein Rätsel zu lösen '
         description: Rätseln mit der Monstaschule von FUTUR2
-      - src: /uploads/Vergangene Festivals/SCM_1236.jpg
-        alt: Lila Plakolli stellt ihr Gaming-Equipement vor
-        description: Lila Plakolli stellt ihr Gaming-Equipement vor
+      - src: /uploads/PlayBern Festival 2023/IMG_4708.jpeg
+        alt: 'Eine Klasse aus dem Dennigkofen '
+        description: >-
+          Eine Klasse aus dem Schulhaus Dennigkofen stellt ihr Game "New York
+          New York" vor
       - src: /uploads/Vergangene Festivals/MSFX8339.jpg
         alt: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
         description: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
