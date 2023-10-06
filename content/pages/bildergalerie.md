@@ -26,9 +26,11 @@ blocks:
           Personen sitzen um einen grünen Tisch und programmieren das Game
           "Actionbound"
         description: 'Actionbound-Workshop mit Sophie Achinger '
-      - src: /uploads/Vergangene Festivals/MSFX8295.jpg
-        alt: Susi von "Schminklusiv" bei der Arbeit
-        description: Susi v. Graffenried von "Schminklusiv" bei der Arbeit
+      - src: /uploads/PlayBern Festival 2023/DSCF0272.JPG
+        alt: >-
+          blondes Mädchen schaut einem Mann beim Erstellen eines Games mit der
+          App "Draw Your Game" zu 
+        description: '"Draw Your Game-Experin" Jade hilft beim Erstellen eines Games '
       - src: /uploads/Vergangene Festivals/2P9A2046.jpg
         alt: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
         description: 'Zwei fröhliche Gamer:innen sitzen lachend auf dem Boden '
