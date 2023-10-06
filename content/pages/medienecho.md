@@ -8,7 +8,8 @@ blocks:
       Weitere Infos für die [Presse hier](https://playbern.ch/press).
 
 
-      * PlayBern 2023
+      ### PlayBern 2023
+
 
       * I[nterview mit Bettina Wegenast im Basler Radio
       X](https://radiox.ch/news-archiv/playbern-2023-vorschau.html "Interview
@@ -20,15 +21,20 @@ blocks:
 
       * Vorschau in der Berner Kultur-Agenda
 
-      * Bericht in der "Hauptstadt" über den PlayBerner Pesche Buri
 
-      *
+      ### Bericht in der "Hauptstadt" über den PlayBerner Pesche Buri
 
-      * PlayBern 2022
 
-      * 6.9.2022\
-        **Hauptstadt Newsletter #68**\
-        Virtuelle Welt (Rückblick von Marina Bolzli auf den Besuch „Meine Sprache und ich“ am PlayBern)
+      ###
+
+
+      ### PlayBern 2022
+
+
+      ### 6.9.2022 **Hauptstadt Newsletter #68** Virtuelle Welt (Rückblick von
+      Marina Bolzli auf den Besuch „Meine Sprache und ich“ am PlayBern)
+
+
       * 1.9.2022\
         **Der Bund**\
         Er machte Musik für einen Game-Hit: Applaus gibt es dafür keinen (Interview von Ane Hebeisen mit Mario Batkovic im Zusammenhang mit PlayBern)
