@@ -19,7 +19,7 @@ blocks:
           von Forza 5 an Forza 5
         description: Sven Radtke von "Gaming ohne Grenzen" erläutert "Barrierefreiheit"
       - src: /uploads/PlayBern Festival 2023/DSCF0302.JPG
-        alt: 'Louis Amport unterhält sich mit PlayBerner Yves '
+        alt: 'Rolli-Fahrer Louis Amport unterhält sich mit PlayBerner Yves '
         description: 'Louis Amport erläutert seine Idee für ein Nintendo Sports Tunier  '
       - src: /uploads/PlayBern Festival 2023/DSCF0200.JPG
         alt: Gamer spielt  das Game "Snake"
