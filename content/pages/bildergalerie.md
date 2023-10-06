@@ -53,9 +53,11 @@ blocks:
         description: >-
           Gerda aus "Gerda a Flame in Winter" ist eine nicht so ganz
           ungewöhnliche Game-Heldin
-      - src: /uploads/Vergangene Festivals/2P9A1215.jpg
-        alt: Die Gewinner des PlayBern-Kinder-Game-Preises
-        description: Die Gewinner des PlayBern-Kinder-Game-Preises
+      - src: /uploads/PlayBern Festival 2023/DSCF0306.JPG
+        alt: >-
+          Im Progr-Estrich: eine Frau spielt mit einem gamilifizierten,
+          leuchtenden LED-Streifen
+        description: Das 3-dimensionale Game "Line Wobbler" im "Place Victor"
       - src: /uploads/Vergangene Festivals/2P9A1185.jpg
         alt: 'Olivier Stuker präsentiert das Game "Wizard Ball" '
         description: 'Oli Stuker präsentiert das Game "Wizard Ball" '
