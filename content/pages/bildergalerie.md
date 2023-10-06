@@ -22,8 +22,10 @@ blocks:
         alt: 'Rolli-Fahrer Louis Amport unterhält sich mit PlayBerner Yves '
         description: 'Louis Amport erläutert seine Idee für ein Nintendo Sports Tunier  '
       - src: /uploads/PlayBern Festival 2023/DSCF0200.JPG
-        alt: Gamer spielt  das Game "Snake"
-        description: Gamer spielt  das Game "Snake"
+        alt: >-
+          Personen sitzen um einen grünen Tisch und programmieren das Game
+          "Actionbound"
+        description: 'Actionbound-Workshop mit Sophie Achinger '
       - src: /uploads/Vergangene Festivals/MSFX8295.jpg
         alt: Susi von "Schminklusiv" bei der Arbeit
         description: Susi v. Graffenried von "Schminklusiv" bei der Arbeit
