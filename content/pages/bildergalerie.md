@@ -31,9 +31,9 @@ blocks:
           blondes Mädchen schaut einem Mann beim Erstellen eines Games mit der
           App "Draw Your Game" zu 
         description: '"Draw Your Game-Experin" Jade hilft beim Erstellen eines Games '
-      - src: /uploads/Vergangene Festivals/2P9A2046.jpg
-        alt: 'Zwei fröhliche Gamer:innen sitzen auf dem Boden '
-        description: 'Zwei fröhliche Gamer:innen sitzen lachend auf dem Boden '
+      - src: /uploads/PlayBern Festival 2023/DSCF0188.JPG
+        alt: Kinder sitzen vor Bildschirmen und probieren neue Games aus
+        description: Neue Games für Kinder ausprobieren
       - src: /uploads/Vergangene Festivals/2P9A2038.jpg
         alt: Kinder bei "Just Dance"
         description: Kinder bei "Just Dance"
