@@ -11,6 +11,8 @@ blocks:
       ### PlayBern 2023
 
 
+      *
+
       * I[nterview mit Bettina Wegenast im Basler Radio
       X](https://radiox.ch/news-archiv/playbern-2023-vorschau.html "Interview
       Radio X")
