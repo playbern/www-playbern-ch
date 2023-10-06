@@ -42,9 +42,9 @@ blocks:
       - src: /uploads/PlayBern Festival 2023/DSCF0388.JPG
         alt: '"Just Dance" für alle'
         description: 'Die Gewinner:innen des PlayBern-KInder-Game-Preises 23'
-      - src: /uploads/Vergangene Festivals/2P9A1439.jpg
+      - src: /uploads/PlayBern Festival 2023/DSCF0419.JPG
         alt: Zwei Jungs spielen "Mario Kart"
-        description: Zwei Jungs spielen "Mario Kart"
+        description: Präsentation der Gewinner-Game-Cartoons 2023
       - src: /uploads/Vergangene Festivals/2P9A1363.jpg
         alt: >-
           Felix Hüppi von der Kornhausbibliothek stellt das Projekt
