@@ -35,7 +35,7 @@ blocks:
         alt: Kinder sitzen vor Bildschirmen und probieren neue Games aus
         description: Neue Games für Kinder ausprobieren
       - src: /uploads/Unpetrified.png
-        alt: Kinder bei "Just Dance"
+        alt: Eine Game-Figur aus Stein in einer bunten Märchenwelt
         description: >-
           Ein Golem ist die Hauptfigur des wunderschönen Games aus Bern
           "Unpetrified"
