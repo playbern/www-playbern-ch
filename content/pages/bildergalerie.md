@@ -14,7 +14,9 @@ blocks:
           Eine Klasse aus dem Schulhaus Dennigkofen stellt ihr Game "New York
           New York" vor
       - src: /uploads/WhatsApp Image 2023-09-22 at 20.32.02.jpeg
-        alt: 'Zuhörer:innen bei einer PlayBern-Präsentation in der Grossen Halle '
+        alt: >-
+          eine Gruppe von Personen sieht sich die Barrierefreiheitseinstellungen
+          von Forza 5 an Forza 5
         description: Sven Radtke von "Gaming ohne Grenzen" erläutert "Barrierefreiheit"
       - src: /uploads/Vergangene Festivals/MSFX8326.jpg
         alt: Louis Amport unterhält sich mit einer Musikerin von Tabula Musica
