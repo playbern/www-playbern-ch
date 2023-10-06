@@ -1,26 +1,36 @@
 ---
 title: Medienecho
 blocks:
-  - body: |
+  - body: >
       ## Medienecho
+
 
       Weitere Infos für die [Presse hier](https://playbern.ch/press).
 
+
       ### PlayBern 2023
 
-      * 12.09.2023
 
-          I[nterview mit Bettina Wegenast im Basler Radio              X](https://radiox.ch/news-archiv/playbern-2023-vorschau.html "Interview Radio X")
+      * 12.09.2023    I[nterview mit Bettina Wegenast im Basler
+      Radio             
+      X](https://radiox.ch/news-archiv/playbern-2023-vorschau.html "Interview
+      Radio X")
 
-      *
-      * Vorschau im Migros Magazin
-      * Bericht im Berner "Bund" von Helen Lagger
-      * Vorschau in der Berner Kultur-Agenda
-      * Bericht in der "Hauptstadt" über den PlayBerner Pesche Buri
+      * 11.09.2023:  Vorschau im Migros Magazin
+
+      * 13.09.23: Bericht im Berner "Bund" von Helen Lagger
+
+      * 14.09.2023 Vorschau in der Berner Kultur-Agenda
+
+      * 24\. 4. 2023 Bericht in der "Hauptstadt" von Nicolai Morowitz über den
+      PlayBerner Pesche Buri
+
 
       ###
 
+
       ### PlayBern 2022
+
 
       * 6.9.2022\
         **Hauptstadt Newsletter #68**\
@@ -34,6 +44,7 @@ blocks:
 
       ### PlayBern 2021
 
+
       * 20.10.2021\
         **Berner Kulturagenda BKA**\
         Zukunftsspiele (Artikel von Bettina Aeberhard)
@@ -42,6 +53,7 @@ blocks:
         Jahn trifft Bettina Wegenast (Videointerview von Jahn Graf)
 
       ### PlayBern 2020
+
 
       * 15.10.2020\
         **Radio Bern1**\
@@ -54,6 +66,7 @@ blocks:
         Es geht um Teamarbeit (Interview mit Bettina Wegenast)
 
       ### PlayBern 2019
+
 
       * 9.11.2019\
         **Radio SRF, Regionaljournal Bern, Freiburg, Wallis**\
