@@ -58,9 +58,11 @@ blocks:
           Im Progr-Estrich: eine Frau spielt mit einem gamilifizierten,
           leuchtenden LED-Streifen
         description: Das 3-dimensionale Game "Line Wobbler" im "Place Victor"
-      - src: /uploads/Vergangene Festivals/2P9A1185.jpg
-        alt: 'Olivier Stuker präsentiert das Game "Wizard Ball" '
-        description: 'Oli Stuker präsentiert das Game "Wizard Ball" '
+      - src: /uploads/DSCF0108.JPG
+        alt: 'Eine Frau steht mit 2 Kindern vor einer grossen Plastik-Burg '
+        description: >-
+          Mit einer tollen Burg zu Gast bei PlayBern: die Pen & Paper-Gruppe
+          "Inklinge"
       - src: /uploads/Vergangene Festivals/2P9A1163.jpg
         alt: >-
           Bettina Wegenast und Oli Stuker präsentieren den
