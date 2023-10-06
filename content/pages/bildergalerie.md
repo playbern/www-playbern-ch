@@ -34,9 +34,11 @@ blocks:
       - src: /uploads/PlayBern Festival 2023/DSCF0188.JPG
         alt: Kinder sitzen vor Bildschirmen und probieren neue Games aus
         description: Neue Games für Kinder ausprobieren
-      - src: /uploads/Vergangene Festivals/2P9A2038.jpg
+      - src: /uploads/Unpetrified.png
         alt: Kinder bei "Just Dance"
-        description: Kinder bei "Just Dance"
+        description: >-
+          Ein Golem ist die Hauptfigur des wunderschönen Games aus Bern
+          "Unpetrified"
       - src: /uploads/Vergangene Festivals/2P9A1997.jpg
         alt: '"Just Dance" für alle'
         description: '"Just Dance" für alle'
