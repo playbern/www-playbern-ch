@@ -8,16 +8,21 @@ blocks:
       Weitere Infos für die [Presse hier](https://playbern.ch/press).
 
 
-      ### PlayBern 2023
+      * PlayBern 2023
 
-
-      I[nterview mit Bettina Wegenast im Basler Radio
+      * I[nterview mit Bettina Wegenast im Basler Radio
       X](https://radiox.ch/news-archiv/playbern-2023-vorschau.html "Interview
       Radio X")
 
+      * Vorschau im Migros Magazin
 
-      ### PlayBern 2022
+      * Bericht im Berner "Bund" von Helen Lagger
 
+      * Vorschau in der Berner Kultur-Agenda
+
+      *
+
+      * PlayBern 2022
 
       * 6.9.2022\
         **Hauptstadt Newsletter #68**\
