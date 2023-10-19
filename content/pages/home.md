@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 15. - 17. September 2023 im Progr Bern
+  - tagline: 15. - 17. September 2023 - PROGR - Bern
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -21,10 +21,6 @@ blocks:
         type: button
         icon: true
         link: /press
-      - label: Info & Tickets
-        type: button
-        icon: true
-        link: /tickets
       - label: Programm
         type: button
         icon: true
@@ -34,8 +30,8 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das letzte PlayBern-Festival hat vom 15. – 17. September im
-      [PROGR](https://www.progr.ch/) im Zentrum von Bern stattgefunden. 
+      ## Das PlayBern-Festival hat vom 15. – 17. September im
+      PROGR - Zentrum für Kulturproduktion in Bern stattgefunden. 
 
 
       Das diesjährige Thema war **“Diversität”**. Damit meinten wir Diversität
@@ -60,12 +56,9 @@ blocks:
       Die eingesendeten Beiträge wurden während dem Festival im Progr
       ausgestellt und vom Publikum prämiert. Die Preisverleihung fand am
       PlayBern-Sonntag  um 16.00 auf der Kleinen Bühne im Progr statt.
+      [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)
 
-
-      [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)\*\*\*\*
-
-
-      #### [zu den Game-Cartoon-Beiträgen
+      [🎨 Zu den Game-Cartoon-Beiträgen
       ](https://playbern.ch/Wettbewerb-Bildergalerie "Game-Cartoon Wettbewerb")
 
 
@@ -76,26 +69,12 @@ blocks:
       einen Wettbewerb für von Kindern eigenständig entwickelte Games
       durchführen! Die Games wurden am PlayBern-Festival, 15.9- 17.9 23 im
       Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
-
-
       [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
-
-
-      Weitere Angaben und die links zu den Games zu  folgen.
 
 
       ###### ![](/uploads/2023/poster2023.png)
 
-
-      2023 Flyer [downloaden und verteilen](/uploads/2023/poster2023.pdf "PDF")
-
-
-      #### Programm zum Download:
-
-
-      [PB23 Tagesprogramm
-      PlayBern.pdf](https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23%20Tagesprogramm%20PlayBern.pdf
-      "PB23 Tagesprogramm PlayBern.pdf")
+      [Programmheft zum Download](https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23%20Tagesprogramm%20PlayBern.pdf)
     color: white
     _template: content
   - title: Vielen Dank für die Unterstützung
