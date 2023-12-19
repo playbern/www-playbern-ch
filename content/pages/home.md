@@ -30,8 +30,8 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das PlayBern-Festival hat vom 15. – 17. September im PROGR - Zentrum
-      für Kulturproduktion in Bern stattgefunden.
+      ## Das PlayBern-Festival 2023 hat vom 15. – 17. September im PROGR -
+      Zentrum für Kulturproduktion in Bern stattgefunden.
 
 
       Das diesjährige Thema war **“Diversität”**. Damit meinten wir Diversität
