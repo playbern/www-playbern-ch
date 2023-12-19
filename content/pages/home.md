@@ -8,10 +8,14 @@ blocks:
 
 
       Seit 2019 findet in Bern jeweils im Spätsommer das PlayBern-Festival
-      statt. Geboten wird eine bunte Mischung aus Spielen, Entdecken,
-      Ausprobieren, Programmieren, Diskutieren … Im Zentrum stehen ungewöhnliche
-      Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
-      Alters, egal ob mit oder ohne Game-Hintergrund.
+      statt. Entdecken, Ausprobieren, Programmieren, Diskutieren … Im Zentrum
+      stehen ungewöhnliche Games und sperrige Ideen. Ob mit oder ohne
+      Game-Hintergrund: bei PlayBern können alle mitspielen!
+
+
+      Bei Play 2024 wird es um neue Games für Kinder (mit der
+      Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
+      Spassgames...) gehen. Kommen und Mittanzen! 
     actions:
       - label: Bildergalerie
         type: button
