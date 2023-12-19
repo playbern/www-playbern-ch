@@ -13,7 +13,7 @@ blocks:
       Game-Hintergrund: bei PlayBern können alle mitspielen!
 
 
-      Bei Play 2024 wird es um neue Games für Kinder (mit der
+      #### Bei Play 2024 wird es um neue Games für Kinder (mit der
       Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
       Spassgames...) gehen. Kommen und Mithüpfen! 
     actions:
