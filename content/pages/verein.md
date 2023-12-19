@@ -6,8 +6,9 @@ blocks:
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich zusammen
       aus: [Bettina Wegenast ](https://fabelfabrik.ch/
       "Fabelfabrik")(Präsidentin), Olivier Stuker (Co-Präsidium)Philipp Wegenast
-      (Tresorier), Pesche Buri (Fachmann für Accessibility) und Meret Stoppia
-      (Organisation Helfende).
+      (Tresorier), [Pesche Buri
+      ](https://www.hauptstadt.be/a/gamer-peter-buri-inklusion-barrierefrei-gamen)(Fachmann
+      für Accessibility) und Meret Stoppia (Organisation Helfende).
     actions:
       - label: Kontakt
         type: button
