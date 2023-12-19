@@ -15,7 +15,7 @@ blocks:
 
       Bei Play 2024 wird es um neue Games für Kinder (mit der
       Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
-      Spassgames...) gehen. Kommen und Mittanzen! 
+      Spassgames...) gehen. Kommen und Mithüpfen! 
     actions:
       - label: Bildergalerie
         type: button
