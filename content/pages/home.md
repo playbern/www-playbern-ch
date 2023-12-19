@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 'PlayBern 2024: 8.-10. November im Kornhaus Bern '
+  - tagline: 'NEW: PlayBern 2024: 8.-10. November im Kornhaus Bern '
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -15,7 +15,7 @@ blocks:
 
       #### Bei Play 2024 wird es um neue Games für Kinder (mit der
       Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
-      Spassgames...) gehen. Kommen und Mithüpfen! 
+      Spassgames...) gehen. Kommen und Mithüpfen!
     actions:
       - label: Bildergalerie
         type: button
