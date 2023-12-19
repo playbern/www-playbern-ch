@@ -4,9 +4,10 @@ blocks:
   - text: >
       Der Verein PlayBern organisiert das PlayBern-Festival sowie Kanäle und
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich zusammen
-      aus: Bettina Wegenast (Präsidentin), Olivier Stuker (Co-Präsidium)Philipp
-      Wegenast (Tresorier), Pesche Buri (Fachmann für Accessibility) und Meret
-      Stoppia (Organisation Helfende).
+      aus: [Bettina Wegenast ](https://fabelfabrik.ch/
+      "Fabelfabrik")(Präsidentin), Olivier Stuker (Co-Präsidium)Philipp Wegenast
+      (Tresorier), Pesche Buri (Fachmann für Accessibility) und Meret Stoppia
+      (Organisation Helfende).
     actions:
       - label: Kontakt
         type: button
