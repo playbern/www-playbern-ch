@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 'PlayBern-Festival 2024:  8.-10. November im Kornhaus Bern'
+  - tagline: 'PlayBern 2024: 8.-10. November im Kornhaus Bern '
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -30,8 +30,8 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das PlayBern-Festival 2023 hat vom 15. – 17. September im PROGR -
-      Zentrum für Kulturproduktion in Bern stattgefunden.
+      ## Das PlayBern-Festival hat vom 15. – 17. September im PROGR - Zentrum
+      für Kulturproduktion in Bern stattgefunden.
 
 
       Das diesjährige Thema war **“Diversität”**. Damit meinten wir Diversität
