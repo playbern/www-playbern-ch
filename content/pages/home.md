@@ -1,17 +1,21 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 15. - 17. September 2023 - PROGR - Bern
+  - tagline: 'NEW: PlayBern 2024: 8.-10. November im Kornhaus Bern '
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
 
 
       Seit 2019 findet in Bern jeweils im Spätsommer das PlayBern-Festival
-      statt. Geboten wird eine bunte Mischung aus Spielen, Entdecken,
-      Ausprobieren, Programmieren, Diskutieren … Im Zentrum stehen ungewöhnliche
-      Games und sperrige Ideen. Das Festival richtet sich an Interessierte jeden
-      Alters, egal ob mit oder ohne Game-Hintergrund.
+      statt. Entdecken, Ausprobieren, Programmieren, Diskutieren … Im Zentrum
+      stehen ungewöhnliche Games und sperrige Ideen. Ob mit oder ohne
+      Game-Hintergrund: bei PlayBern können alle mitspielen!
+
+
+      #### Bei Play 2024 wird es um neue Games für Kinder (mit der
+      Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
+      Spassgames...) gehen. Kommen und Mithüpfen!
     actions:
       - label: Bildergalerie
         type: button
@@ -30,8 +34,9 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das PlayBern-Festival hat vom 15. – 17. September im
-      PROGR - Zentrum für Kulturproduktion in Bern stattgefunden. 
+      ## Das PlayBern-Festival hat vom 15. – 17. 2023 September im[ PROGR,
+      Zentrum für Kulturproduktionen](https://www.progr.ch/) in Bern
+      stattgefunden.
 
 
       Das diesjährige Thema war **“Diversität”**. Damit meinten wir Diversität
@@ -42,39 +47,7 @@ blocks:
       [Festival-Programm](/programs) und weitere [Informationen](/posts) ...
     color: primary
     _template: content
-  - body: >
-      ### Der Petarde Game-Cartoon Wettbewerb 2023
-
-
-      Gemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/
-      "Petarde")hat PlayBern zum ersten Mal einen [Preis für Cartoons oder Memes
-      zum Thema "Games" ausgeschreiben.
-      ](https://petarde.ch/news/cartoon-und-meme-wettbewerb "Cartoon
-      Wettbewerb")
-
-
-      Die eingesendeten Beiträge wurden während dem Festival im Progr
-      ausgestellt und vom Publikum prämiert. Die Preisverleihung fand am
-      PlayBern-Sonntag  um 16.00 auf der Kleinen Bühne im Progr statt.
-      [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)
-
-      [🎨 Zu den Game-Cartoon-Beiträgen
-      ](https://playbern.ch/Wettbewerb-Bildergalerie "Game-Cartoon Wettbewerb")
-
-
-      ### Der Kinder-Game-Wettbewerb 2023
-
-
-      Bereits zum fünften Mal konnten wir mit Unterstützung der Hasler-Stiftung
-      einen Wettbewerb für von Kindern eigenständig entwickelte Games
-      durchführen! Die Games wurden am PlayBern-Festival, 15.9- 17.9 23 im
-      Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert.
-      [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)
-
-
-      ###### ![](/uploads/2023/poster2023.png)
-
-      [Programmheft zum Download](https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23%20Tagesprogramm%20PlayBern.pdf)
+  - body: "### Der Petarde Game-Cartoon Wettbewerb 2023\n\nGemeinsam mit dem Satire-Magazin [Petrade ](https://petarde.ch/ \"Petarde\")hat PlayBern zum ersten Mal einen [Preis für Cartoons oder Memes zum Thema \"Games\" ausgeschreiben. ](https://petarde.ch/news/cartoon-und-meme-wettbewerb \"Cartoon Wettbewerb\")\n\nDie eingesendeten Beiträge wurden während dem Festival im Progr ausgestellt und vom Publikum prämiert. Die Preisverleihung fand am PlayBern-Sonntag  um 16.00 auf der Kleinen Bühne im Progr statt. [Weitere Details ..](/posts/Game-Cartoon-Wettbewerb-2023)\n[\U0001F3A8 Zu den Game-Cartoon-Beiträgen ](https://playbern.ch/Wettbewerb-Bildergalerie \"Game-Cartoon Wettbewerb\")\n\n### Der Kinder-Game-Wettbewerb 2023\n\nBereits zum fünften Mal konnten wir mit Unterstützung der Hasler-Stiftung einen Wettbewerb für von Kindern eigenständig entwickelte Games durchführen! Die Games wurden am PlayBern-Festival, 15.9- 17.9 23 im Kulturzentrum Progr ausgestellt und vom Publikum getestet und juriert. [Weitere Details ...](/posts/2023-kinder-game-wettbewerb)\n\n###### ![](/uploads/2023/poster2023.png)\n\n[Programmheft zum Download](https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/PB23%20Tagesprogramm%20PlayBern.pdf)\n"
     color: white
     _template: content
   - title: Vielen Dank für die Unterstützung
@@ -173,117 +146,4 @@ blocks:
       ![](/uploads/2023/logo2023.png)
     _template: content
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
