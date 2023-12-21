@@ -40,29 +40,6 @@ blocks:
       1. und 3. Stock. Während Randzeiten ist der Lift nur via Badge zugänglich.
       Bei Fragen bitte mit uns direkt Kontakt aufnehmen über info@playbern.ch
       oder während dem Festival vor Ort an der Kasse.
-
-
-      ###### [[PROGR
-      Lageplan.pdf](<https://assets.tina.io/8a4fe9a4-71a5-4ea3-927f-9d3205475687/2023/PROGR
-      Lageplan.pdf> "PROGR Lageplan.pdf")]()
-
-
-      ## Hier kann man Tickets für die einzelnen Tage kaufen:
-
-
-      ### Freitag    ![](</uploads/PB23 Code Ticktes Freitag.png>)
-
-
-      ### Samstag
-
-
-      ![](</uploads/PB23 Code Samstag.png>)
-
-
-      ### Sonntag
-
-
-      ![](</uploads/PB23 Code Ticktes Sonntag .png>)
     _template: hero
 ---
 
