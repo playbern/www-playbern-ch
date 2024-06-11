@@ -11,7 +11,7 @@ export default function PostsPage(
   const posts = props.data.postConnection.edges;
 
   // Hard-coded reversing
-  const postsReverse = posts.sort((a,b) => Date.parse(a.node.date) - Date.parse(b.node.date));
+  const postsReverse = posts.sort((a,b) => Date.parse(b.node.date) - Date.parse(a.node.date));
 
   return (
     <Layout>
