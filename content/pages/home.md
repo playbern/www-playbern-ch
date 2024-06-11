@@ -67,7 +67,10 @@ blocks:
         description: ''
       - src: /uploads/partners/SL_KtBE_Kultur_d_sw.jpg
         alt: ''
-        link: 'https://www.erz.be.ch/erz/de/index/kultur/kulturfoerderung.html'
+
+
+
+
         description: ''
       - src: /uploads/partners/migros-kulturprozent-schwarzweiss_d.png
         alt: ''
