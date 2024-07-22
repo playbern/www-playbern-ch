@@ -35,9 +35,7 @@ blocks:
       [Kornhausbibliothek](https://www.kob.ch/ "Kornhausbliothek") ausgestellt.
 
 
-      [Jury ist das Publikum. Erfahre hier
-      mehr!](https://playbern.ch/PlayBern-Kindergame-Preis-2024
-      "PlayBern-Kindergame-Preis 2024")
+      Jury ist das Publikum. [Erfahre hier mehr!]()
     actions:
       - label: Bildergalerie
         type: button
