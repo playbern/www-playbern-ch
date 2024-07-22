@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 'NEW: PlayBern 2024: 8.-10. November im Kornhaus Bern '
+  - tagline: 'NEW: PlayBern 2024: 8.-10.2024 November im Kornhaus Bern '
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -13,9 +13,12 @@ blocks:
       Game-Hintergrund: bei PlayBern können alle mitspielen!
 
 
-      #### Bei Play 2024 wird es um neue Games für Kinder (mit der
+      ## PlayBern 2024 wird vom 8.-10.November im Kornhaus in Bern stattfinden. 
+
+
+      ##### Bei Play 2024 wird es um neue Games für Kinder (mit der
       Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
-      Spassgames...) gehen. Kommen und Mithüpfen!
+      Spassgames...) gehen. Kommen und Mitspielen!
     actions:
       - label: Bildergalerie
         type: button
@@ -34,7 +37,7 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das PlayBern-Festival hat vom 15. – 17. 2023 September im[ PROGR,
+      ### Das PlayBern-Festival hat vom 15. – 17. 2023 September im[ PROGR,
       Zentrum für Kulturproduktionen](https://www.progr.ch/) in Bern
       stattgefunden.
 
