@@ -32,8 +32,10 @@ blocks:
 
       Auch in diesem Jahr schreiben wir wieder Preise aus für Games, die von
       Kindern erstellt worden sind! Die Games werden in der
-      [Kornhausbibliothek](https://www.kob.ch/ "Kornhausbliothek") ausgestellt
-      und Jury ist das Publikum. Erfahre hier mehr! 
+      [Kornhausbibliothek](https://www.kob.ch/ "Kornhausbliothek") ausgestellt. 
+
+
+      Jury ist das Publikum. Erfahre hier mehr! 
     actions:
       - label: Bildergalerie
         type: button
