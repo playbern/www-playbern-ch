@@ -13,12 +13,25 @@ blocks:
       Game-Hintergrund: bei PlayBern können alle mitspielen!
 
 
-      ## PlayBern 2024 wird vom 8.-10.November im Kornhaus in Bern stattfinden. 
+      ## PlayBern 2024 wird vom 8.-10.November im [Kornhaus
+      ](https://kornhausforum.ch/de/about/kornhausforum/ "Kornhaus Bern")in Bern
+      stattfinden. 
 
 
-      ##### Bei Play 2024 wird es um neue Games für Kinder (mit der
-      Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
-      Spassgames...) gehen. Kommen und Mitspielen!
+      ### Let's Move! 
+
+
+      ##### Bei Play 2024 wird es in diesem Jahr um  Games und um Bewegung
+      gehen. Wir zeigen alte und neue Tanz-, Exer- und andere Bewegungsgames und
+      laden wieder zu Workshops. Präsentationen und Talks ein. Kommen und
+      Mitspielen!
+
+
+      ### PlayBern-Kindergame-Preis 
+
+
+      Auch in diesem Jahr schreiben wir wieder Preise aus für Games, die von
+      Kindern erstellt worden sind! Erfahre hier mehr! 
     actions:
       - label: Bildergalerie
         type: button
