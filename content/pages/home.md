@@ -97,8 +97,7 @@ blocks:
         description: ''
       - src: /uploads/partners/Logo_GVB_Kulturstiftung_quer_sw_pos.png
         alt: ''
-        link: >-
-          https://gvb.ch/de/gvb-gruppe/engagement/kulturstiftung.html?sliderIndex=0
+        link: ''
         description: ''
       - src: /uploads/partners/logo_hasler_stiftung_sw.png
         alt: ''
@@ -108,9 +107,9 @@ blocks:
         alt: ''
         link: ''
         description: ''
-      - src: /uploads/partners/Logo_DAM_CMYK_mitClaim-1536x582.png
+      - src: ''
         alt: ''
-        link: 'https://denkanmich.ch/'
+        link: ''
         description: ''
       - src: /uploads/partners/index-Kopie.jpg
         alt: ''
@@ -125,7 +124,7 @@ blocks:
     _template: partners
   - title: Unsere Superpartner!
     items:
-      - src: /uploads/partners/Asset-4@4x.png
+      - src: ''
         alt: Tatkraft
         link: 'https://tatkraft.org/'
         description: ''
