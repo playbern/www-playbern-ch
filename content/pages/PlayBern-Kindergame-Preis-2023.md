@@ -1,4 +1,4 @@
 ---
-title: PlayBern-Kindergame-Preis 2023
+title: PlayBern-Kindergame-Preis 2024
 ---
 
