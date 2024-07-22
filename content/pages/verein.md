@@ -5,9 +5,7 @@ blocks:
       Der Verein PlayBern organisiert das PlayBern-Festival sowie Kanäle und
       Veranstaltungen rund um das Thema Gamen. Der Vorstand setzt sich aktuell
       zusammen aus: [Bettina Wegenast ](https://fabelfabrik.ch/
-      "Fabelfabrik")(Präsidentin),[ Olivier
-      Stuker](https://www.facebook.com/binaryborn/ "Olivier Stuker")
-      (Co-Präsidium) Philipp Wegenast (Tresorier), [Pesche Buri
+      "Fabelfabrik")(Präsidentin), Philipp Wegenast (Tresorier), [Pesche Buri
       ](https://www.hauptstadt.be/a/gamer-peter-buri-inklusion-barrierefrei-gamen)(Fachmann
       für Accessibility) und Meret Stoppia (Organisation Helfende).
     actions:
