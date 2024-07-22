@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 'NEW: PlayBern 2024: 8.-10.2024 November im Kornhaus Bern '
+  - tagline: ''
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
