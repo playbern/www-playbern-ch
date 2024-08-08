@@ -1,7 +1,7 @@
 ---
 title: PlayBern
 blocks:
-  - tagline: 'NEW: PlayBern 2024: 8.-10. November im Kornhaus Bern '
+  - tagline: ''
     headline: PlayBern Festival
     text: >
       **Gamen macht Spass. Aber in Games steckt noch viel mehr!**
@@ -13,9 +13,31 @@ blocks:
       Game-Hintergrund: bei PlayBern können alle mitspielen!
 
 
-      #### Bei Play 2024 wird es um neue Games für Kinder (mit der
-      Kornhausbibliothek) und um Games in Bewegung (Tanz-Games, Exergames,
-      Spassgames...) gehen. Kommen und Mithüpfen!
+      ## PlayBern 2024 wird vom 8.-10.November im [Kornhaus
+      ](https://kornhausforum.ch/de/about/kornhausforum/ "Kornhaus Bern")in Bern
+      stattfinden.
+
+
+      ### Let's Move!
+
+
+      ##### Bei Play 2024 wird es in diesem Jahr um  Games und um Bewegung
+      gehen. Wir zeigen alte und neue Tanz-, Exer- und andere Bewegungsgames und
+      laden wieder zu Workshops. Präsentationen und Talks ein. Kommen und
+      Mitspielen!
+
+
+      ### PlayBern-Kindergame-Preis
+
+
+      Auch in diesem Jahr schreiben wir wieder Preise aus für Games, die von
+      Kindern erstellt worden sind! Die Games werden in der
+      [Kornhausbibliothek](https://www.kob.ch/ "Kornhausbliothek") ausgestellt.
+
+
+      Jury ist das Publikum. [Erfahre hier
+      mehr!](https://playbern.ch/PlayBern-Kindergame-Preis-2024 "PlayBern
+      KIndergamespreis 2024")
     actions:
       - label: Bildergalerie
         type: button
@@ -34,7 +56,7 @@ blocks:
       alt: Festival für Games + Kultur
     _template: hero
   - body: >
-      ## Das PlayBern-Festival hat vom 15. – 17. 2023 September im[ PROGR,
+      ### Das PlayBern-Festival hat vom 15. – 17. 2023 September im[ PROGR,
       Zentrum für Kulturproduktionen](https://www.progr.ch/) in Bern
       stattgefunden.
 
@@ -75,8 +97,7 @@ blocks:
         description: ''
       - src: /uploads/partners/Logo_GVB_Kulturstiftung_quer_sw_pos.png
         alt: ''
-        link: >-
-          https://gvb.ch/de/gvb-gruppe/engagement/kulturstiftung.html?sliderIndex=0
+        link: ''
         description: ''
       - src: /uploads/partners/logo_hasler_stiftung_sw.png
         alt: ''
@@ -86,9 +107,9 @@ blocks:
         alt: ''
         link: ''
         description: ''
-      - src: /uploads/partners/Logo_DAM_CMYK_mitClaim-1536x582.png
+      - src: ''
         alt: ''
-        link: 'https://denkanmich.ch/'
+        link: ''
         description: ''
       - src: /uploads/partners/index-Kopie.jpg
         alt: ''
@@ -103,7 +124,7 @@ blocks:
     _template: partners
   - title: Unsere Superpartner!
     items:
-      - src: /uploads/partners/Asset-4@4x.png
+      - src: ''
         alt: Tatkraft
         link: 'https://tatkraft.org/'
         description: ''
