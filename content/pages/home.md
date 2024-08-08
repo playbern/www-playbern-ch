@@ -36,7 +36,7 @@ blocks:
 
 
       Jury ist das Publikum. [Erfahre hier
-      mehr!](https://playbern.ch/PlayBern-Kindergame-Preis-2024 "PlayBern
+      mehr!](/PlayBern-Kindergame-Preis-2024 "PlayBern
       KIndergamespreis 2024")
     actions:
       - label: Bildergalerie

@@ -7,7 +7,7 @@ blocks:
 
       * [Pressemitteilung, 25.8.2023](/uploads/2023/Medienmitteilung.pdf) (PDF)
 
-      * [Medienecho seit 2019](https://playbern.ch/medienecho)
+      * [Medienecho seit 2019](/medienecho)
 
 
       ## Kontakte 
