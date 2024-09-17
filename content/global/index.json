@@ -16,12 +16,12 @@
         "label": "Themen"
       },
       {
-        "href": "verein",
-        "label": "Verein"
-      },
-      {
         "href": "posts",
         "label": "Aktuell"
+      },
+      {
+        "href": "verein",
+        "label": "Verein"
       }
     ]
   },
